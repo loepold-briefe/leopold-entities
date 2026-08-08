@@ -15088,6 +15088,1102 @@
   "277": {
     "id": 277,
     "order": "36.97619047619047449871",
+    "lb_id": "lb-00202",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "label": "Johann Maximilian von Lamberg",
+        "lb_id": "lb-person-3",
+        "gnd_url": "https://d-nb.info/gnd/118823795",
+        "place_of_birth": [
+          {
+            "id": 3,
+            "order": "3.00000000000000000000",
+            "label": "Brno",
+            "lb_id": "lb-place-3",
+            "geonames_url": "https://www.geonames.org/3078610/brno.html",
+            "latitude": "49.19522",
+            "longitude": "16.60796",
+            "gnd_url": ""
+          }
+        ],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": ""
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1237, Fasz. 26, Nr. 481/1, fol. 1r‒v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "278": {
+    "id": 278,
+    "order": "36.97674418604650981024",
+    "lb_id": "lb-00203",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "label": "Johann Maximilian von Lamberg",
+        "lb_id": "lb-person-3",
+        "gnd_url": "https://d-nb.info/gnd/118823795",
+        "place_of_birth": [
+          {
+            "id": 3,
+            "order": "3.00000000000000000000",
+            "label": "Brno",
+            "lb_id": "lb-place-3",
+            "geonames_url": "https://www.geonames.org/3078610/brno.html",
+            "latitude": "49.19522",
+            "longitude": "16.60796",
+            "gnd_url": ""
+          }
+        ],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": ""
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1237, Fasz. 26, Nr. 481/2, fol. 2r‒v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "279": {
+    "id": 279,
+    "order": "36.97727272727272662678",
+    "lb_id": "lb-00204",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "label": "Johann Maximilian von Lamberg",
+        "lb_id": "lb-person-3",
+        "gnd_url": "https://d-nb.info/gnd/118823795",
+        "place_of_birth": [
+          {
+            "id": 3,
+            "order": "3.00000000000000000000",
+            "label": "Brno",
+            "lb_id": "lb-place-3",
+            "geonames_url": "https://www.geonames.org/3078610/brno.html",
+            "latitude": "49.19522",
+            "longitude": "16.60796",
+            "gnd_url": ""
+          }
+        ],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": ""
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1237, Fasz. 26, Nr. 481/4, fol. 7r‒8v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "280": {
+    "id": 280,
+    "order": "36.97777777777777430401",
+    "lb_id": "lb-00205",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "label": "Johann Maximilian von Lamberg",
+        "lb_id": "lb-person-3",
+        "gnd_url": "https://d-nb.info/gnd/118823795",
+        "place_of_birth": [
+          {
+            "id": 3,
+            "order": "3.00000000000000000000",
+            "label": "Brno",
+            "lb_id": "lb-place-3",
+            "geonames_url": "https://www.geonames.org/3078610/brno.html",
+            "latitude": "49.19522",
+            "longitude": "16.60796",
+            "gnd_url": ""
+          }
+        ],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1666-05-06",
+    "not_after": "1666-05-06",
+    "written_date": "6. Mai 1666",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": ""
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1237, Fasz. 26, Nr. 481/5, fol. 9r‒10v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
+        "gnd_url": ""
+      }
+    ],
+    "placename_written": "Laxenburg",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "281": {
+    "id": 281,
+    "order": "36.97826086956521862703",
+    "lb_id": "lb-00206",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "label": "Johann Maximilian von Lamberg",
+        "lb_id": "lb-person-3",
+        "gnd_url": "https://d-nb.info/gnd/118823795",
+        "place_of_birth": [
+          {
+            "id": 3,
+            "order": "3.00000000000000000000",
+            "label": "Brno",
+            "lb_id": "lb-place-3",
+            "geonames_url": "https://www.geonames.org/3078610/brno.html",
+            "latitude": "49.19522",
+            "longitude": "16.60796",
+            "gnd_url": ""
+          }
+        ],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1666-07-14",
+    "not_after": "1666-07-14",
+    "written_date": "14. Juli 1666",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": ""
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1237, Fasz. 26, Nr. 481/7, fol.12r‒13v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
+      }
+    ],
+    "placename_written": "W[ien]",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [
+      {
+        "id": 73,
+        "order": "15.00000000000000000000",
+        "label": "Baden",
+        "lb_id": "lb-place-73",
+        "geonames_url": "https://www.geonames.org/2782067/baden.html",
+        "latitude": "48.00543",
+        "longitude": "16.23264",
+        "gnd_url": ""
+      }
+    ],
+    "received_date": "1660-07-14",
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "282": {
+    "id": 282,
+    "order": "36.97872340425531945129",
+    "lb_id": "lb-00207",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "label": "Johann Maximilian von Lamberg",
+        "lb_id": "lb-person-3",
+        "gnd_url": "https://d-nb.info/gnd/118823795",
+        "place_of_birth": [
+          {
+            "id": 3,
+            "order": "3.00000000000000000000",
+            "label": "Brno",
+            "lb_id": "lb-place-3",
+            "geonames_url": "https://www.geonames.org/3078610/brno.html",
+            "latitude": "49.19522",
+            "longitude": "16.60796",
+            "gnd_url": ""
+          }
+        ],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1666-04-24",
+    "not_after": "1666-04-24",
+    "written_date": "24. April 1666",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": ""
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1237, Fasz. 26, Nr. 481/8, fol. 14r‒15v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
+      }
+    ],
+    "received_date": "1666-04-24",
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "283": {
+    "id": 283,
+    "order": "36.97916666666666429819",
+    "lb_id": "lb-00208",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "label": "Johann Maximilian von Lamberg",
+        "lb_id": "lb-person-3",
+        "gnd_url": "https://d-nb.info/gnd/118823795",
+        "place_of_birth": [
+          {
+            "id": 3,
+            "order": "3.00000000000000000000",
+            "label": "Brno",
+            "lb_id": "lb-place-3",
+            "geonames_url": "https://www.geonames.org/3078610/brno.html",
+            "latitude": "49.19522",
+            "longitude": "16.60796",
+            "gnd_url": ""
+          }
+        ],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-08-01",
+    "not_after": "1667-08-01",
+    "written_date": "1. August 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": ""
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1237, Fasz. 26, Nr. 481/9, fol. 16r‒17v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
+      }
+    ],
+    "placename_written": "[Wien]",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
+      }
+    ],
+    "received_date": "1667-08-01",
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "284": {
+    "id": 284,
+    "order": "36.97959183673469141240",
+    "lb_id": "lb-00209",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "label": "Johann Maximilian von Lamberg",
+        "lb_id": "lb-person-3",
+        "gnd_url": "https://d-nb.info/gnd/118823795",
+        "place_of_birth": [
+          {
+            "id": 3,
+            "order": "3.00000000000000000000",
+            "label": "Brno",
+            "lb_id": "lb-place-3",
+            "geonames_url": "https://www.geonames.org/3078610/brno.html",
+            "latitude": "49.19522",
+            "longitude": "16.60796",
+            "gnd_url": ""
+          }
+        ],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1666-10-17",
+    "not_after": "1666-10-17",
+    "written_date": "17. Oktober 1666",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": ""
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1237, Fasz. 26, Nr. 481/6, fol. 11r‒v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
+      }
+    ],
+    "placename_written": "[Wien]",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "285": {
+    "id": 285,
+    "order": "36.97999999999999687361",
+    "lb_id": "lb-00210",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "label": "Johann Maximilian von Lamberg",
+        "lb_id": "lb-person-3",
+        "gnd_url": "https://d-nb.info/gnd/118823795",
+        "place_of_birth": [
+          {
+            "id": 3,
+            "order": "3.00000000000000000000",
+            "label": "Brno",
+            "lb_id": "lb-place-3",
+            "geonames_url": "https://www.geonames.org/3078610/brno.html",
+            "latitude": "49.19522",
+            "longitude": "16.60796",
+            "gnd_url": ""
+          }
+        ],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-07-28",
+    "not_after": "1667-07-28",
+    "written_date": "28. Juli 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": ""
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1237, Fasz. 26, Nr. 481/, fol. ‒",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
+      }
+    ],
+    "placename_written": "[Wien]",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "286": {
+    "id": 286,
+    "order": "36.98039215686274161499",
     "lb_id": "",
     "sender": [
       {
@@ -15159,7 +16255,7 @@
       }
     ],
     "collection": "HA Steyr",
-    "signatur": "K. 1233, Fasz. 22, Nr. 366/",
+    "signatur": "K. 1237, Fasz. 26, Nr. 481/, fol. ‒",
     "kind": [
       {
         "id": 23015,
@@ -15181,37 +16277,15 @@
       "value": "nicht vorhanden",
       "color": "darker-red"
     },
-    "place_of_writing": [
-      {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
-        "gnd_url": ""
-      }
-    ],
-    "placename_written": "Wienn",
+    "place_of_writing": [],
+    "placename_written": "",
     "destination": [],
     "hand": [],
     "edition": [],
     "volume": "",
     "number": "",
     "page": "",
-    "received_place": [
-      {
-        "id": 72,
-        "order": "14.00000000000000000000",
-        "label": "Madrid",
-        "lb_id": "lb-place-72",
-        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
-        "latitude": "40.41650",
-        "longitude": "-3.70256",
-        "gnd_url": ""
-      }
-    ],
+    "received_place": [],
     "received_date": null,
     "images_on_share": false,
     "contributors": [],
