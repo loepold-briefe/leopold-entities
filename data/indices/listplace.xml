@@ -173,6 +173,37 @@
                <place xml:id="lb-place-145">
                   <placeName>Valladolid</placeName>
                </place>
+               <place xml:id="lb-place-146">
+                  <placeName>Steyr</placeName>
+                  <location type="coords">
+                     <geo>48.04274 14.42127</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2764359/</idno>
+               </place>
+               <place xml:id="lb-place-147">
+                  <placeName>Stockerau</placeName>
+               </place>
+               <place xml:id="lb-place-148">
+                  <placeName>Annaberg</placeName>
+               </place>
+               <place xml:id="lb-place-149">
+                  <placeName>Oberwaltersdorf</placeName>
+               </place>
+               <place xml:id="lb-place-150">
+                  <placeName>Mödling</placeName>
+               </place>
+               <place xml:id="lb-place-151">
+                  <placeName>Wiener Neudorf</placeName>
+               </place>
+               <place xml:id="lb-place-152">
+                  <placeName>Ober-Sankt-Veit</placeName>
+               </place>
+               <place xml:id="lb-place-153">
+                  <placeName>Mariazell</placeName>
+               </place>
+               <place xml:id="lb-place-154">
+                  <placeName>St. Pölten</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

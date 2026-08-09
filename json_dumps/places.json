@@ -228,5 +228,95 @@
     "latitude": null,
     "longitude": null,
     "gnd_url": ""
+  },
+  "146": {
+    "id": 146,
+    "order": "24.00000000000000000000",
+    "label": "Steyr",
+    "lb_id": "lb-place-146",
+    "geonames_url": "https://www.geonames.org/2764359/steyr.html",
+    "latitude": "48.04274",
+    "longitude": "14.42127",
+    "gnd_url": ""
+  },
+  "147": {
+    "id": 147,
+    "order": "25.00000000000000000000",
+    "label": "Stockerau",
+    "lb_id": "lb-place-147",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": ""
+  },
+  "148": {
+    "id": 148,
+    "order": "26.00000000000000000000",
+    "label": "Annaberg",
+    "lb_id": "lb-place-148",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": ""
+  },
+  "149": {
+    "id": 149,
+    "order": "27.00000000000000000000",
+    "label": "Oberwaltersdorf",
+    "lb_id": "lb-place-149",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": ""
+  },
+  "150": {
+    "id": 150,
+    "order": "28.00000000000000000000",
+    "label": "Mödling",
+    "lb_id": "lb-place-150",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": ""
+  },
+  "151": {
+    "id": 151,
+    "order": "29.00000000000000000000",
+    "label": "Wiener Neudorf",
+    "lb_id": "lb-place-151",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": ""
+  },
+  "152": {
+    "id": 152,
+    "order": "30.00000000000000000000",
+    "label": "Ober-Sankt-Veit",
+    "lb_id": "lb-place-152",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": ""
+  },
+  "153": {
+    "id": 153,
+    "order": "31.00000000000000000000",
+    "label": "Mariazell",
+    "lb_id": "lb-place-153",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": ""
+  },
+  "154": {
+    "id": 154,
+    "order": "32.00000000000000000000",
+    "label": "St. Pölten",
+    "lb_id": "lb-place-154",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": ""
   }
 }
