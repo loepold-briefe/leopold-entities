@@ -20,7 +20,8 @@
         "geonames_url": "https://sws.geonames.org/2772400/",
         "latitude": "48.30639",
         "longitude": "14.28611",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
@@ -47,7 +48,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "has_license": "",
@@ -74,7 +76,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "has_license": "",
@@ -96,12 +99,13 @@
       {
         "id": 69,
         "order": "11.00000000000000000000",
-        "label": "Praha",
+        "label": "Prag",
         "lb_id": "lb-place-69",
         "geonames_url": "https://www.geonames.org/3067696/prague.html",
         "latitude": "50.08804",
         "longitude": "14.42076",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": "Praha"
       }
     ],
     "has_license": "",

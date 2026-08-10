@@ -14,7 +14,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "date_of_birth": "1640-06-09",
@@ -52,12 +53,13 @@
       {
         "id": 3,
         "order": "3.00000000000000000000",
-        "label": "Brno",
+        "label": "Brünn",
         "lb_id": "lb-place-3",
         "geonames_url": "https://www.geonames.org/3078610/brno.html",
         "latitude": "49.19522",
         "longitude": "16.60796",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": "Brno"
       }
     ],
     "date_of_birth": null,
@@ -66,6 +68,46 @@
     "wikidata_url": "",
     "mentioned_letters - courier": [],
     "first_name": "Johann Maximilian von",
+    "last_name": "Lamberg",
+    "maiden_name": null
+  },
+  "78": {
+    "id": 78,
+    "order": "3.50000000000000000000",
+    "label": "Johann Philipp von Lamberg",
+    "lb_id": "lb-person-78",
+    "gnd_url": "https://d-nb.info/gnd/100242596",
+    "place_of_birth": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "date_of_birth": "1652-05-25",
+    "place_of_death": [
+      {
+        "id": 157,
+        "order": "35.00000000000000000000",
+        "label": "Regensburg",
+        "lb_id": "lb-place-157",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "date_of_death": "1712-10-20",
+    "wikidata_url": "",
+    "mentioned_letters - courier": [],
+    "first_name": "Johann Philipp von",
     "last_name": "Lamberg",
     "maiden_name": null
   },
@@ -84,7 +126,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "date_of_birth": null,
@@ -179,7 +222,7 @@
   "75": {
     "id": 75,
     "order": "11.00000000000000000000",
-    "label": "Maria Anna (Mariana) von Österreuch",
+    "label": "Maria Anna (Mariana) von Österreich",
     "lb_id": "lb-person-75",
     "gnd_url": "https://d-nb.info/gnd/118781863",
     "place_of_birth": [
@@ -191,7 +234,8 @@
         "geonames_url": "",
         "latitude": null,
         "longitude": null,
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "date_of_birth": "1634-12-22",
@@ -204,7 +248,8 @@
         "geonames_url": "https://www.geonames.org/3117735/madrid.html",
         "latitude": "40.41650",
         "longitude": "-3.70256",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "date_of_death": "1696-05-16",
@@ -229,7 +274,8 @@
         "geonames_url": "",
         "latitude": null,
         "longitude": null,
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "date_of_birth": "1605-04-08",
@@ -242,7 +288,8 @@
         "geonames_url": "https://www.geonames.org/3117735/madrid.html",
         "latitude": "40.41650",
         "longitude": "-3.70256",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "date_of_death": "1665-09-17",
@@ -255,17 +302,29 @@
   "77": {
     "id": 77,
     "order": "13.00000000000000000000",
-    "label": "",
+    "label": "Johann Ferdinand von Portia",
     "lb_id": "lb-person-77",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/120091569",
     "place_of_birth": [],
     "date_of_birth": null,
-    "place_of_death": [],
-    "date_of_death": null,
+    "place_of_death": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "date_of_death": "1665-02-19",
     "wikidata_url": "",
     "mentioned_letters - courier": [],
-    "first_name": null,
-    "last_name": null,
+    "first_name": "Johann Ferdinand von",
+    "last_name": "Portia",
     "maiden_name": null
   }
 }

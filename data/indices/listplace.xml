@@ -43,7 +43,7 @@
                   <idno type="geonames">https://sws.geonames.org/2772400/</idno>
                </place>
                <place xml:id="lb-place-3">
-                  <placeName>Brno</placeName>
+                  <placeName>Brünn</placeName>
                   <location type="coords">
                      <geo>49.19522 16.60796</geo>
                   </location>
@@ -57,7 +57,7 @@
                   <idno type="geonames">https://sws.geonames.org/2867714/</idno>
                </place>
                <place xml:id="lb-place-37">
-                  <placeName>Mantova</placeName>
+                  <placeName>Mantua</placeName>
                   <location type="coords">
                      <geo>45.16031 10.79784</geo>
                   </location>
@@ -99,7 +99,7 @@
                   <idno type="geonames">https://sws.geonames.org/2988507/</idno>
                </place>
                <place xml:id="lb-place-69">
-                  <placeName>Praha</placeName>
+                  <placeName>Prag</placeName>
                   <location type="coords">
                      <geo>50.08804 14.42076</geo>
                   </location>
@@ -203,6 +203,21 @@
                </place>
                <place xml:id="lb-place-154">
                   <placeName>St. Pölten</placeName>
+               </place>
+               <place xml:id="lb-place-155">
+                  <placeName>Iglau</placeName>
+               </place>
+               <place xml:id="lb-place-156">
+                  <placeName>Brandeis</placeName>
+               </place>
+               <place xml:id="lb-place-157">
+                  <placeName>Regensburg</placeName>
+               </place>
+               <place xml:id="lb-place-158">
+                  <placeName>Berlin</placeName>
+               </place>
+               <place xml:id="lb-place-159">
+                  <placeName>Mnischek</placeName>
                </place>
             </listPlace>
          </div>

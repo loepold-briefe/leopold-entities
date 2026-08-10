@@ -34,7 +34,7 @@
                   <desc>Den ersten Januarij 1657 ein brief <hi rend="del">in</hi> nach Mantova gschriben.</desc>
                   <listBibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-37">Mantova</rs>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-37">Mantua</rs>
                         </title>
                         <date>1657-01-01</date>
                      </bibl>
@@ -98,7 +98,7 @@
                   <desc>Den 20. ein brief auf Mantova geschriben.</desc>
                   <listBibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-37">Mantova</rs>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-37">Mantua</rs>
                         </title>
                         <date>1657-01-20</date>
                      </bibl>
@@ -243,7 +243,7 @@
                         <date>1657-04-06</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-37">Mantova</rs>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-37">Mantua</rs>
                         </title>
                         <date>1657-04-06</date>
                      </bibl>
@@ -436,7 +436,7 @@
                         <date>1657-07-11</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreuch</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreich</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1657-07-11</date>
                         <note>Adressatin erwähnt in lb-00113</note>
@@ -453,7 +453,7 @@
                         <date>1657-07-17</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-37">Mantova</rs>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-37">Mantua</rs>
                         </title>
                         <date>1657-07-17</date>
                      </bibl>
@@ -574,7 +574,7 @@
                         </title>
                         <date>1657-08-11</date>
                         <date type="correct_date">1657-08-10</date>
-                        <note>Das Schreiben datiert vom 10. August</note>
+                        <note>das Original datiert in Wirklichkeit vom 10. August</note>
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
@@ -634,10 +634,10 @@
                         </title>
                         <date>1657-08-22</date>
                         <date type="correct_date">1657-08-23</date>
-                        <note>Das Schreiben datiert vom 23. August.</note>
+                        <note>das Original datiert in Wirklichkeit vom 23. August.</note>
                      </bibl>
                      <bibl>
-                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreuch</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreich</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1657-08-22</date>
                         <note>Adressatin erwähnt in lb-00116</note>
@@ -745,7 +745,7 @@
                         <date>1657-09-12</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreuch</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreich</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1657-09-12</date>
                         <note>Adressatin erwähnt in lb-0018</note>
@@ -842,7 +842,7 @@
                         <date>1657-10-01</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-37">Mantova</rs>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-37">Mantua</rs>
                         </title>
                         <date>1657-10-01</date>
                      </bibl>
@@ -1063,7 +1063,7 @@
                         <date>1657-11-14</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreuch</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreich</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1657-11-14</date>
                         <note>Adressatin erwähnt in lb-00120</note>
@@ -1212,14 +1212,14 @@
                         </title>
                         <date>1657-12-18</date>
                         <date type="correct_date">1657-12-19</date>
-                        <note>Das Schreiben datiert vom 19. Dezember.</note>
+                        <note>das Original datiert in Wirklichkeit vom 19. Dezember.</note>
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1657-12-18</date>
                         <date type="correct_date">1657-12-19</date>
-                        <note>Das Schreiben datiert vom 19. Dezember.</note>
+                        <note>das Original datiert in Wirklichkeit vom 19. Dezember.</note>
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
@@ -1275,7 +1275,7 @@
                         <note>Adressat erwähnt in lb-00122</note>
                      </bibl>
                      <bibl>
-                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreuch</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreich</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1657-12-26</date>
                         <note>Adressatin erwähnt in lb-00122</note>

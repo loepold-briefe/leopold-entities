@@ -11,7 +11,7 @@
     "places": [
       {
         "id": 37,
-        "value": "Mantova",
+        "value": "Mantua",
         "order": "5.00000000000000000000"
       }
     ],
@@ -26,7 +26,7 @@
         "destination": [
           {
             "id": 37,
-            "value": "Mantova",
+            "value": "Mantua",
             "order": "5.00000000000000000000"
           }
         ],
@@ -260,7 +260,7 @@
     "places": [
       {
         "id": 37,
-        "value": "Mantova",
+        "value": "Mantua",
         "order": "5.00000000000000000000"
       }
     ],
@@ -275,7 +275,7 @@
         "destination": [
           {
             "id": 37,
-            "value": "Mantova",
+            "value": "Mantua",
             "order": "5.00000000000000000000"
           }
         ],
@@ -806,7 +806,7 @@
     "places": [
       {
         "id": 37,
-        "value": "Mantova",
+        "value": "Mantua",
         "order": "5.00000000000000000000"
       }
     ],
@@ -842,7 +842,7 @@
         "destination": [
           {
             "id": 37,
-            "value": "Mantova",
+            "value": "Mantua",
             "order": "5.00000000000000000000"
           }
         ],
@@ -1532,7 +1532,7 @@
         "addressee_worked_out": [
           {
             "id": 75,
-            "value": "Maria Anna (Mariana) von Österreuch",
+            "value": "Maria Anna (Mariana) von Österreich",
             "order": "11.00000000000000000000"
           }
         ],
@@ -1584,7 +1584,7 @@
         "destination": [
           {
             "id": 37,
-            "value": "Mantova",
+            "value": "Mantua",
             "order": "5.00000000000000000000"
           }
         ],
@@ -2001,7 +2001,7 @@
           }
         ],
         "dictated_letter": false,
-        "note": "Das Schreiben datiert vom 10. August",
+        "note": "das Original datiert in Wirklichkeit vom 10. August",
         "addressee_worked_out": [],
         "original_letter": [
           {
@@ -2214,7 +2214,7 @@
           }
         ],
         "dictated_letter": false,
-        "note": "Das Schreiben datiert vom 23. August.",
+        "note": "das Original datiert in Wirklichkeit vom 23. August.",
         "addressee_worked_out": [],
         "original_letter": [
           {
@@ -2245,7 +2245,7 @@
         "addressee_worked_out": [
           {
             "id": 75,
-            "value": "Maria Anna (Mariana) von Österreuch",
+            "value": "Maria Anna (Mariana) von Österreich",
             "order": "11.00000000000000000000"
           }
         ],
@@ -2637,7 +2637,7 @@
         "addressee_worked_out": [
           {
             "id": 75,
-            "value": "Maria Anna (Mariana) von Österreuch",
+            "value": "Maria Anna (Mariana) von Österreich",
             "order": "11.00000000000000000000"
           }
         ],
@@ -2964,7 +2964,7 @@
         "destination": [
           {
             "id": 37,
-            "value": "Mantova",
+            "value": "Mantua",
             "order": "5.00000000000000000000"
           }
         ],
@@ -3767,7 +3767,7 @@
         "addressee_worked_out": [
           {
             "id": 75,
-            "value": "Maria Anna (Mariana) von Österreuch",
+            "value": "Maria Anna (Mariana) von Österreich",
             "order": "11.00000000000000000000"
           }
         ],
@@ -4264,7 +4264,7 @@
           }
         ],
         "dictated_letter": false,
-        "note": "Das Schreiben datiert vom 19. Dezember.",
+        "note": "das Original datiert in Wirklichkeit vom 19. Dezember.",
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": "1657-12-19",
@@ -4285,7 +4285,7 @@
           }
         ],
         "dictated_letter": false,
-        "note": "Das Schreiben datiert vom 19. Dezember.",
+        "note": "das Original datiert in Wirklichkeit vom 19. Dezember.",
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": "1657-12-19",
@@ -4510,7 +4510,7 @@
         "addressee_worked_out": [
           {
             "id": 75,
-            "value": "Maria Anna (Mariana) von Österreuch",
+            "value": "Maria Anna (Mariana) von Österreich",
             "order": "11.00000000000000000000"
           }
         ],

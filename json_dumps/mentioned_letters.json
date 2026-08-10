@@ -10,12 +10,13 @@
       {
         "id": 37,
         "order": "5.00000000000000000000",
-        "label": "Mantova",
+        "label": "Mantua",
         "lb_id": "lb-place-37",
         "geonames_url": "https://www.geonames.org/3174051/mantua.html",
         "latitude": "45.16031",
         "longitude": "10.79784",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": "Mantova"
       }
     ],
     "dictated_letter": false,
@@ -41,7 +42,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -67,7 +69,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -93,7 +96,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -119,7 +123,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -145,7 +150,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -171,7 +177,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -197,7 +204,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -218,12 +226,13 @@
       {
         "id": 37,
         "order": "5.00000000000000000000",
-        "label": "Mantova",
+        "label": "Mantua",
         "lb_id": "lb-place-37",
         "geonames_url": "https://www.geonames.org/3174051/mantua.html",
         "latitude": "45.16031",
         "longitude": "10.79784",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": "Mantova"
       }
     ],
     "dictated_letter": false,
@@ -249,7 +258,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -275,7 +285,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -301,7 +312,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -327,7 +339,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -353,7 +366,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -379,7 +393,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -405,7 +420,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -431,7 +447,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -457,7 +474,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -483,7 +501,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -509,7 +528,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -535,7 +555,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -561,7 +582,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -587,7 +609,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -613,7 +636,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -639,7 +663,8 @@
         "geonames_url": "https://www.geonames.org/798544/republic-of-poland.html",
         "latitude": "52.00000",
         "longitude": "20.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -660,12 +685,13 @@
       {
         "id": 37,
         "order": "5.00000000000000000000",
-        "label": "Mantova",
+        "label": "Mantua",
         "lb_id": "lb-place-37",
         "geonames_url": "https://www.geonames.org/3174051/mantua.html",
         "latitude": "45.16031",
         "longitude": "10.79784",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": "Mantova"
       }
     ],
     "dictated_letter": false,
@@ -691,7 +717,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -717,7 +744,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -743,7 +771,8 @@
         "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
         "latitude": "46.00000",
         "longitude": "2.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -769,7 +798,8 @@
         "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
         "latitude": "46.00000",
         "longitude": "2.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -795,7 +825,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -821,7 +852,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -847,7 +879,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -873,7 +906,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -899,7 +933,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -925,7 +960,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -951,7 +987,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -977,7 +1014,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1003,7 +1041,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1029,7 +1068,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1055,7 +1095,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1081,7 +1122,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1107,7 +1149,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1133,7 +1176,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1159,7 +1203,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1185,7 +1230,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1211,7 +1257,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1237,7 +1284,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1269,7 +1317,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1278,7 +1327,7 @@
       {
         "id": 75,
         "order": "11.00000000000000000000",
-        "label": "Maria Anna (Mariana) von Österreuch",
+        "label": "Maria Anna (Mariana) von Österreich",
         "lb_id": "lb-person-75",
         "gnd_url": "https://d-nb.info/gnd/118781863",
         "place_of_birth": [
@@ -1324,7 +1373,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1345,12 +1395,13 @@
       {
         "id": 37,
         "order": "5.00000000000000000000",
-        "label": "Mantova",
+        "label": "Mantua",
         "lb_id": "lb-place-37",
         "geonames_url": "https://www.geonames.org/3174051/mantua.html",
         "latitude": "45.16031",
         "longitude": "10.79784",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": "Mantova"
       }
     ],
     "dictated_letter": false,
@@ -1376,7 +1427,8 @@
         "geonames_url": "",
         "latitude": null,
         "longitude": null,
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1402,7 +1454,8 @@
         "geonames_url": "https://www.geonames.org/2867714/munich.html",
         "latitude": "48.13743",
         "longitude": "11.57549",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1428,7 +1481,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1454,7 +1508,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1480,7 +1535,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1506,7 +1562,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1532,7 +1589,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1558,7 +1616,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1584,7 +1643,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1610,7 +1670,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1642,7 +1703,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1668,7 +1730,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1694,7 +1757,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1720,7 +1784,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1746,11 +1811,12 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
-    "note": "Das Schreiben datiert vom 10. August",
+    "note": "das Original datiert in Wirklichkeit vom 10. August",
     "addressee_worked_out": [],
     "original_letter": [
       {
@@ -1778,7 +1844,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1804,7 +1871,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1830,7 +1898,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1856,7 +1925,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1882,7 +1952,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1908,7 +1979,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1934,7 +2006,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -1960,11 +2033,12 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
-    "note": "Das Schreiben datiert vom 23. August.",
+    "note": "das Original datiert in Wirklichkeit vom 23. August.",
     "addressee_worked_out": [],
     "original_letter": [
       {
@@ -1992,7 +2066,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2001,7 +2076,7 @@
       {
         "id": 75,
         "order": "11.00000000000000000000",
-        "label": "Maria Anna (Mariana) von Österreuch",
+        "label": "Maria Anna (Mariana) von Österreich",
         "lb_id": "lb-person-75",
         "gnd_url": "https://d-nb.info/gnd/118781863",
         "place_of_birth": [
@@ -2047,7 +2122,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2073,7 +2149,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2099,7 +2176,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2125,7 +2203,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2151,7 +2230,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2177,7 +2257,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2203,7 +2284,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2229,7 +2311,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2255,7 +2338,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2281,7 +2365,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2307,7 +2392,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2333,7 +2419,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2359,7 +2446,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2385,7 +2473,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2417,7 +2506,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2426,7 +2516,7 @@
       {
         "id": 75,
         "order": "11.00000000000000000000",
-        "label": "Maria Anna (Mariana) von Österreuch",
+        "label": "Maria Anna (Mariana) von Österreich",
         "lb_id": "lb-person-75",
         "gnd_url": "https://d-nb.info/gnd/118781863",
         "place_of_birth": [
@@ -2472,7 +2562,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2498,7 +2589,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2524,7 +2616,8 @@
         "geonames_url": "https://www.geonames.org/2867714/munich.html",
         "latitude": "48.13743",
         "longitude": "11.57549",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2550,7 +2643,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2576,7 +2670,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2602,7 +2697,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2628,7 +2724,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2654,7 +2751,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2680,7 +2778,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2706,7 +2805,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2732,7 +2832,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2753,12 +2854,13 @@
       {
         "id": 37,
         "order": "5.00000000000000000000",
-        "label": "Mantova",
+        "label": "Mantua",
         "lb_id": "lb-place-37",
         "geonames_url": "https://www.geonames.org/3174051/mantua.html",
         "latitude": "45.16031",
         "longitude": "10.79784",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": "Mantova"
       }
     ],
     "dictated_letter": false,
@@ -2784,7 +2886,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2810,7 +2913,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2836,7 +2940,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2862,7 +2967,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2888,7 +2994,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2914,7 +3021,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2940,7 +3048,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2966,7 +3075,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -2992,7 +3102,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3018,7 +3129,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3044,7 +3156,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3070,7 +3183,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3096,7 +3210,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3122,7 +3237,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3148,7 +3264,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3174,7 +3291,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3200,7 +3318,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3226,7 +3345,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3252,7 +3372,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3278,7 +3399,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3304,7 +3426,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3330,7 +3453,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3356,7 +3480,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3382,7 +3507,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3408,7 +3534,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3434,7 +3561,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3460,7 +3588,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3486,7 +3615,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3512,7 +3642,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3538,7 +3669,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3564,7 +3696,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3573,7 +3706,7 @@
       {
         "id": 75,
         "order": "11.00000000000000000000",
-        "label": "Maria Anna (Mariana) von Österreuch",
+        "label": "Maria Anna (Mariana) von Österreich",
         "lb_id": "lb-person-75",
         "gnd_url": "https://d-nb.info/gnd/118781863",
         "place_of_birth": [
@@ -3619,7 +3752,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3645,7 +3779,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3671,7 +3806,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3697,7 +3833,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3723,7 +3860,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3749,7 +3887,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3775,7 +3914,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3801,7 +3941,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3827,7 +3968,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3853,7 +3995,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3879,7 +4022,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3905,7 +4049,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3931,7 +4076,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3957,7 +4103,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -3983,7 +4130,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -4009,7 +4157,8 @@
         "geonames_url": "https://www.geonames.org/2867714/munich.html",
         "latitude": "48.13743",
         "longitude": "11.57549",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -4035,7 +4184,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -4061,11 +4211,12 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
-    "note": "Das Schreiben datiert vom 19. Dezember.",
+    "note": "das Original datiert in Wirklichkeit vom 19. Dezember.",
     "addressee_worked_out": [],
     "original_letter": [],
     "correct_date": "1657-12-19",
@@ -4087,11 +4238,12 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
-    "note": "Das Schreiben datiert vom 19. Dezember.",
+    "note": "das Original datiert in Wirklichkeit vom 19. Dezember.",
     "addressee_worked_out": [],
     "original_letter": [],
     "correct_date": "1657-12-19",
@@ -4113,7 +4265,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -4139,7 +4292,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -4165,7 +4319,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -4191,7 +4346,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -4217,7 +4373,8 @@
         "geonames_url": "https://www.geonames.org/2867714/munich.html",
         "latitude": "48.13743",
         "longitude": "11.57549",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -4243,7 +4400,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -4269,7 +4427,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -4295,7 +4454,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -4350,7 +4510,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -4359,7 +4520,7 @@
       {
         "id": 75,
         "order": "11.00000000000000000000",
-        "label": "Maria Anna (Mariana) von Österreuch",
+        "label": "Maria Anna (Mariana) von Österreich",
         "lb_id": "lb-person-75",
         "gnd_url": "https://d-nb.info/gnd/118781863",
         "place_of_birth": [
@@ -4405,7 +4566,8 @@
         "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
         "latitude": "40.00000",
         "longitude": "-4.00000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -4431,7 +4593,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -4457,7 +4620,8 @@
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "latitude": "49.00000",
         "longitude": "11.50000",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -4483,7 +4647,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -4509,7 +4674,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -4535,7 +4701,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -4561,7 +4728,8 @@
         "geonames_url": "",
         "latitude": null,
         "longitude": null,
-        "gnd_url": ""
+        "gnd_url": "",
+        "endonym": null
       }
     ],
     "dictated_letter": false,

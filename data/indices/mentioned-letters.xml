@@ -22,13 +22,13 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <correspDesc xml:id="lb-ml-1" n="Leopold I. an Unbekannt am 1657-01-01 (Mantova)">
+         <correspDesc xml:id="lb-ml-1" n="Leopold I. an Unbekannt am 1657-01-01 (Mantua)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1657-01-01">1657-01-01</date>
             </correspAction>
             <correspAction type="received">
-               <placeName type="destination" key="lb-place-37" ref="https://www.geonames.org/3174051/mantua.html">Mantova</placeName>
+               <placeName type="destination" key="lb-place-37" ref="https://www.geonames.org/3174051/mantua.html">Mantua</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc xml:id="lb-ml-2" n="Leopold I. an Unbekannt am 1657-01-03 (Bayern)">
@@ -94,13 +94,13 @@
                <placeName type="destination" key="lb-place-38" ref="https://www.geonames.org/2951839/bavaria.html">Bayern</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-9" n="Leopold I. an Unbekannt am 1657-01-20 (Mantova)">
+         <correspDesc xml:id="lb-ml-9" n="Leopold I. an Unbekannt am 1657-01-20 (Mantua)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1657-01-20">1657-01-20</date>
             </correspAction>
             <correspAction type="received">
-               <placeName type="destination" key="lb-place-37" ref="https://www.geonames.org/3174051/mantua.html">Mantova</placeName>
+               <placeName type="destination" key="lb-place-37" ref="https://www.geonames.org/3174051/mantua.html">Mantua</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc xml:id="lb-ml-10" n="Leopold I. an Unbekannt am 1657-01-31 (Bayern)">
@@ -247,13 +247,13 @@
                <placeName type="destination" key="lb-place-40" ref="https://www.geonames.org/798544/republic-of-poland.html">Polen</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-26" n="Leopold I. an Unbekannt am 1657-04-06 (Mantova)">
+         <correspDesc xml:id="lb-ml-26" n="Leopold I. an Unbekannt am 1657-04-06 (Mantua)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1657-04-06">1657-04-06</date>
             </correspAction>
             <correspAction type="received">
-               <placeName type="destination" key="lb-place-37" ref="https://www.geonames.org/3174051/mantua.html">Mantova</placeName>
+               <placeName type="destination" key="lb-place-37" ref="https://www.geonames.org/3174051/mantua.html">Mantua</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc xml:id="lb-ml-27" n="Leopold I. an Unbekannt am 1657-04-07 (Spanien)">
@@ -454,13 +454,13 @@
                <placeName type="destination" key="lb-place-39" ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spanien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-49" n="Leopold I. an Maria Anna (Mariana) von Österreuch am 1657-07-11 (Spanien)">
+         <correspDesc xml:id="lb-ml-49" n="Leopold I. an Maria Anna (Mariana) von Österreich am 1657-07-11 (Spanien)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1657-07-11">1657-07-11</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_worked_out" key="lb-person-75" ref="https://d-nb.info/gnd/118781863">Maria Anna (Mariana) von Österreuch</persName>
+               <persName type="addressee_worked_out" key="lb-person-75" ref="https://d-nb.info/gnd/118781863">Maria Anna (Mariana) von Österreich</persName>
                <placeName type="destination" key="lb-place-39" ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spanien</placeName>
             </correspAction>
             <note type="anmerkung">Adressatin erwähnt in lb-00113</note>
@@ -474,13 +474,13 @@
                <placeName type="destination" key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-51" n="Leopold I. an Unbekannt am 1657-07-17 (Mantova)">
+         <correspDesc xml:id="lb-ml-51" n="Leopold I. an Unbekannt am 1657-07-17 (Mantua)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1657-07-17">1657-07-17</date>
             </correspAction>
             <correspAction type="received">
-               <placeName type="destination" key="lb-place-37" ref="https://www.geonames.org/3174051/mantua.html">Mantova</placeName>
+               <placeName type="destination" key="lb-place-37" ref="https://www.geonames.org/3174051/mantua.html">Mantua</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc xml:id="lb-ml-52" n="Leopold I. an Unbekannt am 1657-07-20 (Sachsen)">
@@ -617,7 +617,7 @@
             <correspAction type="received">
                <placeName type="destination" key="lb-place-39" ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spanien</placeName>
             </correspAction>
-            <note type="anmerkung">Das Schreiben datiert vom 10. August</note>
+            <note type="anmerkung">das Original datiert in Wirklichkeit vom 10. August</note>
          </correspDesc>
          <correspDesc xml:id="lb-ml-67" n="Leopold I. an Unbekannt am 1657-08-11 (Spanien)">
             <correspAction type="sent">
@@ -690,15 +690,15 @@
             <correspAction type="received">
                <placeName type="destination" key="lb-place-39" ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spanien</placeName>
             </correspAction>
-            <note type="anmerkung">Das Schreiben datiert vom 23. August.</note>
+            <note type="anmerkung">das Original datiert in Wirklichkeit vom 23. August.</note>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-75" n="Leopold I. an Maria Anna (Mariana) von Österreuch am 1657-08-22 (Spanien)">
+         <correspDesc xml:id="lb-ml-75" n="Leopold I. an Maria Anna (Mariana) von Österreich am 1657-08-22 (Spanien)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1657-08-22">1657-08-22</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_worked_out" key="lb-person-75" ref="https://d-nb.info/gnd/118781863">Maria Anna (Mariana) von Österreuch</persName>
+               <persName type="addressee_worked_out" key="lb-person-75" ref="https://d-nb.info/gnd/118781863">Maria Anna (Mariana) von Österreich</persName>
                <placeName type="destination" key="lb-place-39" ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spanien</placeName>
             </correspAction>
             <note type="anmerkung">Adressatin erwähnt in lb-00116</note>
@@ -829,13 +829,13 @@
                <placeName type="destination" key="lb-place-39" ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spanien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-90" n="Leopold I. an Maria Anna (Mariana) von Österreuch am 1657-09-12 (Spanien)">
+         <correspDesc xml:id="lb-ml-90" n="Leopold I. an Maria Anna (Mariana) von Österreich am 1657-09-12 (Spanien)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1657-09-12">1657-09-12</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_worked_out" key="lb-person-75" ref="https://d-nb.info/gnd/118781863">Maria Anna (Mariana) von Österreuch</persName>
+               <persName type="addressee_worked_out" key="lb-person-75" ref="https://d-nb.info/gnd/118781863">Maria Anna (Mariana) von Österreich</persName>
                <placeName type="destination" key="lb-place-39" ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spanien</placeName>
             </correspAction>
             <note type="anmerkung">Adressatin erwähnt in lb-0018</note>
@@ -939,13 +939,13 @@
                <placeName type="destination" key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-102" n="Leopold I. an Unbekannt am 1657-10-01 (Mantova)">
+         <correspDesc xml:id="lb-ml-102" n="Leopold I. an Unbekannt am 1657-10-01 (Mantua)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1657-10-01">1657-10-01</date>
             </correspAction>
             <correspAction type="received">
-               <placeName type="destination" key="lb-place-37" ref="https://www.geonames.org/3174051/mantua.html">Mantova</placeName>
+               <placeName type="destination" key="lb-place-37" ref="https://www.geonames.org/3174051/mantua.html">Mantua</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc xml:id="lb-ml-103" n="Leopold I. an Unbekannt am 1657-10-10 (Wien)">
@@ -1218,13 +1218,13 @@
                <placeName type="destination" key="lb-place-39" ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spanien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-133" n="Leopold I. an Maria Anna (Mariana) von Österreuch am 1657-11-14 (Spanien)">
+         <correspDesc xml:id="lb-ml-133" n="Leopold I. an Maria Anna (Mariana) von Österreich am 1657-11-14 (Spanien)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1657-11-14">1657-11-14</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_worked_out" key="lb-person-75" ref="https://d-nb.info/gnd/118781863">Maria Anna (Mariana) von Österreuch</persName>
+               <persName type="addressee_worked_out" key="lb-person-75" ref="https://d-nb.info/gnd/118781863">Maria Anna (Mariana) von Österreich</persName>
                <placeName type="destination" key="lb-place-39" ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spanien</placeName>
             </correspAction>
             <note type="anmerkung">Adressatin erwähnt in lb-00120</note>
@@ -1390,7 +1390,7 @@
             <correspAction type="received">
                <placeName type="destination" key="lb-place-39" ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spanien</placeName>
             </correspAction>
-            <note type="anmerkung">Das Schreiben datiert vom 19. Dezember.</note>
+            <note type="anmerkung">das Original datiert in Wirklichkeit vom 19. Dezember.</note>
          </correspDesc>
          <correspDesc xml:id="lb-ml-152" n="Leopold I. an Unbekannt am 1657-12-19 (Spanien)">
             <correspAction type="sent">
@@ -1400,7 +1400,7 @@
             <correspAction type="received">
                <placeName type="destination" key="lb-place-39" ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spanien</placeName>
             </correspAction>
-            <note type="anmerkung">Das Schreiben datiert vom 19. Dezember.</note>
+            <note type="anmerkung">das Original datiert in Wirklichkeit vom 19. Dezember.</note>
          </correspDesc>
          <correspDesc xml:id="lb-ml-153" n="Leopold I. an Unbekannt am 1657-12-18 (Spanien)">
             <correspAction type="sent">
@@ -1476,13 +1476,13 @@
             </correspAction>
             <note type="anmerkung">Adressat erwähnt in lb-00122</note>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-161" n="Leopold I. an Maria Anna (Mariana) von Österreuch am 1657-12-26 (Spanien)">
+         <correspDesc xml:id="lb-ml-161" n="Leopold I. an Maria Anna (Mariana) von Österreich am 1657-12-26 (Spanien)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1657-12-26">1657-12-26</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_worked_out" key="lb-person-75" ref="https://d-nb.info/gnd/118781863">Maria Anna (Mariana) von Österreuch</persName>
+               <persName type="addressee_worked_out" key="lb-person-75" ref="https://d-nb.info/gnd/118781863">Maria Anna (Mariana) von Österreich</persName>
                <placeName type="destination" key="lb-place-39" ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spanien</placeName>
             </correspAction>
             <note type="anmerkung">Adressatin erwähnt in lb-00122</note>

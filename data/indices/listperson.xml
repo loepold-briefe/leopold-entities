@@ -59,12 +59,34 @@
                   </persName>
                   <birth>
                      <settlement key="lb-place-3">
-                        <placeName>Brno</placeName>
+                        <placeName>Brünn</placeName>
                         <geo>49.19522 16.60796</geo>
                         <idno type="geonames">https://sws.geonames.org/3078610/</idno>
                      </settlement>
                   </birth>
                   <idno type="gnd">https://d-nb.info/gnd/118823795</idno>
+               </person>
+               <person xml:id="lb-person-78" n="Johann Philipp von Lamberg">
+                  <persName type="preferred">Johann Philipp von Lamberg</persName>
+                  <persName type="parts">
+                     <forename>Johann Philipp von</forename>
+                     <surname>Lamberg</surname>
+                  </persName>
+                  <birth>
+                     <date>1652-05-25</date>
+                     <settlement key="lb-place-1">
+                        <placeName>Wien</placeName>
+                        <geo>48.20849 16.37208</geo>
+                        <idno type="geonames">https://sws.geonames.org/2761369/</idno>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1712-10-20</date>
+                     <settlement key="lb-place-157">
+                        <placeName>Regensburg</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/100242596</idno>
                </person>
                <person xml:id="lb-person-4" n="Franz Ulrich Kinsky">
                   <persName type="preferred">Franz Ulrich Kinsky</persName>
@@ -121,8 +143,8 @@
                   </persName>
                   <idno type="gnd">https://d-nb.info/gnd/117216089</idno>
                </person>
-               <person xml:id="lb-person-75" n="Maria Anna (Mariana) von Österreuch">
-                  <persName type="preferred">Maria Anna (Mariana) von Österreuch</persName>
+               <person xml:id="lb-person-75" n="Maria Anna (Mariana) von Österreich">
+                  <persName type="preferred">Maria Anna (Mariana) von Österreich</persName>
                   <persName type="parts">
                      <forename>None</forename>
                      <surname>Maria Anna</surname>
@@ -165,8 +187,21 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118593870</idno>
                </person>
-               <person xml:id="lb-person-77" n="">
-                  <persName type="preferred"/>
+               <person xml:id="lb-person-77" n="Johann Ferdinand von Portia">
+                  <persName type="preferred">Johann Ferdinand von Portia</persName>
+                  <persName type="parts">
+                     <forename>Johann Ferdinand von</forename>
+                     <surname>Portia</surname>
+                  </persName>
+                  <death>
+                     <date>1665-02-19</date>
+                     <settlement key="lb-place-1">
+                        <placeName>Wien</placeName>
+                        <geo>48.20849 16.37208</geo>
+                        <idno type="geonames">https://sws.geonames.org/2761369/</idno>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/120091569</idno>
                </person>
             </listPerson>
          </div>

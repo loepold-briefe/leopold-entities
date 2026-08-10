@@ -7,7 +7,8 @@
     "geonames_url": "https://sws.geonames.org/2761369/",
     "latitude": "48.20849",
     "longitude": "16.37208",
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "2": {
     "id": 2,
@@ -17,17 +18,19 @@
     "geonames_url": "https://sws.geonames.org/2772400/",
     "latitude": "48.30639",
     "longitude": "14.28611",
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "label": "Brno",
+    "label": "Brünn",
     "lb_id": "lb-place-3",
     "geonames_url": "https://www.geonames.org/3078610/brno.html",
     "latitude": "49.19522",
     "longitude": "16.60796",
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": "Brno"
   },
   "36": {
     "id": 36,
@@ -37,17 +40,19 @@
     "geonames_url": "https://www.geonames.org/2867714/munich.html",
     "latitude": "48.13743",
     "longitude": "11.57549",
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "37": {
     "id": 37,
     "order": "5.00000000000000000000",
-    "label": "Mantova",
+    "label": "Mantua",
     "lb_id": "lb-place-37",
     "geonames_url": "https://www.geonames.org/3174051/mantua.html",
     "latitude": "45.16031",
     "longitude": "10.79784",
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": "Mantova"
   },
   "38": {
     "id": 38,
@@ -57,7 +62,8 @@
     "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
     "latitude": "49.00000",
     "longitude": "11.50000",
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "39": {
     "id": 39,
@@ -67,7 +73,8 @@
     "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
     "latitude": "40.00000",
     "longitude": "-4.00000",
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "40": {
     "id": 40,
@@ -77,7 +84,8 @@
     "geonames_url": "https://www.geonames.org/798544/republic-of-poland.html",
     "latitude": "52.00000",
     "longitude": "20.00000",
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "41": {
     "id": 41,
@@ -87,7 +95,8 @@
     "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
     "latitude": "46.00000",
     "longitude": "2.00000",
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "42": {
     "id": 42,
@@ -97,17 +106,19 @@
     "geonames_url": "https://www.geonames.org/2988507/paris.html",
     "latitude": "48.85341",
     "longitude": "2.34880",
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "69": {
     "id": 69,
     "order": "11.00000000000000000000",
-    "label": "Praha",
+    "label": "Prag",
     "lb_id": "lb-place-69",
     "geonames_url": "https://www.geonames.org/3067696/prague.html",
     "latitude": "50.08804",
     "longitude": "14.42076",
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": "Praha"
   },
   "70": {
     "id": 70,
@@ -117,7 +128,8 @@
     "geonames_url": "https://www.geonames.org/12500696/jagd-schloss-ebersdorf.html",
     "latitude": "48.16005",
     "longitude": "16.47343",
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "71": {
     "id": 71,
@@ -127,7 +139,8 @@
     "geonames_url": "https://www.geonames.org/3060972/bratislava.html",
     "latitude": "48.14816",
     "longitude": "17.10674",
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": "Prešporok (heute Bratislava)"
   },
   "72": {
     "id": 72,
@@ -137,7 +150,8 @@
     "geonames_url": "https://www.geonames.org/3117735/madrid.html",
     "latitude": "40.41650",
     "longitude": "-3.70256",
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "73": {
     "id": 73,
@@ -147,7 +161,8 @@
     "geonames_url": "https://www.geonames.org/2782067/baden.html",
     "latitude": "48.00543",
     "longitude": "16.23264",
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "74": {
     "id": 74,
@@ -157,7 +172,8 @@
     "geonames_url": "https://www.geonames.org/2955272/aschaffenburg.html",
     "latitude": "49.97704",
     "longitude": "9.15214",
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "75": {
     "id": 75,
@@ -167,7 +183,8 @@
     "geonames_url": "https://www.geonames.org/2925533/frankfurt-am-main.html",
     "latitude": "50.11552",
     "longitude": "8.68417",
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "108": {
     "id": 108,
@@ -177,7 +194,8 @@
     "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
     "latitude": "48.06667",
     "longitude": "16.36667",
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "109": {
     "id": 109,
@@ -187,7 +205,8 @@
     "geonames_url": "https://www.geonames.org/2778067/graz.html",
     "latitude": "47.06733",
     "longitude": "15.44197",
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "142": {
     "id": 142,
@@ -197,7 +216,8 @@
     "geonames_url": "",
     "latitude": null,
     "longitude": null,
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "143": {
     "id": 143,
@@ -207,7 +227,8 @@
     "geonames_url": "",
     "latitude": null,
     "longitude": null,
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "144": {
     "id": 144,
@@ -217,7 +238,8 @@
     "geonames_url": "",
     "latitude": null,
     "longitude": null,
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "145": {
     "id": 145,
@@ -227,7 +249,8 @@
     "geonames_url": "",
     "latitude": null,
     "longitude": null,
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "146": {
     "id": 146,
@@ -237,7 +260,8 @@
     "geonames_url": "https://www.geonames.org/2764359/steyr.html",
     "latitude": "48.04274",
     "longitude": "14.42127",
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "147": {
     "id": 147,
@@ -247,7 +271,8 @@
     "geonames_url": "",
     "latitude": null,
     "longitude": null,
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "148": {
     "id": 148,
@@ -257,7 +282,8 @@
     "geonames_url": "",
     "latitude": null,
     "longitude": null,
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "149": {
     "id": 149,
@@ -267,7 +293,8 @@
     "geonames_url": "",
     "latitude": null,
     "longitude": null,
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "150": {
     "id": 150,
@@ -277,7 +304,8 @@
     "geonames_url": "",
     "latitude": null,
     "longitude": null,
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "151": {
     "id": 151,
@@ -287,7 +315,8 @@
     "geonames_url": "",
     "latitude": null,
     "longitude": null,
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "152": {
     "id": 152,
@@ -297,7 +326,8 @@
     "geonames_url": "",
     "latitude": null,
     "longitude": null,
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "153": {
     "id": 153,
@@ -307,7 +337,8 @@
     "geonames_url": "",
     "latitude": null,
     "longitude": null,
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
   },
   "154": {
     "id": 154,
@@ -317,6 +348,62 @@
     "geonames_url": "",
     "latitude": null,
     "longitude": null,
-    "gnd_url": ""
+    "gnd_url": "",
+    "endonym": null
+  },
+  "155": {
+    "id": 155,
+    "order": "33.00000000000000000000",
+    "label": "Iglau",
+    "lb_id": "lb-place-155",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": "Jihlava"
+  },
+  "156": {
+    "id": 156,
+    "order": "34.00000000000000000000",
+    "label": "Brandeis",
+    "lb_id": "lb-place-156",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": "Brandýs nad Labem"
+  },
+  "157": {
+    "id": 157,
+    "order": "35.00000000000000000000",
+    "label": "Regensburg",
+    "lb_id": "lb-place-157",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "158": {
+    "id": 158,
+    "order": "36.00000000000000000000",
+    "label": "Berlin",
+    "lb_id": "lb-place-158",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "159": {
+    "id": 159,
+    "order": "37.00000000000000000000",
+    "label": "Mnischek",
+    "lb_id": "lb-place-159",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": "Mníšek pod Brdy"
   }
 }
