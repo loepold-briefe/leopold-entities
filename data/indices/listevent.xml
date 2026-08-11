@@ -1325,7 +1325,7 @@
                </event>
                <event xml:id="lb-cal-104">
                   <label>1658-01-02</label>
-                  <desc>Den a 2 ten Januarij 1658 Jhars 2 brief in Bayrn vnd 2 auf Wienn gschriben.</desc>
+                  <desc>Den <hi rend="del">a</hi> 2ten Januarij 1658 Jhars 2 brief in Bayrn vnd 2 auf Wienn gschriben.</desc>
                </event>
                <event xml:id="lb-cal-105">
                   <label>1658-01-09</label>
@@ -1395,7 +1395,7 @@
                </event>
                <event xml:id="lb-cal-121">
                   <label>1658-03-22</label>
-                  <desc>Den <hi rend="del">20.</hi> 22. Martzen 2 brieff in Spanien vnd /2 auf Wienn.</desc>
+                  <desc>Den <hi rend="del">20</hi> 22. Martzen 2 brieff in Spanien vnd 2 auf Wienn.</desc>
                </event>
                <event xml:id="lb-cal-122">
                   <label>1658-03-25</label>
@@ -1482,7 +1482,7 @@
                   <desc>Den 3. Junij 1658 2 brieff auff Wienn vnd 1 in Bayrn.</desc>
                </event>
                <event xml:id="lb-cal-143">
-                  <label>1658-06-03</label>
+                  <label>1658-06-07</label>
                   <desc>Den 7ten <hi rend="del">2</hi> 3 in Spanien vnd 1 auff Wienn.</desc>
                </event>
                <event xml:id="lb-cal-144">
@@ -1515,10 +1515,6 @@
                   <label>1658-07-01</label>
                   <desc>Den 1. Julij 1658 1 schreiben auff Wien, 2 in Munchen.</desc>
                </event>
-               <event xml:id="lb-cal-151">
-                  <label>1658-07-01</label>
-                  <desc>Den 1. Julij 1658 1 schreiben auff Wien, 2 in Munchen.</desc>
-               </event>
                <event xml:id="lb-cal-152">
                   <label>1658-07-05</label>
                   <desc>Den 5. 3 auff Wien vnd 1 auff Prag.</desc>
@@ -1533,11 +1529,7 @@
                </event>
                <event xml:id="lb-cal-155">
                   <label>1658-07-11</label>
-                  <desc>Den 11. 3 in Spanien vnd den 12. ein auff Wien.~~</desc>
-               </event>
-               <event xml:id="lb-cal-156">
-                  <label>1658-07-12</label>
-                  <desc>Den 11. 3 in Spanien vnd den 12. ein auff Wien.~~</desc>
+                  <desc>Den 11. 3 in Spanien vnd den 12. ein auff Wien.</desc>
                </event>
                <event xml:id="lb-cal-157">
                   <label>1658-07-15</label>
