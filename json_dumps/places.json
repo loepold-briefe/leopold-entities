@@ -405,5 +405,27 @@
     "longitude": null,
     "gnd_url": "",
     "endonym": "Mníšek pod Brdy"
+  },
+  "160": {
+    "id": 160,
+    "order": "38.00000000000000000000",
+    "label": "Innsbruck",
+    "lb_id": "lb-place-160",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "161": {
+    "id": 161,
+    "order": "39.00000000000000000000",
+    "label": "Tirol",
+    "lb_id": "lb-place-161",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
   }
 }

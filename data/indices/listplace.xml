@@ -219,6 +219,12 @@
                <place xml:id="lb-place-159">
                   <placeName>Mnischek</placeName>
                </place>
+               <place xml:id="lb-place-160">
+                  <placeName>Innsbruck</placeName>
+               </place>
+               <place xml:id="lb-place-161">
+                  <placeName>Tirol</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
