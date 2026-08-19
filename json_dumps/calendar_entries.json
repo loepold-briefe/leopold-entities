@@ -10422,6 +10422,27 @@
         "lb_id": "lb-ml-396"
       },
       {
+        "id": 401,
+        "order": "377.50000000000000000000",
+        "not_before": "1658-12-24",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-401"
+      },
+      {
         "id": 397,
         "order": "378.00000000000000000000",
         "not_before": "1658-12-24",

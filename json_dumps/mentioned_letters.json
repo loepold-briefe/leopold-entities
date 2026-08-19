@@ -10817,6 +10817,33 @@
     "correct_date": null,
     "lb_id": "lb-ml-396"
   },
+  "401": {
+    "id": 401,
+    "order": "377.50000000000000000000",
+    "not_before": "1658-12-24",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-401"
+  },
   "397": {
     "id": 397,
     "order": "378.00000000000000000000",
