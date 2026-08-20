@@ -916,7 +916,7 @@
                   <label>1657-10-24</label>
                   <desc>Den <hi rend="del">21. dito</hi> 24. dito 2 in Spanien, 1 in Bayrn vnd 1 auf Wien gschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00119">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1657-10-24</date>
@@ -1025,7 +1025,7 @@
                         </title>
                         <date>1657-11-07</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00121">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1657-11-07</date>
@@ -1057,7 +1057,7 @@
                   <label>1657-11-14</label>
                   <desc>Den 14. 2 prief in Spanien vnd 2 auf Wienn vnd 1 in Beyrn geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00120">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1657-11-14</date>
@@ -1263,7 +1263,7 @@
                   <label>1657-12-26</label>
                   <desc>Den 26. hab ich 4 brief in Spanien, <hi rend="del">1</hi> 2 in Bayrn vnd 2 auf Wienn geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00122">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1657-12-26</date>
@@ -1386,7 +1386,7 @@
                   <desc>
                      <hi rend="del">Den 19. 3 auf W</hi> Den 16. 3 in Spanien, 3 in Bayrn vnd 2 auf Wien.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00125">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-01-16</date>
@@ -1453,7 +1453,7 @@
                   <label>1658-01-23</label>
                   <desc>Den 23. 2 brief in Spanien, 2 in Bayrn vnd 1 auf Wien gschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00126">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-01-23</date>
@@ -1495,6 +1495,11 @@
                   <label>1658-01-29</label>
                   <desc>Den 29. 2 brieff auff Wienn.</desc>
                   <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1658-01-29</date>
+                     </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
                         </title>
@@ -1613,20 +1618,22 @@
                   <label>1658-03-13</label>
                   <desc>Den 13. still gelegen vnd 3 schreiben in Spanien geschikht.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00127">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-03-13</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-76">Philipp IV.</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-03-13</date>
+                        <note>Adressat erwähnt in lb-00127</note>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreich</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-03-13</date>
+                        <note>Adressatin erwähnt in lb-00127</note>
                      </bibl>
                   </listBibl>
                </event>
@@ -1650,12 +1657,12 @@
                   <label>1658-03-22</label>
                   <desc>Den <hi rend="del">20</hi> 22. Martzen 2 brieff in Spanien vnd 2 auf Wienn.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00128">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-03-22</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00129">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-03-22</date>
@@ -1697,7 +1704,7 @@
                   <label>1658-03-29</label>
                   <desc>Den 29. 3 in Spanien, 1 auff Wienn.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00130">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-03-29</date>
@@ -1729,6 +1736,11 @@
                         <date>1658-04-01</date>
                      </bibl>
                      <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-69">Prag</rs>
+                        </title>
+                        <date>1658-04-01</date>
+                     </bibl>
+                     <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
                         </title>
                         <date>1658-04-01</date>
@@ -1754,7 +1766,7 @@
                         </title>
                         <date>1658-04-05</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00131">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-04-05</date>
@@ -1880,7 +1892,7 @@
                   <label>1658-04-26</label>
                   <desc>Den 26. 2 in Spanien vnd ein auf Wienn.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00134">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-04-26</date>
@@ -1949,20 +1961,22 @@
                   <label>1658-05-10</label>
                   <desc>Den <hi rend="del">19</hi> 10. 3 brief in Spanien vnd 1 auf Wienn gschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00132">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-05-10</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreich</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-05-10</date>
+                        <note>Adressatin erwähnt in lb-00132</note>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-76">Philipp IV.</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-05-10</date>
+                        <note>Adressat erwähnt in lb-00132</note>
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
@@ -2112,10 +2126,12 @@
                   <label>1658-06-07</label>
                   <desc>Den 7ten <hi rend="del">2</hi> 3 in Spanien vnd 1 auff Wienn.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00136">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-06-07</date>
+                        <date type="correct_date">1658-06-08</date>
+                        <note>das Original datiert in Wirklichkeit vom 8. Juni</note>
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
@@ -2215,7 +2231,7 @@
                         <date>1658-06-24</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-36">München</rs>
                         </title>
                         <date>1658-06-24</date>
                      </bibl>
@@ -2293,7 +2309,7 @@
                   <label>1658-07-06</label>
                   <desc>Den 6. 3 brieff in Spanien gschrieben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00137">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-07-06</date>
@@ -2330,7 +2346,7 @@
                   <label>1658-07-11</label>
                   <desc>Den 11. 3 in Spanien vnd den 12. ein auff Wien.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00135">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-07-11</date>
@@ -2372,20 +2388,22 @@
                   <label>1658-07-18</label>
                   <desc>Den 18. dieß <hi rend="unclear">…</hi>. Eben <hi rend="del">disen tag</hi> de hoc dato gschriben ich 3 brieff in Spanien, 4 auff Wienn, 2 in Bayrn vnd 2 auff Prag.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00139">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-07-18</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-76">Philipp IV.</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-07-18</date>
+                        <note>Adressat erwähnt in lb-00139</note>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreich</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-07-18</date>
+                        <note>Adressatin erwähnt in lb-00139</note>
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
@@ -2450,7 +2468,7 @@
                         <date>1658-07-23</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-36">München</rs>
                         </title>
                         <date>1658-07-23</date>
                      </bibl>
@@ -2471,15 +2489,16 @@
                   <label>1658-07-27</label>
                   <desc>Den 27. 2 in Spanien.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00148">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-07-27</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreich</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-07-27</date>
+                        <note>Adressatin erwähnt in lb-00148</note>
                      </bibl>
                   </listBibl>
                </event>
@@ -2550,7 +2569,7 @@
                   <label>1658-08-09</label>
                   <desc>Den 9. <hi rend="unclear">…</hi> 3 brieff in Spanien vnd 1 auff Wien gschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00149">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-08-09</date>
@@ -2630,7 +2649,7 @@
                   <label>1658-09-16</label>
                   <desc>Den 16. still gelegen vnd 3 brieff in Spanien vnd 1 auff Munchen gschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00143">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-09-16</date>
@@ -2694,20 +2713,22 @@
                   <label>1658-10-02</label>
                   <desc>Den 2. 3 in Spanien, 1 in Insprukh vnd 1 auff Munchen.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00140">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-10-02</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-76">Philipp IV.</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-10-02</date>
+                        <note>Adressat erwähnt in lb-00140</note>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreich</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-10-02</date>
+                        <note>Adressatin erwähnt in lb-00140</note>
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-160">Innsbruck</rs>
@@ -2747,7 +2768,7 @@
                   <label>1658-10-23</label>
                   <desc>Den 23. 3 brieff in Spanien, 1 in Bayrn.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00141">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-10-23</date>
@@ -2794,7 +2815,7 @@
                         </title>
                         <date>1658-11-06</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00142">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-11-06</date>
@@ -2836,7 +2857,7 @@
                   <label>1658-11-20</label>
                   <desc>Den 20. 2 brieff in Spanien vnd 1 in Bayrn.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00144">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-11-20</date>
@@ -2884,20 +2905,22 @@
                   <label>1658-12-11</label>
                   <desc>Den 11. 3 in Spanien, 1 in Bayrn vnd 1 auff Insprukh.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00145">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-12-11</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-76">Philipp IV.</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-12-11</date>
+                        <note>Adressat erwähnt in lb-00145</note>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreich</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-12-11</date>
+                        <note>Adressatin erwähnt in lb-00145</note>
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
@@ -2926,20 +2949,16 @@
                   <label>1658-12-24</label>
                   <desc>Den 24. 2 in Spanien vnd 1 in Bayrn.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00147">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-12-24</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreich</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1658-12-24</date>
-                     </bibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
-                        </title>
-                        <date>1658-12-24</date>
+                        <note>Adressatin erwähnt in lb-00147</note>
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
@@ -2952,10 +2971,6 @@
                   <label>None</label>
                   <desc/>
                   <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt</title>
                         <date>None</date>

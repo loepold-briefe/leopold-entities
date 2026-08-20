@@ -1143,7 +1143,7 @@
          </correspDesc>
          <correspDesc xml:id="lb-00129" n="Leopold I. an Johann Maximilian von Lamberg am 22. März 1658 (Frankfurt am Main)">
             <noteGrp type="metadata">
-               <note type="not_before">1658-04-22</note>
+               <note type="not_before">1658-03-22</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
                <note type="collection">HA Steyr</note>
                <note type="signatur">K. 1232, Fasz. 21, Nr. 325/78</note>
@@ -1162,7 +1162,7 @@
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <placeName key="lb-place-75" ref="https://www.geonames.org/2925533/frankfurt-am-main.html">Frankfurt am Main</placeName>
                <placeName type="written">F[rank]furdt</placeName>
-               <date when="1658-04-22">22. März 1658</date>
+               <date when="1658-03-22">22. März 1658</date>
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Johann Maximilian von Lamberg</persName>
@@ -1351,7 +1351,7 @@
          </correspDesc>
          <correspDesc xml:id="lb-00136" n="Leopold I. an Johann Maximilian von Lamberg am 8. Juni 1658 (Frankfurt am Main)">
             <noteGrp type="metadata">
-               <note type="not_before">1658-08-08</note>
+               <note type="not_before">1658-06-08</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
                <note type="collection">HA Steyr</note>
                <note type="signatur">K. 1232, Fasz. 21, Nr. 325/87</note>
@@ -1370,7 +1370,7 @@
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <placeName key="lb-place-75" ref="https://www.geonames.org/2925533/frankfurt-am-main.html">Frankfurt am Main</placeName>
                <placeName type="written">Frankhfordt</placeName>
-               <date notBefore="1658-08-08" notAfter="1658-06-08">8. Juni 1658</date>
+               <date when="1658-06-08">8. Juni 1658</date>
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Johann Maximilian von Lamberg</persName>
@@ -1409,9 +1409,9 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00138" n="Leopold I. an Johann Maximilian von Lamberg am 22. Mai 1658 (Frankfurt am Main)">
+         <correspDesc xml:id="lb-00138" n="Leopold I. an Johann Maximilian von Lamberg am 22. Juni 1658 (Frankfurt am Main)">
             <noteGrp type="metadata">
-               <note type="not_before">1658-05-22</note>
+               <note type="not_before">1658-06-22</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
                <note type="collection">HA Steyr</note>
                <note type="signatur">K. 1232, Fasz. 21, Nr. 325/91</note>
@@ -1430,7 +1430,8 @@
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <placeName key="lb-place-75" ref="https://www.geonames.org/2925533/frankfurt-am-main.html">Frankfurt am Main</placeName>
                <placeName type="written">F[rank]fürdt</placeName>
-               <date when="1658-05-22">22. Mai 1658</date>
+               <date when="1658-06-22">22. Juni 1658</date>
+               <note type="date">Irrtümlich: 22. May 1658, korrigiert vom Empfänger</note>
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Johann Maximilian von Lamberg</persName>

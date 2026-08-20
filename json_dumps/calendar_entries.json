@@ -3225,7 +3225,13 @@
         "dictated_letter": false,
         "note": null,
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 129,
+            "value": "lb-00119",
+            "order": "36.93333333333333001747"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-111"
       },
@@ -3634,7 +3640,13 @@
         "dictated_letter": false,
         "note": null,
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 130,
+            "value": "lb-00121",
+            "order": "36.93750000000000000000"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-128"
       },
@@ -3744,7 +3756,13 @@
         "dictated_letter": false,
         "note": null,
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 131,
+            "value": "lb-00120",
+            "order": "36.93548387096774376914"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-132"
       },
@@ -4460,7 +4478,13 @@
         "dictated_letter": false,
         "note": null,
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 132,
+            "value": "lb-00122",
+            "order": "36.94117647058823195039"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-159"
       },
@@ -4915,7 +4939,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 136,
+            "value": "lb-00125",
+            "order": "36.94871794871794890014"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-179"
       },
@@ -5172,7 +5202,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 137,
+            "value": "lb-00126",
+            "order": "36.94915254237287882688"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-190"
       },
@@ -5327,6 +5363,27 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-196"
+      },
+      {
+        "id": 402,
+        "order": "177.50000000000000000000",
+        "not_before": "1658-01-29",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-402"
       }
     ]
   },
@@ -5716,7 +5773,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 138,
+            "value": "lb-00127",
+            "order": "36.94936708860759466688"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-211"
       },
@@ -5735,8 +5798,14 @@
           }
         ],
         "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
+        "note": "Adressat erwähnt in lb-00127",
+        "addressee_worked_out": [
+          {
+            "id": 76,
+            "value": "Philipp IV.",
+            "order": "12.00000000000000000000"
+          }
+        ],
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-212"
@@ -5756,8 +5825,14 @@
           }
         ],
         "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
+        "note": "Adressatin erwähnt in lb-00127",
+        "addressee_worked_out": [
+          {
+            "id": 75,
+            "value": "Maria Anna (Mariana) von Österreich",
+            "order": "11.00000000000000000000"
+          }
+        ],
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-213"
@@ -5847,7 +5922,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 135,
+            "value": "lb-00128",
+            "order": "36.95000000000000284217"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-216"
       },
@@ -5868,7 +5949,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 140,
+            "value": "lb-00129",
+            "order": "36.95121951219512368425"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-217"
       },
@@ -6020,7 +6107,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 141,
+            "value": "lb-00130",
+            "order": "36.95161290322580782686"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-223"
       },
@@ -6120,6 +6213,27 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-227"
+      },
+      {
+        "id": 228,
+        "order": "209.00000000000000000000",
+        "not_before": "1658-04-01",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 69,
+            "value": "Prag",
+            "order": "11.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-228"
       },
       {
         "id": 229,
@@ -6235,7 +6349,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 142,
+            "value": "lb-00131",
+            "order": "36.95180722891566205135"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-233"
       },
@@ -6691,7 +6811,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 145,
+            "value": "lb-00134",
+            "order": "36.95205479452054930789"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-251"
       },
@@ -6932,7 +7058,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 143,
+            "value": "lb-00132",
+            "order": "36.95192307692308020250"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-260"
       },
@@ -6951,8 +7083,14 @@
           }
         ],
         "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
+        "note": "Adressatin erwähnt in lb-00132",
+        "addressee_worked_out": [
+          {
+            "id": 75,
+            "value": "Maria Anna (Mariana) von Österreich",
+            "order": "11.00000000000000000000"
+          }
+        ],
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-261"
@@ -6972,8 +7110,14 @@
           }
         ],
         "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
+        "note": "Adressat erwähnt in lb-00132",
+        "addressee_worked_out": [
+          {
+            "id": 76,
+            "value": "Philipp IV.",
+            "order": "12.00000000000000000000"
+          }
+        ],
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-262"
@@ -7517,10 +7661,16 @@
           }
         ],
         "dictated_letter": false,
-        "note": "",
+        "note": "das Original datiert in Wirklichkeit vom 8. Juni",
         "addressee_worked_out": [],
-        "original_letter": [],
-        "correct_date": null,
+        "original_letter": [
+          {
+            "id": 147,
+            "value": "lb-00136",
+            "order": "36.95212765957446521270"
+          }
+        ],
+        "correct_date": "1658-06-08",
         "lb_id": "lb-ml-283"
       },
       {
@@ -7870,9 +8020,9 @@
         "courier": [],
         "destination": [
           {
-            "id": 38,
-            "value": "Bayern",
-            "order": "6.00000000000000000000"
+            "id": 36,
+            "value": "München",
+            "order": "4.00000000000000000000"
           }
         ],
         "dictated_letter": false,
@@ -8161,7 +8311,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 149,
+            "value": "lb-00137",
+            "order": "36.95214105793451153659"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-308"
       },
@@ -8269,7 +8425,7 @@
     "order": "126.00000000000000000000",
     "not_before": "1658-07-11",
     "text": "Den 11. 3 in Spanien vnd den 12. ein auff Wien.",
-    "not_after": null,
+    "not_after": "1658-07-12",
     "folio": "94r",
     "file_name": "",
     "lb_id": "lb-cal-155",
@@ -8292,7 +8448,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 146,
+            "value": "lb-00135",
+            "order": "36.95209580838323404350"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-313"
       },
@@ -8444,7 +8606,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 150,
+            "value": "lb-00139",
+            "order": "36.95217391304348097947"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-320"
       },
@@ -8463,8 +8631,14 @@
           }
         ],
         "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
+        "note": "Adressat erwähnt in lb-00139",
+        "addressee_worked_out": [
+          {
+            "id": 76,
+            "value": "Philipp IV.",
+            "order": "12.00000000000000000000"
+          }
+        ],
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-321"
@@ -8484,8 +8658,14 @@
           }
         ],
         "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
+        "note": "Adressatin erwähnt in lb-00139",
+        "addressee_worked_out": [
+          {
+            "id": 75,
+            "value": "Maria Anna (Mariana) von Österreich",
+            "order": "11.00000000000000000000"
+          }
+        ],
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-322"
@@ -8735,9 +8915,9 @@
         "courier": [],
         "destination": [
           {
-            "id": 38,
-            "value": "Bayern",
-            "order": "6.00000000000000000000"
+            "id": 36,
+            "value": "München",
+            "order": "4.00000000000000000000"
           }
         ],
         "dictated_letter": false,
@@ -8811,7 +8991,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 189,
+            "value": "lb-00148",
+            "order": "36.95744680851063890259"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-335"
       },
@@ -8830,8 +9016,14 @@
           }
         ],
         "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
+        "note": "Adressatin erwähnt in lb-00148",
+        "addressee_worked_out": [
+          {
+            "id": 75,
+            "value": "Maria Anna (Mariana) von Österreich",
+            "order": "11.00000000000000000000"
+          }
+        ],
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-336"
@@ -9094,7 +9286,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 192,
+            "value": "lb-00149",
+            "order": "36.95774647887323993700"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-346"
       },
@@ -9369,7 +9567,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 186,
+            "value": "lb-00143",
+            "order": "36.95348837209302672591"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-356"
       },
@@ -9589,7 +9793,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 183,
+            "value": "lb-00140",
+            "order": "36.95219123505975744592"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-364"
       },
@@ -9608,8 +9818,14 @@
           }
         ],
         "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
+        "note": "Adressat erwähnt in lb-00140",
+        "addressee_worked_out": [
+          {
+            "id": 76,
+            "value": "Philipp IV.",
+            "order": "12.00000000000000000000"
+          }
+        ],
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-365"
@@ -9629,8 +9845,14 @@
           }
         ],
         "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
+        "note": "Adressatin erwähnt in lb-00140",
+        "addressee_worked_out": [
+          {
+            "id": 75,
+            "value": "Maria Anna (Mariana) von Österreich",
+            "order": "11.00000000000000000000"
+          }
+        ],
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-366"
@@ -9775,7 +9997,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 184,
+            "value": "lb-00141",
+            "order": "36.95220588235294201240"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-371"
       },
@@ -9948,7 +10176,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 139,
+            "value": "lb-00142",
+            "order": "36.95238095238094899742"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-378"
       },
@@ -10100,7 +10334,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 185,
+            "value": "lb-00144",
+            "order": "36.95454545454545325356"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-384"
       },
@@ -10265,7 +10505,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 187,
+            "value": "lb-00145",
+            "order": "36.95652173913043725406"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-390"
       },
@@ -10284,8 +10530,14 @@
           }
         ],
         "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
+        "note": "Adressat erwähnt in lb-00145",
+        "addressee_worked_out": [
+          {
+            "id": 76,
+            "value": "Philipp IV.",
+            "order": "12.00000000000000000000"
+          }
+        ],
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-391"
@@ -10305,8 +10557,14 @@
           }
         ],
         "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
+        "note": "Adressatin erwähnt in lb-00145",
+        "addressee_worked_out": [
+          {
+            "id": 75,
+            "value": "Maria Anna (Mariana) von Österreich",
+            "order": "11.00000000000000000000"
+          }
+        ],
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-392"
@@ -10417,30 +10675,15 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
-        "correct_date": null,
-        "lb_id": "lb-ml-396"
-      },
-      {
-        "id": 401,
-        "order": "377.50000000000000000000",
-        "not_before": "1658-12-24",
-        "not_after": null,
-        "addressee_stated": [],
-        "courier": [],
-        "destination": [
+        "original_letter": [
           {
-            "id": 39,
-            "value": "Spanien",
-            "order": "7.00000000000000000000"
+            "id": 190,
+            "value": "lb-00147",
+            "order": "36.95714285714285551876"
           }
         ],
-        "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
-        "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-401"
+        "lb_id": "lb-ml-396"
       },
       {
         "id": 397,
@@ -10457,8 +10700,14 @@
           }
         ],
         "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
+        "note": "Adressatin erwähnt in lb-00147",
+        "addressee_worked_out": [
+          {
+            "id": 75,
+            "value": "Maria Anna (Mariana) von Österreich",
+            "order": "11.00000000000000000000"
+          }
+        ],
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-397"
@@ -10497,21 +10746,6 @@
     "lb_id": "lb-cal-188",
     "places": [],
     "mentioned_letters": [
-      {
-        "id": 203,
-        "order": "184.00000000000000000000",
-        "not_before": null,
-        "not_after": null,
-        "addressee_stated": [],
-        "courier": [],
-        "destination": [],
-        "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
-        "original_letter": [],
-        "correct_date": null,
-        "lb_id": "lb-ml-203"
-      },
       {
         "id": 399,
         "order": "380.00000000000000000000",

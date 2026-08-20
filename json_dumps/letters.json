@@ -5498,8 +5498,8 @@
         "maiden_name": null
       }
     ],
-    "not_before": "1658-04-22",
-    "not_after": "1658-04-22",
+    "not_before": "1658-03-22",
+    "not_after": "1658-03-22",
     "written_date": "22. März 1658",
     "date_note": "",
     "archiv": [
@@ -6540,7 +6540,7 @@
         "maiden_name": null
       }
     ],
-    "not_before": "1658-08-08",
+    "not_before": "1658-06-08",
     "not_after": "1658-06-08",
     "written_date": "8. Juni 1658",
     "date_note": "",
@@ -6836,10 +6836,10 @@
         "maiden_name": null
       }
     ],
-    "not_before": "1658-05-22",
-    "not_after": "1658-05-22",
-    "written_date": "22. Mai 1658",
-    "date_note": "",
+    "not_before": "1658-06-22",
+    "not_after": "1658-06-22",
+    "written_date": "22. Juni 1658",
+    "date_note": "Irrtümlich: 22. May 1658, korrigiert vom Empfänger",
     "archiv": [
       {
         "id": 1,
