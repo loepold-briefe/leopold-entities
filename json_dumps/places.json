@@ -427,5 +427,16 @@
     "longitude": null,
     "gnd_url": "",
     "endonym": ""
+  },
+  "162": {
+    "id": 162,
+    "order": "40.00000000000000000000",
+    "label": "Bonn",
+    "lb_id": "lb-place-162",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
   }
 }

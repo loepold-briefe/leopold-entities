@@ -5142,8 +5142,9 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="regest">False</note>
-               <note type="status_transkription">nicht vorhanden</note>
+               <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">False</note>
+               <note type="credits">bearb. v. Petr Maťa</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -5424,8 +5425,9 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="regest">False</note>
-               <note type="status_transkription">nicht vorhanden</note>
+               <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">False</note>
+               <note type="credits">bearb. v. Petr Maťa</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>

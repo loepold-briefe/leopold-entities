@@ -25079,9 +25079,9 @@
     "concept_for": [],
     "regest": false,
     "status_transkription": {
-      "id": 23031,
-      "value": "nicht vorhanden",
-      "color": "darker-red"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [],
     "placename_written": "",
@@ -25095,7 +25095,7 @@
     "received_date": null,
     "images_on_share": false,
     "contributors": [],
-    "credits": null,
+    "credits": "bearb. v. Petr Maťa",
     "entities": false,
     "related_letters": []
   },
@@ -26405,9 +26405,9 @@
     "concept_for": [],
     "regest": false,
     "status_transkription": {
-      "id": 23031,
-      "value": "nicht vorhanden",
-      "color": "darker-red"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [],
     "placename_written": "",
@@ -26421,7 +26421,7 @@
     "received_date": null,
     "images_on_share": false,
     "contributors": [],
-    "credits": null,
+    "credits": "bearb. v. Petr Maťa",
     "entities": false,
     "related_letters": []
   },

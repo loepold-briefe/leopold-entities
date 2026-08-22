@@ -225,6 +225,9 @@
                <place xml:id="lb-place-161">
                   <placeName>Tirol</placeName>
                </place>
+               <place xml:id="lb-place-162">
+                  <placeName>Bonn</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

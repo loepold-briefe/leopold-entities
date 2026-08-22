@@ -326,5 +326,21 @@
     "first_name": "Johann Ferdinand von",
     "last_name": "Portia",
     "maiden_name": null
+  },
+  "79": {
+    "id": 79,
+    "order": "14.00000000000000000000",
+    "label": "Raimondo Montecuccoli",
+    "lb_id": "lb-person-79",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [],
+    "first_name": "",
+    "last_name": "",
+    "maiden_name": ""
   }
 }

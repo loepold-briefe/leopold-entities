@@ -203,6 +203,9 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/120091569</idno>
                </person>
+               <person xml:id="lb-person-79" n="Raimondo Montecuccoli">
+                  <persName type="preferred">Raimondo Montecuccoli</persName>
+               </person>
             </listPerson>
          </div>
       </body>

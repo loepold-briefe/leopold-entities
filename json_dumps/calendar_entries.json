@@ -7431,8 +7431,8 @@
   "140": {
     "id": 140,
     "order": "111.00000000000000000000",
-    "not_before": "1658-05-28",
-    "text": "Den ~~27~~ 28. 2 auf Wien, 1 in Beyrn vnd 1 auf Mantua.",
+    "not_before": "1658-05-27",
+    "text": "Den ~~28~~ 27. 2 auf Wien, 1 in Beyrn vnd 1 auf Mantua.",
     "not_after": null,
     "folio": "84r",
     "file_name": "",
@@ -7442,7 +7442,7 @@
       {
         "id": 275,
         "order": "256.00000000000000000000",
-        "not_before": "1658-05-28",
+        "not_before": "1658-05-27",
         "not_after": null,
         "addressee_stated": [],
         "courier": [],
@@ -7463,7 +7463,7 @@
       {
         "id": 276,
         "order": "257.00000000000000000000",
-        "not_before": "1658-05-28",
+        "not_before": "1658-05-27",
         "not_after": null,
         "addressee_stated": [],
         "courier": [],
@@ -7484,7 +7484,7 @@
       {
         "id": 277,
         "order": "258.00000000000000000000",
-        "not_before": "1658-05-28",
+        "not_before": "1658-05-27",
         "not_after": null,
         "addressee_stated": [],
         "courier": [],
@@ -7501,27 +7501,6 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-277"
-      },
-      {
-        "id": 278,
-        "order": "259.00000000000000000000",
-        "not_before": "1658-05-28",
-        "not_after": null,
-        "addressee_stated": [],
-        "courier": [],
-        "destination": [
-          {
-            "id": 37,
-            "value": "Mantua",
-            "order": "5.00000000000000000000"
-          }
-        ],
-        "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
-        "original_letter": [],
-        "correct_date": null,
-        "lb_id": "lb-ml-278"
       }
     ]
   },
@@ -10738,10 +10717,10 @@
   "188": {
     "id": 188,
     "order": "159.00000000000000000000",
-    "not_before": null,
-    "text": "",
+    "not_before": "1659-01-01",
+    "text": "Den ersten Jenner 1659 1 brief in Bayrn vnd 2 auf Inspprukh geschriben.",
     "not_after": null,
-    "folio": "",
+    "folio": "22r",
     "file_name": "",
     "lb_id": "lb-cal-188",
     "places": [],
@@ -10749,11 +10728,17 @@
       {
         "id": 399,
         "order": "380.00000000000000000000",
-        "not_before": null,
+        "not_before": "1659-01-01",
         "not_after": null,
         "addressee_stated": [],
         "courier": [],
-        "destination": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -10764,6 +10749,643 @@
       {
         "id": 400,
         "order": "381.00000000000000000000",
+        "not_before": "1659-01-01",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 160,
+            "value": "Innsbruck",
+            "order": "38.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-400"
+      },
+      {
+        "id": 403,
+        "order": "382.00000000000000000000",
+        "not_before": "1659-01-01",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 160,
+            "value": "Innsbruck",
+            "order": "38.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-403"
+      }
+    ]
+  },
+  "189": {
+    "id": 189,
+    "order": "160.00000000000000000000",
+    "not_before": "1659-01-08",
+    "text": "Den 8. 3 in Spanien vnd 2 in Bayrn vnd 1 auf Bonn.",
+    "not_after": null,
+    "folio": "22r",
+    "file_name": "",
+    "lb_id": "lb-cal-189",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 404,
+        "order": "383.00000000000000000000",
+        "not_before": "1659-01-08",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-404"
+      },
+      {
+        "id": 405,
+        "order": "384.00000000000000000000",
+        "not_before": "1659-01-08",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-405"
+      },
+      {
+        "id": 406,
+        "order": "385.00000000000000000000",
+        "not_before": "1659-01-08",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-406"
+      },
+      {
+        "id": 407,
+        "order": "386.00000000000000000000",
+        "not_before": "1659-01-08",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-407"
+      },
+      {
+        "id": 408,
+        "order": "387.00000000000000000000",
+        "not_before": "1659-01-08",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-408"
+      },
+      {
+        "id": 409,
+        "order": "388.00000000000000000000",
+        "not_before": "1659-01-08",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 162,
+            "value": "Bonn",
+            "order": "40.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-409"
+      }
+    ]
+  },
+  "190": {
+    "id": 190,
+    "order": "161.00000000000000000000",
+    "not_before": "1659-01-15",
+    "text": "Den 15. 2 auf in Insprukh vnd 1 auf München.",
+    "not_after": null,
+    "folio": "22r",
+    "file_name": "",
+    "lb_id": "lb-cal-190",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 410,
+        "order": "389.00000000000000000000",
+        "not_before": "1659-01-15",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 160,
+            "value": "Innsbruck",
+            "order": "38.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-410"
+      },
+      {
+        "id": 411,
+        "order": "390.00000000000000000000",
+        "not_before": "1659-01-15",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 160,
+            "value": "Innsbruck",
+            "order": "38.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-411"
+      },
+      {
+        "id": 412,
+        "order": "391.00000000000000000000",
+        "not_before": "1659-01-15",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 36,
+            "value": "München",
+            "order": "4.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-412"
+      }
+    ]
+  },
+  "191": {
+    "id": 191,
+    "order": "162.00000000000000000000",
+    "not_before": "1659-01-22",
+    "text": "Den 22. ein in Bayrn vnd 1 in Spanien, 1 auf Prag.",
+    "not_after": null,
+    "folio": "22r",
+    "file_name": "",
+    "lb_id": "lb-cal-191",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 413,
+        "order": "392.00000000000000000000",
+        "not_before": "1659-01-22",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-413"
+      },
+      {
+        "id": 414,
+        "order": "393.00000000000000000000",
+        "not_before": "1659-01-22",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-414"
+      },
+      {
+        "id": 415,
+        "order": "394.00000000000000000000",
+        "not_before": "1659-01-22",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 69,
+            "value": "Prag",
+            "order": "11.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-415"
+      }
+    ]
+  },
+  "192": {
+    "id": 192,
+    "order": "163.00000000000000000000",
+    "not_before": "1659-01-29",
+    "text": "Den 29. 3 in Spanien, 2 in Bayrn vnd 2 in Tyrol",
+    "not_after": null,
+    "folio": "22r",
+    "file_name": "",
+    "lb_id": "lb-cal-192",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 416,
+        "order": "395.00000000000000000000",
+        "not_before": "1659-01-29",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-416"
+      },
+      {
+        "id": 417,
+        "order": "396.00000000000000000000",
+        "not_before": "1659-01-29",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-417"
+      },
+      {
+        "id": 418,
+        "order": "397.00000000000000000000",
+        "not_before": "1659-01-29",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-418"
+      },
+      {
+        "id": 419,
+        "order": "398.00000000000000000000",
+        "not_before": "1659-01-29",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-419"
+      },
+      {
+        "id": 420,
+        "order": "399.00000000000000000000",
+        "not_before": "1659-01-29",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-420"
+      },
+      {
+        "id": 421,
+        "order": "400.00000000000000000000",
+        "not_before": "1659-01-29",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-421"
+      },
+      {
+        "id": 422,
+        "order": "401.00000000000000000000",
+        "not_before": "1659-01-29",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-422"
+      }
+    ]
+  },
+  "193": {
+    "id": 193,
+    "order": "164.00000000000000000000",
+    "not_before": "1659-02-05",
+    "text": "Den 5. [Februar] ein in Bayrn.",
+    "not_after": null,
+    "folio": "27r",
+    "file_name": "",
+    "lb_id": "lb-cal-193",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 423,
+        "order": "402.00000000000000000000",
+        "not_before": "1659-02-05",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-423"
+      }
+    ]
+  },
+  "194": {
+    "id": 194,
+    "order": "165.00000000000000000000",
+    "not_before": "1659-02-12",
+    "text": "Den 12. 2 in Spanien, ein in Tirol vnd 1 auf Munchen.",
+    "not_after": null,
+    "folio": "27r",
+    "file_name": "",
+    "lb_id": "lb-cal-194",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 424,
+        "order": "403.00000000000000000000",
+        "not_before": "1659-02-12",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-424"
+      },
+      {
+        "id": 425,
+        "order": "404.00000000000000000000",
+        "not_before": "1659-02-12",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-425"
+      },
+      {
+        "id": 426,
+        "order": "405.00000000000000000000",
+        "not_before": "1659-02-12",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-426"
+      },
+      {
+        "id": 427,
+        "order": "406.00000000000000000000",
+        "not_before": "1659-02-12",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 36,
+            "value": "München",
+            "order": "4.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-427"
+      }
+    ]
+  },
+  "195": {
+    "id": 195,
+    "order": "166.00000000000000000000",
+    "not_before": null,
+    "text": "Ein – 8 brieff.",
+    "not_after": null,
+    "folio": "27r",
+    "file_name": "",
+    "lb_id": "lb-cal-195",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -10774,7 +11396,2460 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-400"
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "196": {
+    "id": 196,
+    "order": "167.00000000000000000000",
+    "not_before": "1659-03-05",
+    "text": "Den 5. [März] 1 brieff in Bayrn geschriben",
+    "not_after": null,
+    "folio": "32r",
+    "file_name": "",
+    "lb_id": "lb-cal-196",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 428,
+        "order": "407.00000000000000000000",
+        "not_before": "1659-03-05",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-428"
+      }
+    ]
+  },
+  "197": {
+    "id": 197,
+    "order": "168.00000000000000000000",
+    "not_before": "1659-03-12",
+    "text": "Den 12. 3 in Spanien vnd 2 in Bayrn gschriben.",
+    "not_after": null,
+    "folio": "32r",
+    "file_name": "",
+    "lb_id": "lb-cal-197",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 429,
+        "order": "408.00000000000000000000",
+        "not_before": "1659-03-12",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-429"
+      },
+      {
+        "id": 430,
+        "order": "409.00000000000000000000",
+        "not_before": "1659-03-12",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-430"
+      },
+      {
+        "id": 431,
+        "order": "410.00000000000000000000",
+        "not_before": "1659-03-12",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-431"
+      },
+      {
+        "id": 432,
+        "order": "411.00000000000000000000",
+        "not_before": "1659-03-12",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-432"
+      },
+      {
+        "id": 433,
+        "order": "412.00000000000000000000",
+        "not_before": "1659-03-12",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-433"
+      }
+    ]
+  },
+  "198": {
+    "id": 198,
+    "order": "169.00000000000000000000",
+    "not_before": "1659-03-19",
+    "text": "Den 19. 1 in Bayrn.",
+    "not_after": null,
+    "folio": "32r",
+    "file_name": "",
+    "lb_id": "lb-cal-198",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 434,
+        "order": "413.00000000000000000000",
+        "not_before": "1659-03-19",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-434"
+      }
+    ]
+  },
+  "199": {
+    "id": 199,
+    "order": "170.00000000000000000000",
+    "not_before": "1659-03-26",
+    "text": "Den 26. 1 in Tyrol vnd 1 a Monaco.",
+    "not_after": null,
+    "folio": "32v",
+    "file_name": "",
+    "lb_id": "lb-cal-199",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 435,
+        "order": "414.00000000000000000000",
+        "not_before": "1659-03-26",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-435"
+      },
+      {
+        "id": 436,
+        "order": "415.00000000000000000000",
+        "not_before": "1659-03-26",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 36,
+            "value": "München",
+            "order": "4.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-436"
+      }
+    ]
+  },
+  "200": {
+    "id": 200,
+    "order": "171.00000000000000000000",
+    "not_before": "1659-04-02",
+    "text": "Den 2. April 3 in Spanien vnd 1 in Bayrn vnd 1 in Insprukh.",
+    "not_after": null,
+    "folio": "37r",
+    "file_name": "",
+    "lb_id": "lb-cal-200",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 437,
+        "order": "416.00000000000000000000",
+        "not_before": "1659-04-02",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-437"
+      },
+      {
+        "id": 438,
+        "order": "417.00000000000000000000",
+        "not_before": "1659-04-02",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-438"
+      },
+      {
+        "id": 439,
+        "order": "418.00000000000000000000",
+        "not_before": "1659-04-02",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-439"
+      },
+      {
+        "id": 440,
+        "order": "419.00000000000000000000",
+        "not_before": "1659-04-02",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-440"
+      },
+      {
+        "id": 441,
+        "order": "420.00000000000000000000",
+        "not_before": "1659-04-02",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 160,
+            "value": "Innsbruck",
+            "order": "38.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-441"
+      }
+    ]
+  },
+  "201": {
+    "id": 201,
+    "order": "172.00000000000000000000",
+    "not_before": "1659-04-05",
+    "text": "Den 5. 1 auf Prag vnd 1 in Montecucoli.",
+    "not_after": null,
+    "folio": "37r",
+    "file_name": "",
+    "lb_id": "lb-cal-201",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 442,
+        "order": "421.00000000000000000000",
+        "not_before": "1659-04-05",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 69,
+            "value": "Prag",
+            "order": "11.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-442"
+      },
+      {
+        "id": 443,
+        "order": "422.00000000000000000000",
+        "not_before": "1659-04-05",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [
+          {
+            "id": 79,
+            "value": "Raimondo Montecuccoli",
+            "order": "14.00000000000000000000"
+          }
+        ],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-443"
+      }
+    ]
+  },
+  "202": {
+    "id": 202,
+    "order": "173.00000000000000000000",
+    "not_before": "1659-04-09",
+    "text": "Den 9. 1 in Bayrn vnd 1 auf Insprukh.",
+    "not_after": null,
+    "folio": "37r",
+    "file_name": "",
+    "lb_id": "lb-cal-202",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 444,
+        "order": "423.00000000000000000000",
+        "not_before": "1659-04-09",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-444"
+      },
+      {
+        "id": 445,
+        "order": "424.00000000000000000000",
+        "not_before": "1659-04-09",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 160,
+            "value": "Innsbruck",
+            "order": "38.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-445"
+      }
+    ]
+  },
+  "203": {
+    "id": 203,
+    "order": "174.00000000000000000000",
+    "not_before": "1659-04-16",
+    "text": "Den 16. 2 in Spanien vnd 1 auf München.",
+    "not_after": null,
+    "folio": "37r",
+    "file_name": "",
+    "lb_id": "lb-cal-203",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 446,
+        "order": "425.00000000000000000000",
+        "not_before": "1659-04-16",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-446"
+      },
+      {
+        "id": 447,
+        "order": "426.00000000000000000000",
+        "not_before": "1659-04-16",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-447"
+      },
+      {
+        "id": 448,
+        "order": "427.00000000000000000000",
+        "not_before": "1659-04-16",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-448"
+      }
+    ]
+  },
+  "204": {
+    "id": 204,
+    "order": "175.00000000000000000000",
+    "not_before": "1659-04-23",
+    "text": "Den 23. 3 in Spanien, 1 in Tyrol vnd 1 a Monaco.",
+    "not_after": null,
+    "folio": "37r",
+    "file_name": "",
+    "lb_id": "lb-cal-204",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 449,
+        "order": "428.00000000000000000000",
+        "not_before": "1659-04-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-449"
+      },
+      {
+        "id": 450,
+        "order": "429.00000000000000000000",
+        "not_before": "1659-04-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-450"
+      },
+      {
+        "id": 451,
+        "order": "430.00000000000000000000",
+        "not_before": "1659-04-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-451"
+      },
+      {
+        "id": 452,
+        "order": "431.00000000000000000000",
+        "not_before": "1659-04-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-452"
+      },
+      {
+        "id": 453,
+        "order": "432.00000000000000000000",
+        "not_before": "1659-04-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 36,
+            "value": "München",
+            "order": "4.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-453"
+      }
+    ]
+  },
+  "205": {
+    "id": 205,
+    "order": "176.00000000000000000000",
+    "not_before": "1659-04-30",
+    "text": "Den 30. \\[…\\] vnd 1 brief in Bayrn geschriben.",
+    "not_after": null,
+    "folio": "37v",
+    "file_name": "",
+    "lb_id": "lb-cal-205",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 454,
+        "order": "433.00000000000000000000",
+        "not_before": "1659-04-30",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-454"
+      }
+    ]
+  },
+  "206": {
+    "id": 206,
+    "order": "177.00000000000000000000",
+    "not_before": "1659-05-03",
+    "text": "Den 3. Maij 1659 \\[…\\] vnd 1 brief a Mantova geschriben.",
+    "not_after": null,
+    "folio": "42r",
+    "file_name": "",
+    "lb_id": "lb-cal-206",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 455,
+        "order": "434.00000000000000000000",
+        "not_before": "1659-05-03",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 37,
+            "value": "Mantua",
+            "order": "5.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-455"
+      }
+    ]
+  },
+  "207": {
+    "id": 207,
+    "order": "178.00000000000000000000",
+    "not_before": "1659-05-14",
+    "text": "Den 14. \\[…\\] 3 in \\[!\\] brieff geschriben.",
+    "not_after": null,
+    "folio": "42v",
+    "file_name": "",
+    "lb_id": "lb-cal-207",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 456,
+        "order": "435.00000000000000000000",
+        "not_before": "1659-05-14",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-456"
+      },
+      {
+        "id": 457,
+        "order": "436.00000000000000000000",
+        "not_before": "1659-05-14",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-457"
+      },
+      {
+        "id": 458,
+        "order": "437.00000000000000000000",
+        "not_before": "1659-05-14",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-458"
+      }
+    ]
+  },
+  "208": {
+    "id": 208,
+    "order": "179.00000000000000000000",
+    "not_before": "1659-05-21",
+    "text": "Den 21. \\[…\\] vnd 1 brieff geschriben.",
+    "not_after": null,
+    "folio": "43r",
+    "file_name": "",
+    "lb_id": "lb-cal-208",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 459,
+        "order": "438.00000000000000000000",
+        "not_before": "1659-05-21",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-459"
+      }
+    ]
+  },
+  "209": {
+    "id": 209,
+    "order": "180.00000000000000000000",
+    "not_before": "1659-05-28",
+    "text": "Den 28. \\[…\\] vnd 2 brief in Spanien. 1 in Bayrn vnd 1 Tyrol.",
+    "not_after": null,
+    "folio": "43v",
+    "file_name": "",
+    "lb_id": "lb-cal-209",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 460,
+        "order": "439.00000000000000000000",
+        "not_before": "1659-05-28",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-460"
+      },
+      {
+        "id": 461,
+        "order": "440.00000000000000000000",
+        "not_before": "1659-05-28",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-461"
+      },
+      {
+        "id": 462,
+        "order": "441.00000000000000000000",
+        "not_before": "1659-05-28",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-462"
+      },
+      {
+        "id": 463,
+        "order": "442.00000000000000000000",
+        "not_before": "1659-05-28",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-463"
+      }
+    ]
+  },
+  "210": {
+    "id": 210,
+    "order": "181.00000000000000000000",
+    "not_before": "1659-06-04",
+    "text": "Den 4. \\[Juni\\] \\[…\\]. Hernach ein brieff geschriben.",
+    "not_after": null,
+    "folio": "47r",
+    "file_name": "",
+    "lb_id": "lb-cal-210",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 464,
+        "order": "443.00000000000000000000",
+        "not_before": "1659-06-04",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-464"
+      }
+    ]
+  },
+  "211": {
+    "id": 211,
+    "order": "182.00000000000000000000",
+    "not_before": "1659-06-11",
+    "text": "Den 11. 3 in Spanien, 1 \\[auf\\] Insprukh vnd 1 auff München.",
+    "not_after": null,
+    "folio": "48r",
+    "file_name": "",
+    "lb_id": "lb-cal-211",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 465,
+        "order": "444.00000000000000000000",
+        "not_before": "1659-06-11",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-465"
+      },
+      {
+        "id": 466,
+        "order": "445.00000000000000000000",
+        "not_before": "1659-06-11",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-466"
+      },
+      {
+        "id": 467,
+        "order": "446.00000000000000000000",
+        "not_before": "1659-06-11",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-467"
+      },
+      {
+        "id": 468,
+        "order": "447.00000000000000000000",
+        "not_before": "1659-06-11",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 160,
+            "value": "Innsbruck",
+            "order": "38.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-468"
+      },
+      {
+        "id": 469,
+        "order": "448.00000000000000000000",
+        "not_before": "1659-06-11",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 36,
+            "value": "München",
+            "order": "4.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-469"
+      }
+    ]
+  },
+  "212": {
+    "id": 212,
+    "order": "183.00000000000000000000",
+    "not_before": "1659-06-11",
+    "text": "Den 18. ein brieff in Bayrn geschriben",
+    "not_after": null,
+    "folio": "48v",
+    "file_name": "",
+    "lb_id": "lb-cal-212",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 465,
+        "order": "444.00000000000000000000",
+        "not_before": "1659-06-11",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-465"
+      },
+      {
+        "id": 466,
+        "order": "445.00000000000000000000",
+        "not_before": "1659-06-11",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-466"
+      },
+      {
+        "id": 467,
+        "order": "446.00000000000000000000",
+        "not_before": "1659-06-11",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-467"
+      },
+      {
+        "id": 468,
+        "order": "447.00000000000000000000",
+        "not_before": "1659-06-11",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 160,
+            "value": "Innsbruck",
+            "order": "38.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-468"
+      },
+      {
+        "id": 469,
+        "order": "448.00000000000000000000",
+        "not_before": "1659-06-11",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 36,
+            "value": "München",
+            "order": "4.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-469"
+      }
+    ]
+  },
+  "213": {
+    "id": 213,
+    "order": "184.00000000000000000000",
+    "not_before": "1659-06-25",
+    "text": "Den 25 2 brief in Spanien, 2 in Bayrn vnd 1 in Tyrol.",
+    "not_after": null,
+    "folio": "48v",
+    "file_name": "",
+    "lb_id": "lb-cal-213",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 471,
+        "order": "450.00000000000000000000",
+        "not_before": "1659-06-25",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-471"
+      },
+      {
+        "id": 472,
+        "order": "451.00000000000000000000",
+        "not_before": "1659-06-25",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-472"
+      }
+    ]
+  },
+  "214": {
+    "id": 214,
+    "order": "185.00000000000000000000",
+    "not_before": "1659-06-27",
+    "text": "Den 27. ein a Mantova.",
+    "not_after": null,
+    "folio": "48v",
+    "file_name": "",
+    "lb_id": "lb-cal-214",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "215": {
+    "id": 215,
+    "order": "186.00000000000000000000",
+    "not_before": "1659-07-09",
+    "text": "Den 9. Juli 2 in Spanien 1 2 in Insprukh vnd 1 auf München.",
+    "not_after": null,
+    "folio": "52v",
+    "file_name": "",
+    "lb_id": "lb-cal-215",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "216": {
+    "id": 216,
+    "order": "187.00000000000000000000",
+    "not_before": "1659-07-16",
+    "text": "Den 16. 1 in Bayrn.",
+    "not_after": null,
+    "folio": "53r",
+    "file_name": "",
+    "lb_id": "lb-cal-216",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "217": {
+    "id": 217,
+    "order": "188.00000000000000000000",
+    "not_before": "1659-07-23",
+    "text": "Den 23. dito \\[…\\]. Item 1 brieff in Bayrn,  unam Pragam et una a Insprugg.",
+    "not_after": null,
+    "folio": "54r",
+    "file_name": "",
+    "lb_id": "lb-cal-217",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "218": {
+    "id": 218,
+    "order": "189.00000000000000000000",
+    "not_before": "1659-07-30",
+    "text": "Den 30. 3 in Spanien vnd 1 in Bayrn.",
+    "not_after": null,
+    "folio": "54r",
+    "file_name": "",
+    "lb_id": "lb-cal-218",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "219": {
+    "id": 219,
+    "order": "190.00000000000000000000",
+    "not_before": "1659-08-06",
+    "text": "Den 6. \\[August\\] 1 in Tyrol, 1 in Bayrn vnd 1 in Spanien.",
+    "not_after": null,
+    "folio": "57v",
+    "file_name": "",
+    "lb_id": "lb-cal-219",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "220": {
+    "id": 220,
+    "order": "191.00000000000000000000",
+    "not_before": "1659-08-12",
+    "text": "Den ~~13~~ 12. ~~3~~ 2 brieff in Spanien, 2 in Tyrol vnd 1 in Bayrn.",
+    "not_after": null,
+    "folio": "58v",
+    "file_name": "",
+    "lb_id": "lb-cal-220",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "221": {
+    "id": 221,
+    "order": "192.00000000000000000000",
+    "not_before": "1659-08-15",
+    "text": "15tae dito ein brieff auff Wienn geschriben.",
+    "not_after": null,
+    "folio": "59r",
+    "file_name": "",
+    "lb_id": "lb-cal-221",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "222": {
+    "id": 222,
+    "order": "193.00000000000000000000",
+    "not_before": "1659-08-22",
+    "text": "Den 22. ein auf Wien geschriben.",
+    "not_after": null,
+    "folio": "59v",
+    "file_name": "",
+    "lb_id": "lb-cal-222",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "223": {
+    "id": 223,
+    "order": "194.00000000000000000000",
+    "not_before": "1659-08-25",
+    "text": "Den 25. un a Mantua.",
+    "not_after": null,
+    "folio": "59v",
+    "file_name": "",
+    "lb_id": "lb-cal-223",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "224": {
+    "id": 224,
+    "order": "195.00000000000000000000",
+    "not_before": "1659-08-26",
+    "text": "Den 26. ~~2~~ 1 in Tyrol, 2 in Spanien, 1 in Bayrn vnd 1 auff Wien.",
+    "not_after": null,
+    "folio": "59v",
+    "file_name": "",
+    "lb_id": "lb-cal-224",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "225": {
+    "id": 225,
+    "order": "196.00000000000000000000",
+    "not_before": "1659-08-29",
+    "text": "Den 29. ein auf Wienn.",
+    "not_after": null,
+    "folio": "59v",
+    "file_name": "",
+    "lb_id": "lb-cal-225",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "226": {
+    "id": 226,
+    "order": "197.00000000000000000000",
+    "not_before": "1659-08-31",
+    "text": "Den 31.  2 brieff auf Wienn geschriben.",
+    "not_after": null,
+    "folio": "60r",
+    "file_name": "",
+    "lb_id": "lb-cal-226",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "227": {
+    "id": 227,
+    "order": "198.00000000000000000000",
+    "not_before": "1659-09-02",
+    "text": "Den 2ten 7b. 1659 ein brief in Bayrn vnd 1 auf Wienn geschriben.",
+    "not_after": null,
+    "folio": "62r",
+    "file_name": "",
+    "lb_id": "lb-cal-227",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "228": {
+    "id": 228,
+    "order": "199.00000000000000000000",
+    "not_before": "1659-09-09",
+    "text": "Den 9. 3 brieff in Spanien, 1 in Tyrol, 1 auf Munchen vnd 1 auf Wienn geschriben.",
+    "not_after": null,
+    "folio": "62v",
+    "file_name": "",
+    "lb_id": "lb-cal-228",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "229": {
+    "id": 229,
+    "order": "200.00000000000000000000",
+    "not_before": "1659-09-12",
+    "text": "Den 12. ein auf Inspruch vnd 1 auf Wien.",
+    "not_after": null,
+    "folio": "62v",
+    "file_name": "",
+    "lb_id": "lb-cal-229",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "230": {
+    "id": 230,
+    "order": "201.00000000000000000000",
+    "not_before": "1659-09-23",
+    "text": "Den 23. 2 brief in Spanien, 2 in Tyrol, 1 a Vienna et 1 a Monaco.",
+    "not_after": null,
+    "folio": "63v",
+    "file_name": "",
+    "lb_id": "lb-cal-230",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "231": {
+    "id": 231,
+    "order": "202.00000000000000000000",
+    "not_before": "1659-09-26",
+    "text": "Den 26. una Vienna.",
+    "not_after": null,
+    "folio": "63v",
+    "file_name": "",
+    "lb_id": "lb-cal-231",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "232": {
+    "id": 232,
+    "order": "203.00000000000000000000",
+    "not_before": "1659-09-30",
+    "text": "Den 30. 2 auf Wienn vnd 1 auf Munchen.",
+    "not_after": null,
+    "folio": "64r",
+    "file_name": "",
+    "lb_id": "lb-cal-232",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "233": {
+    "id": 233,
+    "order": "204.00000000000000000000",
+    "not_before": "1659-10-03",
+    "text": "Den 3. \\[Oktober\\] \\[…\\] vnd 2 brieff auf Wienn geschriben.",
+    "not_after": null,
+    "folio": "67r",
+    "file_name": "",
+    "lb_id": "lb-cal-233",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "234": {
+    "id": 234,
+    "order": "205.00000000000000000000",
+    "not_before": "1659-10-07",
+    "text": "Den 7. dito […] vnd 2 brief in Spanien, 2 in Tyrol, 1 auf Munchen vnd 1 auf Wienn geschriben.",
+    "not_after": null,
+    "folio": "67r",
+    "file_name": "",
+    "lb_id": "lb-cal-234",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "235": {
+    "id": 235,
+    "order": "206.00000000000000000000",
+    "not_before": "1659-10-10",
+    "text": "Den 10. 2 brief auf Wienn geschriben.",
+    "not_after": null,
+    "folio": "67r",
+    "file_name": "",
+    "lb_id": "lb-cal-235",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "236": {
+    "id": 236,
+    "order": "207.00000000000000000000",
+    "not_before": "1659-10-14",
+    "text": "Den 14. 2 in Tyrol, 1 auf Wienn vnd 1 auf Munchen.",
+    "not_after": null,
+    "folio": "67v",
+    "file_name": "",
+    "lb_id": "lb-cal-236",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "237": {
+    "id": 237,
+    "order": "208.00000000000000000000",
+    "not_before": "1659-10-21",
+    "text": "Den 21. 2 in Spanien vnd 1 auf Wienn, auch 1 per Munchen.",
+    "not_after": null,
+    "folio": "67v",
+    "file_name": "",
+    "lb_id": "lb-cal-237",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "238": {
+    "id": 238,
+    "order": "209.00000000000000000000",
+    "not_before": "1659-10-29",
+    "text": "Den 29. ein in Bayrn vnd 1 a Vienna.",
+    "not_after": null,
+    "folio": "68r",
+    "file_name": "",
+    "lb_id": "lb-cal-238",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "239": {
+    "id": 239,
+    "order": "210.00000000000000000000",
+    "not_before": "1659-11-02",
+    "text": "Den 2. Novemb[ris] 1659 3 brief auf Wienn geschriben.",
+    "not_after": null,
+    "folio": "70r",
+    "file_name": "",
+    "lb_id": "lb-cal-239",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "240": {
+    "id": 240,
+    "order": "211.00000000000000000000",
+    "not_before": "1659-11-03",
+    "text": "Den 3. 3 a Madri\\[d\\], 1 Tirol, 1 Monaco, 1 a Viena.",
+    "not_after": null,
+    "folio": "70r",
+    "file_name": "",
+    "lb_id": "lb-cal-240",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "241": {
+    "id": 241,
+    "order": "212.00000000000000000000",
+    "not_before": "1659-11-06",
+    "text": "Den ~~7~~ 6. 2 auf Wienn.",
+    "not_after": null,
+    "folio": "70r",
+    "file_name": "",
+    "lb_id": "lb-cal-241",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "242": {
+    "id": 242,
+    "order": "213.00000000000000000000",
+    "not_before": "1659-11-07",
+    "text": "Den 7. 1 eodem.",
+    "not_after": null,
+    "folio": "70r",
+    "file_name": "",
+    "lb_id": "lb-cal-242",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "243": {
+    "id": 243,
+    "order": "214.00000000000000000000",
+    "not_before": "1659-11-09",
+    "text": "Den ~~8~~ 9. ein auf Wienn.",
+    "not_after": null,
+    "folio": "70r",
+    "file_name": "",
+    "lb_id": "lb-cal-243",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "244": {
+    "id": 244,
+    "order": "215.00000000000000000000",
+    "not_before": "1659-11-11",
+    "text": "Den 11. 2 in Tyrol, ~~1~~ 2 auf Wien vnd 1 auf München.",
+    "not_after": null,
+    "folio": "70r",
+    "file_name": "",
+    "lb_id": "lb-cal-244",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "245": {
+    "id": 245,
+    "order": "216.00000000000000000000",
+    "not_before": "1659-11-14",
+    "text": "Den 14. 3 brieff auf Wien geschriben.",
+    "not_after": null,
+    "folio": "70r",
+    "file_name": "",
+    "lb_id": "lb-cal-245",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "246": {
+    "id": 246,
+    "order": "217.00000000000000000000",
+    "not_before": "1659-11-18",
+    "text": "Den 18. 2 in Spanien, 1 auf Wien vnd 1 in Bayrn.",
+    "not_after": null,
+    "folio": "70r",
+    "file_name": "",
+    "lb_id": "lb-cal-246",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "247": {
+    "id": 247,
+    "order": "218.00000000000000000000",
+    "not_before": "1659-11-21",
+    "text": "Den 21. 2 auf Wienn.",
+    "not_after": null,
+    "folio": "70r",
+    "file_name": "",
+    "lb_id": "lb-cal-247",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "248": {
+    "id": 248,
+    "order": "219.00000000000000000000",
+    "not_before": "1659-11-25",
+    "text": "Den 25. 2 auf Wien, 2 in Tyrol 1 auf Munchen.",
+    "not_after": null,
+    "folio": "70r",
+    "file_name": "",
+    "lb_id": "lb-cal-248",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "249": {
+    "id": 249,
+    "order": "220.00000000000000000000",
+    "not_before": "1659-11-28",
+    "text": "Den 28. 1 a Vienna.",
+    "not_after": null,
+    "folio": "70r",
+    "file_name": "",
+    "lb_id": "lb-cal-249",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "250": {
+    "id": 250,
+    "order": "221.00000000000000000000",
+    "not_before": "1659-12-02",
+    "text": "Den 2. 10b. 1659 1 auf Wien vnd 1 in Bayrn geschriben.",
+    "not_after": null,
+    "folio": "75r",
+    "file_name": "",
+    "lb_id": "lb-cal-250",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "251": {
+    "id": 251,
+    "order": "222.00000000000000000000",
+    "not_before": "1659-12-10",
+    "text": "Den 10. 3 in Spanien, 2 in Tyrol vnd 1 in Bayrn.",
+    "not_after": null,
+    "folio": "75r",
+    "file_name": "",
+    "lb_id": "lb-cal-251",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "252": {
+    "id": 252,
+    "order": "223.00000000000000000000",
+    "not_before": "1659-12-17",
+    "text": "Den 17. ein in Bayrn geschriben.",
+    "not_after": null,
+    "folio": "75r",
+    "file_name": "",
+    "lb_id": "lb-cal-252",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "253": {
+    "id": 253,
+    "order": "224.00000000000000000000",
+    "not_before": "1659-12-23",
+    "text": "Den 23. 3 in Spanien, 2 in Bayrn vnd 2 in Tyrol vnd 1 Mantua.",
+    "not_after": null,
+    "folio": "75v",
+    "file_name": "",
+    "lb_id": "lb-cal-253",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "254": {
+    "id": 254,
+    "order": "225.00000000000000000000",
+    "not_before": "1659-12-31",
+    "text": "Den lezten ein in Bayrn vnd 2 auf Insprukh.",
+    "not_after": null,
+    "folio": "75v",
+    "file_name": "",
+    "lb_id": "lb-cal-254",
+    "places": [],
+    "mentioned_letters": []
+  },
+  "255": {
+    "id": 255,
+    "order": "226.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-255",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "256": {
+    "id": 256,
+    "order": "227.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-256",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "257": {
+    "id": 257,
+    "order": "228.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-257",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "258": {
+    "id": 258,
+    "order": "229.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-258",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "259": {
+    "id": 259,
+    "order": "230.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-259",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "260": {
+    "id": 260,
+    "order": "231.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-260",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "261": {
+    "id": 261,
+    "order": "232.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-261",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "262": {
+    "id": 262,
+    "order": "233.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-262",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "263": {
+    "id": 263,
+    "order": "234.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-263",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "264": {
+    "id": 264,
+    "order": "235.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-264",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "265": {
+    "id": 265,
+    "order": "236.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-265",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "266": {
+    "id": 266,
+    "order": "237.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-266",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "267": {
+    "id": 267,
+    "order": "238.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-267",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "268": {
+    "id": 268,
+    "order": "239.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-268",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "269": {
+    "id": 269,
+    "order": "240.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-269",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "270": {
+    "id": 270,
+    "order": "241.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-270",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "271": {
+    "id": 271,
+    "order": "242.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-271",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "272": {
+    "id": 272,
+    "order": "243.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-272",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "273": {
+    "id": 273,
+    "order": "244.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-273",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "274": {
+    "id": 274,
+    "order": "245.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-274",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "275": {
+    "id": 275,
+    "order": "246.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-275",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "276": {
+    "id": 276,
+    "order": "247.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-276",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "277": {
+    "id": 277,
+    "order": "248.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-277",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "278": {
+    "id": 278,
+    "order": "249.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-278",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "279": {
+    "id": 279,
+    "order": "250.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-279",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      }
+    ]
+  },
+  "280": {
+    "id": 280,
+    "order": "251.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-280",
+    "places": [],
+    "mentioned_letters": [
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
       }
     ]
   }
