@@ -342,5 +342,21 @@
     "first_name": "",
     "last_name": "",
     "maiden_name": ""
+  },
+  "80": {
+    "id": 80,
+    "order": "15.00000000000000000000",
+    "label": "Konrad Balthasar von Starhemberg",
+    "lb_id": "lb-person-80",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [],
+    "first_name": "Konrad Balthasar von",
+    "last_name": "Starhemberg",
+    "maiden_name": ""
   }
 }

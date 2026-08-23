@@ -438,5 +438,27 @@
     "longitude": null,
     "gnd_url": "",
     "endonym": ""
+  },
+  "163": {
+    "id": 163,
+    "order": "41.00000000000000000000",
+    "label": "Pardubitz",
+    "lb_id": "lb-place-163",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": "Pardubice"
+  },
+  "164": {
+    "id": 164,
+    "order": "42.00000000000000000000",
+    "label": "Liechtenstein",
+    "lb_id": "lb-place-164",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
   }
 }

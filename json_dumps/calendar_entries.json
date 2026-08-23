@@ -11384,8 +11384,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -11396,7 +11396,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -11931,9 +11931,9 @@
         "courier": [],
         "destination": [
           {
-            "id": 38,
-            "value": "Bayern",
-            "order": "6.00000000000000000000"
+            "id": 36,
+            "value": "München",
+            "order": "4.00000000000000000000"
           }
         ],
         "dictated_letter": false,
@@ -12463,7 +12463,7 @@
   "212": {
     "id": 212,
     "order": "183.00000000000000000000",
-    "not_before": "1659-06-11",
+    "not_before": "1659-06-18",
     "text": "Den 18. ein brieff in Bayrn geschriben",
     "not_after": null,
     "folio": "48v",
@@ -12472,17 +12472,17 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 465,
-        "order": "444.00000000000000000000",
-        "not_before": "1659-06-11",
+        "id": 470,
+        "order": "449.00000000000000000000",
+        "not_before": "1659-06-18",
         "not_after": null,
         "addressee_stated": [],
         "courier": [],
         "destination": [
           {
-            "id": 39,
-            "value": "Spanien",
-            "order": "7.00000000000000000000"
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
           }
         ],
         "dictated_letter": false,
@@ -12490,91 +12490,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-465"
-      },
-      {
-        "id": 466,
-        "order": "445.00000000000000000000",
-        "not_before": "1659-06-11",
-        "not_after": null,
-        "addressee_stated": [],
-        "courier": [],
-        "destination": [
-          {
-            "id": 39,
-            "value": "Spanien",
-            "order": "7.00000000000000000000"
-          }
-        ],
-        "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
-        "original_letter": [],
-        "correct_date": null,
-        "lb_id": "lb-ml-466"
-      },
-      {
-        "id": 467,
-        "order": "446.00000000000000000000",
-        "not_before": "1659-06-11",
-        "not_after": null,
-        "addressee_stated": [],
-        "courier": [],
-        "destination": [
-          {
-            "id": 39,
-            "value": "Spanien",
-            "order": "7.00000000000000000000"
-          }
-        ],
-        "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
-        "original_letter": [],
-        "correct_date": null,
-        "lb_id": "lb-ml-467"
-      },
-      {
-        "id": 468,
-        "order": "447.00000000000000000000",
-        "not_before": "1659-06-11",
-        "not_after": null,
-        "addressee_stated": [],
-        "courier": [],
-        "destination": [
-          {
-            "id": 160,
-            "value": "Innsbruck",
-            "order": "38.00000000000000000000"
-          }
-        ],
-        "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
-        "original_letter": [],
-        "correct_date": null,
-        "lb_id": "lb-ml-468"
-      },
-      {
-        "id": 469,
-        "order": "448.00000000000000000000",
-        "not_before": "1659-06-11",
-        "not_after": null,
-        "addressee_stated": [],
-        "courier": [],
-        "destination": [
-          {
-            "id": 36,
-            "value": "München",
-            "order": "4.00000000000000000000"
-          }
-        ],
-        "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
-        "original_letter": [],
-        "correct_date": null,
-        "lb_id": "lb-ml-469"
+        "lb_id": "lb-ml-470"
       }
     ]
   },
@@ -12630,6 +12546,69 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-472"
+      },
+      {
+        "id": 473,
+        "order": "452.00000000000000000000",
+        "not_before": "1659-06-25",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-473"
+      },
+      {
+        "id": 600,
+        "order": "452.50000000000000000000",
+        "not_before": "1659-06-25",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-600"
+      },
+      {
+        "id": 474,
+        "order": "453.00000000000000000000",
+        "not_before": "1659-06-25",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-474"
       }
     ]
   },
@@ -12643,7 +12622,29 @@
     "file_name": "",
     "lb_id": "lb-cal-214",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 475,
+        "order": "454.00000000000000000000",
+        "not_before": "1659-06-27",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 37,
+            "value": "Mantua",
+            "order": "5.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-475"
+      }
+    ]
   },
   "215": {
     "id": 215,
@@ -12655,7 +12656,113 @@
     "file_name": "",
     "lb_id": "lb-cal-215",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 476,
+        "order": "455.00000000000000000000",
+        "not_before": "1659-07-09",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-476"
+      },
+      {
+        "id": 477,
+        "order": "456.00000000000000000000",
+        "not_before": "1659-07-09",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-477"
+      },
+      {
+        "id": 478,
+        "order": "457.00000000000000000000",
+        "not_before": "1659-07-09",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 160,
+            "value": "Innsbruck",
+            "order": "38.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-478"
+      },
+      {
+        "id": 479,
+        "order": "458.00000000000000000000",
+        "not_before": "1659-07-09",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 160,
+            "value": "Innsbruck",
+            "order": "38.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-479"
+      },
+      {
+        "id": 480,
+        "order": "459.00000000000000000000",
+        "not_before": "1659-07-09",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 36,
+            "value": "München",
+            "order": "4.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-480"
+      }
+    ]
   },
   "216": {
     "id": 216,
@@ -12667,7 +12774,29 @@
     "file_name": "",
     "lb_id": "lb-cal-216",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 481,
+        "order": "460.00000000000000000000",
+        "not_before": "1659-07-16",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-481"
+      }
+    ]
   },
   "217": {
     "id": 217,
@@ -12679,7 +12808,92 @@
     "file_name": "",
     "lb_id": "lb-cal-217",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 482,
+        "order": "461.00000000000000000000",
+        "not_before": "1659-07-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-482"
+      },
+      {
+        "id": 483,
+        "order": "462.00000000000000000000",
+        "not_before": "1659-07-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 69,
+            "value": "Prag",
+            "order": "11.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-483"
+      },
+      {
+        "id": 484,
+        "order": "463.00000000000000000000",
+        "not_before": "1659-07-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 160,
+            "value": "Innsbruck",
+            "order": "38.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-484"
+      },
+      {
+        "id": 601,
+        "order": "463.50000000000000000000",
+        "not_before": "1659-07-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 160,
+            "value": "Innsbruck",
+            "order": "38.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-601"
+      }
+    ]
   },
   "218": {
     "id": 218,
@@ -12691,7 +12905,113 @@
     "file_name": "",
     "lb_id": "lb-cal-218",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 485,
+        "order": "464.00000000000000000000",
+        "not_before": "1659-07-30",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-485"
+      },
+      {
+        "id": 602,
+        "order": "464.50000000000000000000",
+        "not_before": "1659-07-30",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-602"
+      },
+      {
+        "id": 603,
+        "order": "464.66666666666668561447",
+        "not_before": "1659-07-30",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-603"
+      },
+      {
+        "id": 604,
+        "order": "464.75000000000000000000",
+        "not_before": "1659-07-30",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-604"
+      },
+      {
+        "id": 486,
+        "order": "465.00000000000000000000",
+        "not_before": "1659-07-30",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-486"
+      }
+    ]
   },
   "219": {
     "id": 219,
@@ -12703,7 +13023,71 @@
     "file_name": "",
     "lb_id": "lb-cal-219",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 487,
+        "order": "466.00000000000000000000",
+        "not_before": "1659-08-06",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-487"
+      },
+      {
+        "id": 488,
+        "order": "467.00000000000000000000",
+        "not_before": "1659-08-06",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-488"
+      },
+      {
+        "id": 489,
+        "order": "468.00000000000000000000",
+        "not_before": "1659-08-06",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-489"
+      }
+    ]
   },
   "220": {
     "id": 220,
@@ -12715,7 +13099,113 @@
     "file_name": "",
     "lb_id": "lb-cal-220",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 490,
+        "order": "469.00000000000000000000",
+        "not_before": "1659-08-12",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-490"
+      },
+      {
+        "id": 491,
+        "order": "470.00000000000000000000",
+        "not_before": "1659-08-12",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-491"
+      },
+      {
+        "id": 492,
+        "order": "471.00000000000000000000",
+        "not_before": "1659-08-12",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-492"
+      },
+      {
+        "id": 493,
+        "order": "472.00000000000000000000",
+        "not_before": "1659-08-12",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-493"
+      },
+      {
+        "id": 494,
+        "order": "473.00000000000000000000",
+        "not_before": "1659-08-12",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-494"
+      }
+    ]
   },
   "221": {
     "id": 221,
@@ -12727,7 +13217,29 @@
     "file_name": "",
     "lb_id": "lb-cal-221",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 495,
+        "order": "474.00000000000000000000",
+        "not_before": "1659-08-15",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-495"
+      }
+    ]
   },
   "222": {
     "id": 222,
@@ -12739,7 +13251,29 @@
     "file_name": "",
     "lb_id": "lb-cal-222",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 496,
+        "order": "475.00000000000000000000",
+        "not_before": "1659-08-22",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-496"
+      }
+    ]
   },
   "223": {
     "id": 223,
@@ -12751,7 +13285,29 @@
     "file_name": "",
     "lb_id": "lb-cal-223",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 497,
+        "order": "476.00000000000000000000",
+        "not_before": "1659-08-25",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 37,
+            "value": "Mantua",
+            "order": "5.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-497"
+      }
+    ]
   },
   "224": {
     "id": 224,
@@ -12763,7 +13319,113 @@
     "file_name": "",
     "lb_id": "lb-cal-224",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 498,
+        "order": "477.00000000000000000000",
+        "not_before": "1659-08-26",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-498"
+      },
+      {
+        "id": 499,
+        "order": "478.00000000000000000000",
+        "not_before": "1659-08-26",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-499"
+      },
+      {
+        "id": 500,
+        "order": "479.00000000000000000000",
+        "not_before": "1659-08-26",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-500"
+      },
+      {
+        "id": 501,
+        "order": "480.00000000000000000000",
+        "not_before": "1659-08-26",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-501"
+      },
+      {
+        "id": 502,
+        "order": "481.00000000000000000000",
+        "not_before": "1659-08-26",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-502"
+      }
+    ]
   },
   "225": {
     "id": 225,
@@ -12775,7 +13437,29 @@
     "file_name": "",
     "lb_id": "lb-cal-225",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 503,
+        "order": "482.00000000000000000000",
+        "not_before": "1659-08-29",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-503"
+      }
+    ]
   },
   "226": {
     "id": 226,
@@ -12787,7 +13471,50 @@
     "file_name": "",
     "lb_id": "lb-cal-226",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 504,
+        "order": "483.00000000000000000000",
+        "not_before": "1659-08-31",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-504"
+      },
+      {
+        "id": 505,
+        "order": "484.00000000000000000000",
+        "not_before": "1659-08-31",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-505"
+      }
+    ]
   },
   "227": {
     "id": 227,
@@ -12799,7 +13526,50 @@
     "file_name": "",
     "lb_id": "lb-cal-227",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 506,
+        "order": "485.00000000000000000000",
+        "not_before": "1659-09-02",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-506"
+      },
+      {
+        "id": 507,
+        "order": "486.00000000000000000000",
+        "not_before": "1659-09-02",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-507"
+      }
+    ]
   },
   "228": {
     "id": 228,
@@ -12811,7 +13581,134 @@
     "file_name": "",
     "lb_id": "lb-cal-228",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 508,
+        "order": "487.00000000000000000000",
+        "not_before": "1659-09-09",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-508"
+      },
+      {
+        "id": 509,
+        "order": "488.00000000000000000000",
+        "not_before": "1659-09-09",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-509"
+      },
+      {
+        "id": 510,
+        "order": "489.00000000000000000000",
+        "not_before": "1659-09-09",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-510"
+      },
+      {
+        "id": 511,
+        "order": "490.00000000000000000000",
+        "not_before": "1659-09-09",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-511"
+      },
+      {
+        "id": 512,
+        "order": "491.00000000000000000000",
+        "not_before": "1659-09-09",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 36,
+            "value": "München",
+            "order": "4.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-512"
+      },
+      {
+        "id": 513,
+        "order": "492.00000000000000000000",
+        "not_before": "1659-09-09",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-513"
+      }
+    ]
   },
   "229": {
     "id": 229,
@@ -12823,7 +13720,50 @@
     "file_name": "",
     "lb_id": "lb-cal-229",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 514,
+        "order": "493.00000000000000000000",
+        "not_before": "1659-09-12",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 160,
+            "value": "Innsbruck",
+            "order": "38.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-514"
+      },
+      {
+        "id": 515,
+        "order": "494.00000000000000000000",
+        "not_before": "1659-09-12",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-515"
+      }
+    ]
   },
   "230": {
     "id": 230,
@@ -12835,7 +13775,134 @@
     "file_name": "",
     "lb_id": "lb-cal-230",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 516,
+        "order": "495.00000000000000000000",
+        "not_before": "1659-09-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-516"
+      },
+      {
+        "id": 517,
+        "order": "496.00000000000000000000",
+        "not_before": "1659-09-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-517"
+      },
+      {
+        "id": 518,
+        "order": "497.00000000000000000000",
+        "not_before": "1659-09-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-518"
+      },
+      {
+        "id": 519,
+        "order": "498.00000000000000000000",
+        "not_before": "1659-09-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-519"
+      },
+      {
+        "id": 520,
+        "order": "499.00000000000000000000",
+        "not_before": "1659-09-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-520"
+      },
+      {
+        "id": 521,
+        "order": "500.00000000000000000000",
+        "not_before": "1659-09-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 36,
+            "value": "München",
+            "order": "4.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-521"
+      }
+    ]
   },
   "231": {
     "id": 231,
@@ -12847,7 +13914,29 @@
     "file_name": "",
     "lb_id": "lb-cal-231",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 522,
+        "order": "501.00000000000000000000",
+        "not_before": "1659-09-26",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-522"
+      }
+    ]
   },
   "232": {
     "id": 232,
@@ -12859,7 +13948,71 @@
     "file_name": "",
     "lb_id": "lb-cal-232",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 523,
+        "order": "502.00000000000000000000",
+        "not_before": "1659-09-30",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-523"
+      },
+      {
+        "id": 524,
+        "order": "503.00000000000000000000",
+        "not_before": "1659-09-30",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-524"
+      },
+      {
+        "id": 526,
+        "order": "505.00000000000000000000",
+        "not_before": "1659-09-30",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 36,
+            "value": "München",
+            "order": "4.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-526"
+      }
+    ]
   },
   "233": {
     "id": 233,
@@ -12871,7 +14024,50 @@
     "file_name": "",
     "lb_id": "lb-cal-233",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 527,
+        "order": "506.00000000000000000000",
+        "not_before": "1659-10-03",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-527"
+      },
+      {
+        "id": 528,
+        "order": "507.00000000000000000000",
+        "not_before": "1659-10-03",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-528"
+      }
+    ]
   },
   "234": {
     "id": 234,
@@ -12883,7 +14079,134 @@
     "file_name": "",
     "lb_id": "lb-cal-234",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 529,
+        "order": "508.00000000000000000000",
+        "not_before": "1659-10-07",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-529"
+      },
+      {
+        "id": 530,
+        "order": "509.00000000000000000000",
+        "not_before": "1659-10-07",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-530"
+      },
+      {
+        "id": 531,
+        "order": "510.00000000000000000000",
+        "not_before": "1659-10-07",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-531"
+      },
+      {
+        "id": 532,
+        "order": "511.00000000000000000000",
+        "not_before": "1659-10-07",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-532"
+      },
+      {
+        "id": 533,
+        "order": "512.00000000000000000000",
+        "not_before": "1659-10-07",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 36,
+            "value": "München",
+            "order": "4.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-533"
+      },
+      {
+        "id": 534,
+        "order": "513.00000000000000000000",
+        "not_before": "1659-10-07",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-534"
+      }
+    ]
   },
   "235": {
     "id": 235,
@@ -12895,7 +14218,50 @@
     "file_name": "",
     "lb_id": "lb-cal-235",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 535,
+        "order": "514.00000000000000000000",
+        "not_before": "1659-10-10",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-535"
+      },
+      {
+        "id": 536,
+        "order": "515.00000000000000000000",
+        "not_before": "1659-10-10",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-536"
+      }
+    ]
   },
   "236": {
     "id": 236,
@@ -12907,7 +14273,92 @@
     "file_name": "",
     "lb_id": "lb-cal-236",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 537,
+        "order": "516.00000000000000000000",
+        "not_before": "1659-10-14",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-537"
+      },
+      {
+        "id": 538,
+        "order": "517.00000000000000000000",
+        "not_before": "1659-10-14",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-538"
+      },
+      {
+        "id": 539,
+        "order": "518.00000000000000000000",
+        "not_before": "1659-10-14",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-539"
+      },
+      {
+        "id": 540,
+        "order": "519.00000000000000000000",
+        "not_before": "1659-10-14",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 36,
+            "value": "München",
+            "order": "4.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-540"
+      }
+    ]
   },
   "237": {
     "id": 237,
@@ -12919,7 +14370,92 @@
     "file_name": "",
     "lb_id": "lb-cal-237",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 541,
+        "order": "520.00000000000000000000",
+        "not_before": "1659-10-21",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-541"
+      },
+      {
+        "id": 542,
+        "order": "521.00000000000000000000",
+        "not_before": "1659-10-21",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-542"
+      },
+      {
+        "id": 543,
+        "order": "522.00000000000000000000",
+        "not_before": "1659-10-21",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-543"
+      },
+      {
+        "id": 544,
+        "order": "523.00000000000000000000",
+        "not_before": "1659-10-21",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 36,
+            "value": "München",
+            "order": "4.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-544"
+      }
+    ]
   },
   "238": {
     "id": 238,
@@ -12931,7 +14467,50 @@
     "file_name": "",
     "lb_id": "lb-cal-238",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 545,
+        "order": "524.00000000000000000000",
+        "not_before": "1659-10-29",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-545"
+      },
+      {
+        "id": 546,
+        "order": "525.00000000000000000000",
+        "not_before": "1659-10-29",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-546"
+      }
+    ]
   },
   "239": {
     "id": 239,
@@ -12943,7 +14522,71 @@
     "file_name": "",
     "lb_id": "lb-cal-239",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 547,
+        "order": "526.00000000000000000000",
+        "not_before": "1659-11-02",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-547"
+      },
+      {
+        "id": 548,
+        "order": "527.00000000000000000000",
+        "not_before": "1659-11-02",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-548"
+      },
+      {
+        "id": 549,
+        "order": "528.00000000000000000000",
+        "not_before": "1659-11-02",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-549"
+      }
+    ]
   },
   "240": {
     "id": 240,
@@ -12955,7 +14598,134 @@
     "file_name": "",
     "lb_id": "lb-cal-240",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 550,
+        "order": "529.00000000000000000000",
+        "not_before": "1659-11-03",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 72,
+            "value": "Madrid",
+            "order": "14.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-550"
+      },
+      {
+        "id": 551,
+        "order": "530.00000000000000000000",
+        "not_before": "1659-11-03",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 72,
+            "value": "Madrid",
+            "order": "14.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-551"
+      },
+      {
+        "id": 552,
+        "order": "531.00000000000000000000",
+        "not_before": "1659-11-03",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 72,
+            "value": "Madrid",
+            "order": "14.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-552"
+      },
+      {
+        "id": 553,
+        "order": "532.00000000000000000000",
+        "not_before": "1659-11-03",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-553"
+      },
+      {
+        "id": 554,
+        "order": "533.00000000000000000000",
+        "not_before": "1659-11-03",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 36,
+            "value": "München",
+            "order": "4.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-554"
+      },
+      {
+        "id": 555,
+        "order": "534.00000000000000000000",
+        "not_before": "1659-11-03",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-555"
+      }
+    ]
   },
   "241": {
     "id": 241,
@@ -12967,7 +14737,50 @@
     "file_name": "",
     "lb_id": "lb-cal-241",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 556,
+        "order": "535.00000000000000000000",
+        "not_before": "1659-11-06",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-556"
+      },
+      {
+        "id": 557,
+        "order": "536.00000000000000000000",
+        "not_before": "1659-11-06",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-557"
+      }
+    ]
   },
   "242": {
     "id": 242,
@@ -12979,7 +14792,29 @@
     "file_name": "",
     "lb_id": "lb-cal-242",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 558,
+        "order": "537.00000000000000000000",
+        "not_before": "1659-11-07",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-558"
+      }
+    ]
   },
   "243": {
     "id": 243,
@@ -12991,7 +14826,29 @@
     "file_name": "",
     "lb_id": "lb-cal-243",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 559,
+        "order": "538.00000000000000000000",
+        "not_before": "1659-11-09",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-559"
+      }
+    ]
   },
   "244": {
     "id": 244,
@@ -13003,7 +14860,113 @@
     "file_name": "",
     "lb_id": "lb-cal-244",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 560,
+        "order": "539.00000000000000000000",
+        "not_before": "1659-11-11",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-560"
+      },
+      {
+        "id": 561,
+        "order": "540.00000000000000000000",
+        "not_before": "1659-11-11",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-561"
+      },
+      {
+        "id": 562,
+        "order": "541.00000000000000000000",
+        "not_before": "1659-11-11",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-562"
+      },
+      {
+        "id": 563,
+        "order": "542.00000000000000000000",
+        "not_before": "1659-11-11",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-563"
+      },
+      {
+        "id": 564,
+        "order": "543.00000000000000000000",
+        "not_before": "1659-11-11",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 36,
+            "value": "München",
+            "order": "4.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-564"
+      }
+    ]
   },
   "245": {
     "id": 245,
@@ -13015,7 +14978,71 @@
     "file_name": "",
     "lb_id": "lb-cal-245",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 565,
+        "order": "544.00000000000000000000",
+        "not_before": "1659-11-14",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-565"
+      },
+      {
+        "id": 566,
+        "order": "545.00000000000000000000",
+        "not_before": "1659-11-14",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-566"
+      },
+      {
+        "id": 567,
+        "order": "546.00000000000000000000",
+        "not_before": "1659-11-14",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-567"
+      }
+    ]
   },
   "246": {
     "id": 246,
@@ -13027,7 +15054,92 @@
     "file_name": "",
     "lb_id": "lb-cal-246",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 568,
+        "order": "547.00000000000000000000",
+        "not_before": "1659-11-18",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-568"
+      },
+      {
+        "id": 569,
+        "order": "548.00000000000000000000",
+        "not_before": "1659-11-18",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-569"
+      },
+      {
+        "id": 570,
+        "order": "549.00000000000000000000",
+        "not_before": "1659-11-18",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-570"
+      },
+      {
+        "id": 571,
+        "order": "550.00000000000000000000",
+        "not_before": "1659-11-18",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-571"
+      }
+    ]
   },
   "247": {
     "id": 247,
@@ -13039,7 +15151,50 @@
     "file_name": "",
     "lb_id": "lb-cal-247",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 572,
+        "order": "551.00000000000000000000",
+        "not_before": "1659-11-21",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-572"
+      },
+      {
+        "id": 573,
+        "order": "552.00000000000000000000",
+        "not_before": "1659-11-21",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-573"
+      }
+    ]
   },
   "248": {
     "id": 248,
@@ -13051,7 +15206,113 @@
     "file_name": "",
     "lb_id": "lb-cal-248",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 574,
+        "order": "553.00000000000000000000",
+        "not_before": "1659-11-25",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-574"
+      },
+      {
+        "id": 575,
+        "order": "554.00000000000000000000",
+        "not_before": "1659-11-25",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-575"
+      },
+      {
+        "id": 576,
+        "order": "555.00000000000000000000",
+        "not_before": "1659-11-25",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-576"
+      },
+      {
+        "id": 577,
+        "order": "556.00000000000000000000",
+        "not_before": "1659-11-25",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-577"
+      },
+      {
+        "id": 578,
+        "order": "557.00000000000000000000",
+        "not_before": "1659-11-25",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 36,
+            "value": "München",
+            "order": "4.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-578"
+      }
+    ]
   },
   "249": {
     "id": 249,
@@ -13063,7 +15324,29 @@
     "file_name": "",
     "lb_id": "lb-cal-249",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 579,
+        "order": "558.00000000000000000000",
+        "not_before": "1659-11-28",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-579"
+      }
+    ]
   },
   "250": {
     "id": 250,
@@ -13075,7 +15358,50 @@
     "file_name": "",
     "lb_id": "lb-cal-250",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 580,
+        "order": "559.00000000000000000000",
+        "not_before": "1659-12-02",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-580"
+      },
+      {
+        "id": 581,
+        "order": "560.00000000000000000000",
+        "not_before": "1659-12-02",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-581"
+      }
+    ]
   },
   "251": {
     "id": 251,
@@ -13087,7 +15413,134 @@
     "file_name": "",
     "lb_id": "lb-cal-251",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 582,
+        "order": "561.00000000000000000000",
+        "not_before": "1659-12-10",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-582"
+      },
+      {
+        "id": 583,
+        "order": "562.00000000000000000000",
+        "not_before": "1659-12-10",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-583"
+      },
+      {
+        "id": 584,
+        "order": "563.00000000000000000000",
+        "not_before": "1659-12-10",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-584"
+      },
+      {
+        "id": 585,
+        "order": "564.00000000000000000000",
+        "not_before": "1659-12-10",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-585"
+      },
+      {
+        "id": 586,
+        "order": "565.00000000000000000000",
+        "not_before": "1659-12-10",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-586"
+      },
+      {
+        "id": 587,
+        "order": "566.00000000000000000000",
+        "not_before": "1659-12-10",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-587"
+      }
+    ]
   },
   "252": {
     "id": 252,
@@ -13099,7 +15552,29 @@
     "file_name": "",
     "lb_id": "lb-cal-252",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 588,
+        "order": "567.00000000000000000000",
+        "not_before": "1659-12-17",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-588"
+      }
+    ]
   },
   "253": {
     "id": 253,
@@ -13111,7 +15586,176 @@
     "file_name": "",
     "lb_id": "lb-cal-253",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 589,
+        "order": "568.00000000000000000000",
+        "not_before": "1659-12-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-589"
+      },
+      {
+        "id": 590,
+        "order": "569.00000000000000000000",
+        "not_before": "1659-12-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-590"
+      },
+      {
+        "id": 591,
+        "order": "570.00000000000000000000",
+        "not_before": "1659-12-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-591"
+      },
+      {
+        "id": 592,
+        "order": "571.00000000000000000000",
+        "not_before": "1659-12-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-592"
+      },
+      {
+        "id": 593,
+        "order": "572.00000000000000000000",
+        "not_before": "1659-12-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-593"
+      },
+      {
+        "id": 594,
+        "order": "573.00000000000000000000",
+        "not_before": "1659-12-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-594"
+      },
+      {
+        "id": 595,
+        "order": "574.00000000000000000000",
+        "not_before": "1659-12-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-595"
+      },
+      {
+        "id": 596,
+        "order": "575.00000000000000000000",
+        "not_before": "1659-12-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 37,
+            "value": "Mantua",
+            "order": "5.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-596"
+      }
+    ]
   },
   "254": {
     "id": 254,
@@ -13123,7 +15767,71 @@
     "file_name": "",
     "lb_id": "lb-cal-254",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 597,
+        "order": "576.00000000000000000000",
+        "not_before": "1659-12-31",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 38,
+            "value": "Bayern",
+            "order": "6.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-597"
+      },
+      {
+        "id": 598,
+        "order": "577.00000000000000000000",
+        "not_before": "1659-12-31",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 160,
+            "value": "Innsbruck",
+            "order": "38.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-598"
+      },
+      {
+        "id": 599,
+        "order": "578.00000000000000000000",
+        "not_before": "1659-12-31",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 160,
+            "value": "Innsbruck",
+            "order": "38.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-599"
+      }
+    ]
   },
   "255": {
     "id": 255,
@@ -13137,8 +15845,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13149,7 +15857,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13165,8 +15873,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13177,7 +15885,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13193,8 +15901,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13205,7 +15913,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13221,8 +15929,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13233,7 +15941,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13249,8 +15957,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13261,7 +15969,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13277,8 +15985,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13289,7 +15997,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13305,8 +16013,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13317,7 +16025,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13333,8 +16041,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13345,7 +16053,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13361,8 +16069,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13373,7 +16081,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13389,8 +16097,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13401,7 +16109,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13417,8 +16125,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13429,7 +16137,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13445,8 +16153,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13457,7 +16165,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13473,8 +16181,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13485,7 +16193,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13501,8 +16209,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13513,7 +16221,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13529,8 +16237,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13541,7 +16249,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13557,8 +16265,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13569,7 +16277,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13585,8 +16293,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13597,7 +16305,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13613,8 +16321,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13625,7 +16333,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13641,8 +16349,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13653,7 +16361,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13669,8 +16377,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13681,7 +16389,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13697,8 +16405,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13709,7 +16417,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13725,8 +16433,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13737,7 +16445,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13753,8 +16461,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13765,7 +16473,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13781,8 +16489,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13793,7 +16501,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13809,8 +16517,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13821,7 +16529,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   },
@@ -13837,8 +16545,8 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 473,
-        "order": "452.00000000000000000000",
+        "id": 525,
+        "order": "504.00000000000000000000",
         "not_before": null,
         "not_after": null,
         "addressee_stated": [],
@@ -13849,7 +16557,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-473"
+        "lb_id": "lb-ml-525"
       }
     ]
   }

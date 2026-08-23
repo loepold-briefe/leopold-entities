@@ -33843,7 +33843,145 @@
   "425": {
     "id": 425,
     "order": "37.99000000000000198952",
-    "lb_id": "",
+    "lb_id": "lb-00346",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "label": "Johann Maximilian von Lamberg",
+        "lb_id": "lb-person-3",
+        "gnd_url": "https://d-nb.info/gnd/118823795",
+        "place_of_birth": [
+          {
+            "id": 3,
+            "order": "3.00000000000000000000",
+            "label": "Brünn",
+            "lb_id": "lb-place-3",
+            "geonames_url": "https://www.geonames.org/3078610/brno.html",
+            "latitude": "49.19522",
+            "longitude": "16.60796",
+            "gnd_url": "",
+            "endonym": "Brno"
+          }
+        ],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1662-05-10",
+    "not_after": "1662-05-10",
+    "written_date": "10. Mai 1662",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1240, Fasz. 30, Nr. 661/1",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Laxenburg",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "received_date": "1662-05-11",
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "426": {
+    "id": 426,
+    "order": "37.99009900990098742568",
+    "lb_id": "lb-00348",
     "sender": [
       {
         "id": 1,
@@ -33882,7 +34020,7 @@
       }
     ],
     "not_before": null,
-    "not_after": null,
+    "not_after": "1665-10-06",
     "written_date": "",
     "date_note": "",
     "archiv": [
@@ -33916,7 +34054,133 @@
       }
     ],
     "collection": "HA Steyr",
-    "signatur": "K. 1237, Fasz. 26, Nr. 481/, fol. ‒",
+    "signatur": "K. 1240, Fasz. 30, Nr. 661/3",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [
+      {
+        "id": 160,
+        "order": "38.00000000000000000000",
+        "label": "Innsbruck",
+        "lb_id": "lb-place-160",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "received_date": "1665-10-06",
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "429": {
+    "id": 429,
+    "order": "37.99019607843137436021",
+    "lb_id": "lb-00349",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "label": "Johann Maximilian von Lamberg",
+        "lb_id": "lb-person-3",
+        "gnd_url": "https://d-nb.info/gnd/118823795",
+        "place_of_birth": [
+          {
+            "id": 3,
+            "order": "3.00000000000000000000",
+            "label": "Brünn",
+            "lb_id": "lb-place-3",
+            "geonames_url": "https://www.geonames.org/3078610/brno.html",
+            "latitude": "49.19522",
+            "longitude": "16.60796",
+            "gnd_url": "",
+            "endonym": "Brno"
+          }
+        ],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-12-17",
+    "not_after": "1667-12-17",
+    "written_date": "17. Dezember 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1240, Fasz. 30, Nr. 661/4",
     "kind": [
       {
         "id": 23015,
@@ -33951,7 +34215,121 @@
         "endonym": null
       }
     ],
-    "placename_written": "[Wien]",
+    "placename_written": "Wienn",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": "1667-12-17",
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "430": {
+    "id": 430,
+    "order": "37.99029126213591922578",
+    "lb_id": "lb-00350",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1676-06-27",
+    "not_after": "1676-06-27",
+    "written_date": "27. Juni 1676",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr. 2",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 144,
+        "order": "22.00000000000000000000",
+        "label": "Wiener Neustadt",
+        "lb_id": "lb-place-144",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Neystatt",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -33966,9 +34344,2475 @@
     "entities": false,
     "related_letters": []
   },
-  "426": {
-    "id": 426,
-    "order": "37.99009900990098742568",
+  "431": {
+    "id": 431,
+    "order": "37.99038461538461319833",
+    "lb_id": "lb-00351",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1679-12-02",
+    "not_after": "1679-12-02",
+    "written_date": "2. Dezember 1679",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr. 3",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "placename_written": "Prag",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "432": {
+    "id": 432,
+    "order": "37.99047619047618695731",
+    "lb_id": "lb.00352",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1679-11-18",
+    "not_after": "1679-11-18",
+    "written_date": "18. November 1679",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr. 4",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "placename_written": "Prag",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "433": {
+    "id": 433,
+    "order": "37.99056603773584583905",
+    "lb_id": "lb-00353",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1679-08-30",
+    "not_after": "1679-08-30",
+    "written_date": "30. August 1679",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr. 8",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 153,
+        "order": "31.00000000000000000000",
+        "label": "Mariazell",
+        "lb_id": "lb-place-153",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Zell",
+    "destination": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "434": {
+    "id": 434,
+    "order": "37.99065420560747696754",
+    "lb_id": "lb-00354",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1679-09-13",
+    "not_after": "1679-09-13",
+    "written_date": "13. September 1679",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr. 12",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 155,
+        "order": "33.00000000000000000000",
+        "label": "Iglau",
+        "lb_id": "lb-place-155",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": "Jihlava"
+      }
+    ],
+    "placename_written": "Iglaw",
+    "destination": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "435": {
+    "id": 435,
+    "order": "37.99074074074074047758",
+    "lb_id": "lb-00355",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1679-09-23",
+    "not_after": "1679-09-23",
+    "written_date": "23. September 1679",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr. 15",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "placename_written": "Prag",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "436": {
+    "id": 436,
+    "order": "37.99082568807339299610",
+    "lb_id": "lb-00356",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1679-10-04",
+    "not_after": "1679-10-04",
+    "written_date": "4. Oktober 1679",
+    "date_note": "Tag unsicher",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr. 18",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "placename_written": "Prag",
+    "destination": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "437": {
+    "id": 437,
+    "order": "37.99090909090909207180",
+    "lb_id": "lb-00357",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1679-10-14",
+    "not_after": "1679-10-14",
+    "written_date": "14. Oktober 1679",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr. 22",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 156,
+        "order": "34.00000000000000000000",
+        "label": "Brandeis",
+        "lb_id": "lb-place-156",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": "Brandýs nad Labem"
+      }
+    ],
+    "placename_written": "Brandeiß",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "438": {
+    "id": 438,
+    "order": "37.99099099099099419163",
+    "lb_id": "lb-00358",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1679-12-23",
+    "not_after": "1679-12-23",
+    "written_date": "23. Dezember 1679",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr. 31",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "placename_written": "Prag",
+    "destination": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "439": {
+    "id": 439,
+    "order": "37.99107142857143060155",
+    "lb_id": "lb-00359",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1680-02-21",
+    "not_after": "1680-02-21",
+    "written_date": "21. Februar 1680",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr. 39",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "placename_written": "Prag",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "440": {
+    "id": 440,
+    "order": "37.99115044247787409404",
+    "lb_id": "lb-00360",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1680-04-24",
+    "not_after": "1680-04-24",
+    "written_date": "24. April 1680",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 6,9 Sign. A18, Fasz. 1, Nr. 45",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "placename_written": "Prag",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "441": {
+    "id": 441,
+    "order": "37.99122807017543834718",
+    "lb_id": "lb-00361",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1680-05-22",
+    "not_after": "1680-05-22",
+    "written_date": "22. Mai 1680",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr. 48",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 156,
+        "order": "34.00000000000000000000",
+        "label": "Brandeis",
+        "lb_id": "lb-place-156",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": "Brandýs nad Labem"
+      }
+    ],
+    "placename_written": "Brandeis",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "442": {
+    "id": 442,
+    "order": "37.99130434782608745081",
+    "lb_id": "lb-00362",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1680-06-14",
+    "not_after": "1680-06-14",
+    "written_date": "14. Juni 1680",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr. 50",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 163,
+        "order": "41.00000000000000000000",
+        "label": "Pardubitz",
+        "lb_id": "lb-place-163",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": "Pardubice"
+      }
+    ],
+    "placename_written": "Parduwiz",
+    "destination": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "443": {
+    "id": 443,
+    "order": "37.99137931034482562609",
+    "lb_id": "lb-00363",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1680-07-02",
+    "not_after": "1680-07-02",
+    "written_date": "2. Juli 1680",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr. 51",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 163,
+        "order": "41.00000000000000000000",
+        "label": "Pardubitz",
+        "lb_id": "lb-place-163",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": "Pardubice"
+      }
+    ],
+    "placename_written": "Parduwiz",
+    "destination": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "444": {
+    "id": 444,
+    "order": "37.99145299145298793064",
+    "lb_id": "lb-00364",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1680-07-23",
+    "not_after": "1680-07-23",
+    "written_date": "23. Juli 1680",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr. 55",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 2,
+        "order": "2.00000000000000000000",
+        "label": "Linz",
+        "lb_id": "lb-place-2",
+        "geonames_url": "https://sws.geonames.org/2772400/",
+        "latitude": "48.30639",
+        "longitude": "14.28611",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Lintz",
+    "destination": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "445": {
+    "id": 445,
+    "order": "37.99152542372881669053",
+    "lb_id": "lb-00365",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1680-08-06",
+    "not_after": "1680-08-06",
+    "written_date": "6. August 1680",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr. 57",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 2,
+        "order": "2.00000000000000000000",
+        "label": "Linz",
+        "lb_id": "lb-place-2",
+        "geonames_url": "https://sws.geonames.org/2772400/",
+        "latitude": "48.30639",
+        "longitude": "14.28611",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Lintz",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "446": {
+    "id": 446,
+    "order": "37.99159663865545866202",
+    "lb_id": "lb-00366",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1680-08-06",
+    "not_after": "1680-08-23",
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr. 58",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "447": {
+    "id": 447,
+    "order": "37.99166666666666714036",
+    "lb_id": "lb-00367",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1680-08-23",
+    "not_after": "1680-08-23",
+    "written_date": "23. August 1680",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr. 59",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 2,
+        "order": "2.00000000000000000000",
+        "label": "Linz",
+        "lb_id": "lb-place-2",
+        "geonames_url": "https://sws.geonames.org/2772400/",
+        "latitude": "48.30639",
+        "longitude": "14.28611",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Lintz",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "448": {
+    "id": 448,
+    "order": "37.99173553719008111784",
+    "lb_id": "lb-00368",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1679-08-23",
+    "not_after": "1679-08-23",
+    "written_date": "23. August 1679",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr. 61",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 164,
+        "order": "42.00000000000000000000",
+        "label": "Liechtenstein",
+        "lb_id": "lb-place-164",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "placename_written": "Liechtenstein",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "449": {
+    "id": 449,
+    "order": "37.99180327868852202755",
+    "lb_id": "lb-00369",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1680-09-03",
+    "not_after": "1680-09-03",
+    "written_date": "3. September 1680",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr. 62",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 2,
+        "order": "2.00000000000000000000",
+        "label": "Linz",
+        "lb_id": "lb-place-2",
+        "geonames_url": "https://sws.geonames.org/2772400/",
+        "latitude": "48.30639",
+        "longitude": "14.28611",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Linzt",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "450": {
+    "id": 450,
+    "order": "37.99186991869918728071",
+    "lb_id": "lb-00370",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1680-09-24",
+    "not_after": "1680-09-24",
+    "written_date": "24. September 1680",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr. 64",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 2,
+        "order": "2.00000000000000000000",
+        "label": "Linz",
+        "lb_id": "lb-place-2",
+        "geonames_url": "https://sws.geonames.org/2772400/",
+        "latitude": "48.30639",
+        "longitude": "14.28611",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Lintz",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "451": {
+    "id": 451,
+    "order": "37.99193548387096797114",
+    "lb_id": "lb-00371",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1680-10-08",
+    "not_after": "1680-10-08",
+    "written_date": "8. Oktober 1680",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr. 66",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 2,
+        "order": "2.00000000000000000000",
+        "label": "Linz",
+        "lb_id": "lb-place-2",
+        "geonames_url": "https://sws.geonames.org/2772400/",
+        "latitude": "48.30639",
+        "longitude": "14.28611",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Lintz",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "452": {
+    "id": 452,
+    "order": "37.99199999999999732836",
     "lb_id": "",
     "sender": [
       {
@@ -33979,31 +36823,19 @@
     ],
     "receiver": [
       {
-        "id": 3,
-        "order": "3.00000000000000000000",
-        "label": "Johann Maximilian von Lamberg",
-        "lb_id": "lb-person-3",
-        "gnd_url": "https://d-nb.info/gnd/118823795",
-        "place_of_birth": [
-          {
-            "id": 3,
-            "order": "3.00000000000000000000",
-            "label": "Brünn",
-            "lb_id": "lb-place-3",
-            "geonames_url": "https://www.geonames.org/3078610/brno.html",
-            "latitude": "49.19522",
-            "longitude": "16.60796",
-            "gnd_url": "",
-            "endonym": "Brno"
-          }
-        ],
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
         "date_of_birth": null,
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
         "mentioned_letters - courier": [],
-        "first_name": "Johann Maximilian von",
-        "last_name": "Lamberg",
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
         "maiden_name": null
       }
     ],
@@ -34041,8 +36873,8 @@
         "translation": null
       }
     ],
-    "collection": "HA Steyr",
-    "signatur": "K. 1237, Fasz. 26, Nr. 481/, fol. ‒",
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
     "kind": [
       {
         "id": 23015,
@@ -34066,18 +36898,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
         "gnd_url": "",
-        "endonym": null
+        "endonym": "Praha"
       }
     ],
-    "placename_written": "[Wien]",
+    "placename_written": "",
     "destination": [],
     "hand": [],
     "edition": [],

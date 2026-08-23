@@ -206,6 +206,13 @@
                <person xml:id="lb-person-79" n="Raimondo Montecuccoli">
                   <persName type="preferred">Raimondo Montecuccoli</persName>
                </person>
+               <person xml:id="lb-person-80" n="Konrad Balthasar von Starhemberg">
+                  <persName type="preferred">Konrad Balthasar von Starhemberg</persName>
+                  <persName type="parts">
+                     <forename>Konrad Balthasar von</forename>
+                     <surname>Starhemberg</surname>
+                  </persName>
+               </person>
             </listPerson>
          </div>
       </body>

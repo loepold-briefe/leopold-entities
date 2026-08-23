@@ -228,6 +228,12 @@
                <place xml:id="lb-place-162">
                   <placeName>Bonn</placeName>
                </place>
+               <place xml:id="lb-place-163">
+                  <placeName>Pardubitz</placeName>
+               </place>
+               <place xml:id="lb-place-164">
+                  <placeName>Liechtenstein</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

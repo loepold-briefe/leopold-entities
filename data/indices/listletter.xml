@@ -6966,6 +6966,664 @@
             </correspAction>
             <!--  -->
          </correspDesc>
+         <correspDesc xml:id="lb-00346" n="Leopold I. an Johann Maximilian von Lamberg am 10. Mai 1662 (Laxenburg)">
+            <noteGrp type="metadata">
+               <note type="not_before">1662-05-10</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Steyr</note>
+               <note type="signatur">K. 1240, Fasz. 30, Nr. 661/1</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-108" ref="https://www.geonames.org/2772809/schloss-laxenburg.html">Laxenburg</placeName>
+               <placeName type="written">Laxenburg</placeName>
+               <date when="1662-05-10">10. Mai 1662</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Johann Maximilian von Lamberg</persName>
+               <placeName type="received_place" key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <date when="1662-05-11">1662-05-11</date>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00348" n="Leopold I. an Johann Maximilian von Lamberg am 1665-10-06 (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Steyr</note>
+               <note type="signatur">K. 1240, Fasz. 30, Nr. 661/3</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <date notAfter="1665-10-06">1665-10-06</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Johann Maximilian von Lamberg</persName>
+               <placeName type="received_place" key="lb-place-160">Innsbruck</placeName>
+               <date when="1665-10-06">1665-10-06</date>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00349" n="Leopold I. an Johann Maximilian von Lamberg am 17. Dezember 1667 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1667-12-17</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Steyr</note>
+               <note type="signatur">K. 1240, Fasz. 30, Nr. 661/4</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Wienn</placeName>
+               <date when="1667-12-17">17. Dezember 1667</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Johann Maximilian von Lamberg</persName>
+               <date when="1667-12-17">1667-12-17</date>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00350" n="Leopold I. an Konrad Balthasar von Starhemberg am 27. Juni 1676 (Wiener Neustadt)">
+            <noteGrp type="metadata">
+               <note type="not_before">1676-06-27</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr. 2</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-144">Wiener Neustadt</placeName>
+               <placeName type="written">Neystatt</placeName>
+               <date when="1676-06-27">27. Juni 1676</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00351" n="Leopold I. an Konrad Balthasar von Starhemberg am 2. Dezember 1679 (Prag)">
+            <noteGrp type="metadata">
+               <note type="not_before">1679-12-02</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr. 3</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-69" ref="https://www.geonames.org/3067696/prague.html">Prag</placeName>
+               <placeName type="written">Prag</placeName>
+               <date when="1679-12-02">2. Dezember 1679</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb.00352" n="Leopold I. an Konrad Balthasar von Starhemberg am 18. November 1679 (Prag)">
+            <noteGrp type="metadata">
+               <note type="not_before">1679-11-18</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr. 4</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-69" ref="https://www.geonames.org/3067696/prague.html">Prag</placeName>
+               <placeName type="written">Prag</placeName>
+               <date when="1679-11-18">18. November 1679</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00353" n="Leopold I. an Konrad Balthasar von Starhemberg am 30. August 1679 (Mariazell)">
+            <noteGrp type="metadata">
+               <note type="not_before">1679-08-30</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr. 8</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-153">Mariazell</placeName>
+               <placeName type="written">Zell</placeName>
+               <date when="1679-08-30">30. August 1679</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+               <placeName type="destination" key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00354" n="Leopold I. an Konrad Balthasar von Starhemberg am 13. September 1679 (Iglau)">
+            <noteGrp type="metadata">
+               <note type="not_before">1679-09-13</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr. 12</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-155">Iglau</placeName>
+               <placeName type="written">Iglaw</placeName>
+               <date when="1679-09-13">13. September 1679</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+               <placeName type="destination" key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00355" n="Leopold I. an Konrad Balthasar von Starhemberg am 23. September 1679 (Prag)">
+            <noteGrp type="metadata">
+               <note type="not_before">1679-09-23</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr. 15</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-69" ref="https://www.geonames.org/3067696/prague.html">Prag</placeName>
+               <placeName type="written">Prag</placeName>
+               <date when="1679-09-23">23. September 1679</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00356" n="Leopold I. an Konrad Balthasar von Starhemberg am 4. Oktober 1679 (Prag)">
+            <noteGrp type="metadata">
+               <note type="not_before">1679-10-04</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr. 18</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-69" ref="https://www.geonames.org/3067696/prague.html">Prag</placeName>
+               <placeName type="written">Prag</placeName>
+               <date when="1679-10-04">4. Oktober 1679</date>
+               <note type="date">Tag unsicher</note>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+               <placeName type="destination" key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00357" n="Leopold I. an Konrad Balthasar von Starhemberg am 14. Oktober 1679 (Brandeis)">
+            <noteGrp type="metadata">
+               <note type="not_before">1679-10-14</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr. 22</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-156">Brandeis</placeName>
+               <placeName type="written">Brandeiß</placeName>
+               <date when="1679-10-14">14. Oktober 1679</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00358" n="Leopold I. an Konrad Balthasar von Starhemberg am 23. Dezember 1679 (Prag)">
+            <noteGrp type="metadata">
+               <note type="not_before">1679-12-23</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr. 31</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-69" ref="https://www.geonames.org/3067696/prague.html">Prag</placeName>
+               <placeName type="written">Prag</placeName>
+               <date when="1679-12-23">23. Dezember 1679</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+               <placeName type="destination" key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00359" n="Leopold I. an Konrad Balthasar von Starhemberg am 21. Februar 1680 (Prag)">
+            <noteGrp type="metadata">
+               <note type="not_before">1680-02-21</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr. 39</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-69" ref="https://www.geonames.org/3067696/prague.html">Prag</placeName>
+               <placeName type="written">Prag</placeName>
+               <date when="1680-02-21">21. Februar 1680</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00360" n="Leopold I. an Konrad Balthasar von Starhemberg am 24. April 1680 (Prag)">
+            <noteGrp type="metadata">
+               <note type="not_before">1680-04-24</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 6,9 Sign. A18, Fasz. 1, Nr. 45</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-69" ref="https://www.geonames.org/3067696/prague.html">Prag</placeName>
+               <placeName type="written">Prag</placeName>
+               <date when="1680-04-24">24. April 1680</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00361" n="Leopold I. an Konrad Balthasar von Starhemberg am 22. Mai 1680 (Brandeis)">
+            <noteGrp type="metadata">
+               <note type="not_before">1680-05-22</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr. 48</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-156">Brandeis</placeName>
+               <placeName type="written">Brandeis</placeName>
+               <date when="1680-05-22">22. Mai 1680</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00362" n="Leopold I. an Konrad Balthasar von Starhemberg am 14. Juni 1680 (Pardubitz)">
+            <noteGrp type="metadata">
+               <note type="not_before">1680-06-14</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr. 50</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-163">Pardubitz</placeName>
+               <placeName type="written">Parduwiz</placeName>
+               <date when="1680-06-14">14. Juni 1680</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+               <placeName type="destination" key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00363" n="Leopold I. an Konrad Balthasar von Starhemberg am 2. Juli 1680 (Pardubitz)">
+            <noteGrp type="metadata">
+               <note type="not_before">1680-07-02</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr. 51</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-163">Pardubitz</placeName>
+               <placeName type="written">Parduwiz</placeName>
+               <date when="1680-07-02">2. Juli 1680</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+               <placeName type="destination" key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00364" n="Leopold I. an Konrad Balthasar von Starhemberg am 23. Juli 1680 (Linz)">
+            <noteGrp type="metadata">
+               <note type="not_before">1680-07-23</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr. 55</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-2" ref="https://sws.geonames.org/2772400/">Linz</placeName>
+               <placeName type="written">Lintz</placeName>
+               <date when="1680-07-23">23. Juli 1680</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+               <placeName type="destination" key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00365" n="Leopold I. an Konrad Balthasar von Starhemberg am 6. August 1680 (Linz)">
+            <noteGrp type="metadata">
+               <note type="not_before">1680-08-06</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr. 57</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-2" ref="https://sws.geonames.org/2772400/">Linz</placeName>
+               <placeName type="written">Lintz</placeName>
+               <date when="1680-08-06">6. August 1680</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00366" n="Leopold I. an Konrad Balthasar von Starhemberg am 1680-08-06 (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="not_before">1680-08-06</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr. 58</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <date notBefore="1680-08-06" notAfter="1680-08-23">1680-08-06</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00367" n="Leopold I. an Konrad Balthasar von Starhemberg am 23. August 1680 (Linz)">
+            <noteGrp type="metadata">
+               <note type="not_before">1680-08-23</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr. 59</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-2" ref="https://sws.geonames.org/2772400/">Linz</placeName>
+               <placeName type="written">Lintz</placeName>
+               <date when="1680-08-23">23. August 1680</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00368" n="Leopold I. an Konrad Balthasar von Starhemberg am 23. August 1679 (Liechtenstein)">
+            <noteGrp type="metadata">
+               <note type="not_before">1679-08-23</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr. 61</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-164">Liechtenstein</placeName>
+               <placeName type="written">Liechtenstein</placeName>
+               <date when="1679-08-23">23. August 1679</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00369" n="Leopold I. an Konrad Balthasar von Starhemberg am 3. September 1680 (Linz)">
+            <noteGrp type="metadata">
+               <note type="not_before">1680-09-03</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr. 62</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-2" ref="https://sws.geonames.org/2772400/">Linz</placeName>
+               <placeName type="written">Linzt</placeName>
+               <date when="1680-09-03">3. September 1680</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00370" n="Leopold I. an Konrad Balthasar von Starhemberg am 24. September 1680 (Linz)">
+            <noteGrp type="metadata">
+               <note type="not_before">1680-09-24</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr. 64</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-2" ref="https://sws.geonames.org/2772400/">Linz</placeName>
+               <placeName type="written">Lintz</placeName>
+               <date when="1680-09-24">24. September 1680</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00371" n="Leopold I. an Konrad Balthasar von Starhemberg am 8. Oktober 1680 (Linz)">
+            <noteGrp type="metadata">
+               <note type="not_before">1680-10-08</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr. 66</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-2" ref="https://sws.geonames.org/2772400/">Linz</placeName>
+               <placeName type="written">Lintz</placeName>
+               <date when="1680-10-08">8. Oktober 1680</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
       </profileDesc>
    </teiHeader>
    <text>
