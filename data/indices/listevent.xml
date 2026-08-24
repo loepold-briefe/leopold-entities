@@ -3104,7 +3104,7 @@
                </event>
                <event xml:id="lb-cal-193">
                   <label>1659-02-05</label>
-                  <desc>Den 5. <hi rend="unclear">Februar</hi> ein in Bayrn.</desc>
+                  <desc>Den 5. ein in Bayrn.</desc>
                   <listBibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
@@ -3140,18 +3140,46 @@
                   </listBibl>
                </event>
                <event xml:id="lb-cal-195">
-                  <label>None</label>
-                  <desc>Ein – 8 brieff.</desc>
+                  <label>1659-02-13</label>
+                  <desc>Ein – <hi rend="unclear">!</hi> 8 brieff.</desc>
                   <listBibl>
                      <bibl>
                         <title>Leopold an Unbekannt</title>
-                        <date>None</date>
+                        <date>1659-02-13</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt</title>
+                        <date>1659-02-13</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt</title>
+                        <date>1659-02-13</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt</title>
+                        <date>1659-02-13</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt</title>
+                        <date>1659-02-13</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt</title>
+                        <date>1659-02-13</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt</title>
+                        <date>1659-02-13</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt</title>
+                        <date>1659-02-13</date>
                      </bibl>
                   </listBibl>
                </event>
                <event xml:id="lb-cal-196">
                   <label>1659-03-05</label>
-                  <desc>Den 5. <hi rend="unclear">März</hi> 1 brieff in Bayrn geschriben</desc>
+                  <desc>Den 5. 1 brieff in Bayrn geschriben</desc>
                   <listBibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
@@ -3259,7 +3287,8 @@
                         <date>1659-04-05</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an <rs type="person" ref="#lb-person-79">Raimondo Montecuccoli</rs>[ermittelt]</title>
+                        <title>Leopold an <rs type="person" ref="#lb-person-79">Raimondo Montecuccoli</rs>
+                        </title>
                         <date>1659-04-05</date>
                      </bibl>
                   </listBibl>
@@ -3384,7 +3413,7 @@
                </event>
                <event xml:id="lb-cal-209">
                   <label>1659-05-28</label>
-                  <desc>Den 28. <hi rend="unclear">…</hi> vnd 2 brief in Spanien. 1 in Bayrn vnd 1 Tyrol.</desc>
+                  <desc>Den 28. <hi rend="unclear">…</hi> vnd 2 brief in Spanien, 1 in Bayrn vnd 1 Tyrol.</desc>
                   <listBibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
@@ -3410,8 +3439,7 @@
                </event>
                <event xml:id="lb-cal-210">
                   <label>1659-06-04</label>
-                  <desc>Den 4. <hi rend="unclear">Juni</hi>
-                     <hi rend="unclear">…</hi>. Hernach ein brieff geschriben.</desc>
+                  <desc>Den 4. <hi rend="unclear">…</hi>. Hernach ein brieff geschriben.</desc>
                   <listBibl>
                      <bibl>
                         <title>Leopold an Unbekannt</title>
@@ -3452,7 +3480,7 @@
                </event>
                <event xml:id="lb-cal-212">
                   <label>1659-06-18</label>
-                  <desc>Den 18. ein brieff in Bayrn geschriben</desc>
+                  <desc>Den 18. ein brieff in Bayrn geschriben.</desc>
                   <listBibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
@@ -3463,7 +3491,7 @@
                </event>
                <event xml:id="lb-cal-213">
                   <label>1659-06-25</label>
-                  <desc>Den 25 2 brief in Spanien, 2 in Bayrn vnd 1 in Tyrol.</desc>
+                  <desc>Den 25. 2 brief in Spanien, 2 in Bayrn vnd 1 in Tyrol.</desc>
                   <listBibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
@@ -3505,7 +3533,7 @@
                </event>
                <event xml:id="lb-cal-215">
                   <label>1659-07-09</label>
-                  <desc>Den 9. Juli 2 in Spanien 1 2 in Insprukh vnd 1 auf München.</desc>
+                  <desc>Den 9. Juli 2 in Spanien, 1 2 in Insprukh vnd 1 auf München.</desc>
                   <listBibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
@@ -3564,22 +3592,12 @@
                         </title>
                         <date>1659-07-23</date>
                      </bibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-160">Innsbruck</rs>
-                        </title>
-                        <date>1659-07-23</date>
-                     </bibl>
                   </listBibl>
                </event>
                <event xml:id="lb-cal-218">
                   <label>1659-07-30</label>
                   <desc>Den 30. 3 in Spanien vnd 1 in Bayrn.</desc>
                   <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
-                        </title>
-                        <date>1659-07-30</date>
-                     </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
@@ -3604,7 +3622,7 @@
                </event>
                <event xml:id="lb-cal-219">
                   <label>1659-08-06</label>
-                  <desc>Den 6. <hi rend="unclear">August</hi> 1 in Tyrol, 1 in Bayrn vnd 1 in Spanien.</desc>
+                  <desc>Den 6. 1 in Tyrol, 1 in Bayrn vnd 1 in Spanien.</desc>
                   <listBibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-161">Tirol</rs>
@@ -3665,6 +3683,32 @@
                      </bibl>
                   </listBibl>
                </event>
+               <event xml:id="lb-cal-281">
+                  <label>1659-08-19</label>
+                  <desc>Den 19. 2 in Tyrol, 1 in Spanien vnd 1 in Bayrn.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-161">Tirol</rs>
+                        </title>
+                        <date>1659-08-19</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-161">Tirol</rs>
+                        </title>
+                        <date>1659-08-19</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1659-08-19</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1659-08-19</date>
+                     </bibl>
+                  </listBibl>
+               </event>
                <event xml:id="lb-cal-222">
                   <label>1659-08-22</label>
                   <desc>Den 22. ein auf Wien geschriben.</desc>
@@ -3696,7 +3740,7 @@
                         </title>
                         <date>1659-08-26</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00160">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1659-08-26</date>
@@ -3765,7 +3809,7 @@
                   <label>1659-09-09</label>
                   <desc>Den 9. 3 brieff in Spanien, 1 in Tyrol, 1 auf Munchen vnd 1 auf Wienn geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00159">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1659-09-09</date>
@@ -3817,10 +3861,11 @@
                   <label>1659-09-23</label>
                   <desc>Den 23. 2 brief in Spanien, 2 in Tyrol, 1 a Vienna et 1 a Monaco.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00158">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1659-09-23</date>
+                        <note>das Original datiert in Wirklichkeit vom 22. September.</note>
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
@@ -3883,8 +3928,7 @@
                </event>
                <event xml:id="lb-cal-233">
                   <label>1659-10-03</label>
-                  <desc>Den 3. <hi rend="unclear">Oktober</hi>
-                     <hi rend="unclear">…</hi> vnd 2 brieff auf Wienn geschriben.</desc>
+                  <desc>Den 3. <hi rend="unclear">…</hi> vnd 2 brieff auf Wienn geschriben.</desc>
                   <listBibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
@@ -3902,15 +3946,16 @@
                   <label>1659-10-07</label>
                   <desc>Den 7. dito <hi rend="unclear">…</hi> vnd 2 brief in Spanien, 2 in Tyrol, 1 auf Munchen vnd 1 auf Wienn geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00157">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1659-10-07</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreich</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1659-10-07</date>
+                        <note>Adressatin erwähnt in lb-00157.</note>
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-161">Tirol</rs>
@@ -3980,7 +4025,7 @@
                   <label>1659-10-21</label>
                   <desc>Den 21. 2 in Spanien vnd 1 auf Wienn, auch 1 per Munchen.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00156">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1659-10-21</date>
@@ -4043,10 +4088,11 @@
                   <label>1659-11-03</label>
                   <desc>Den 3. 3 a Madri<hi rend="unclear">d</hi>, 1 Tirol, 1 Monaco, 1 a Viena.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00155">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-72">Madrid</rs>
                         </title>
                         <date>1659-11-03</date>
+                        <note>das Original datiert in Wirklichkeit vom 4. November.</note>
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-72">Madrid</rs>
@@ -4169,7 +4215,7 @@
                   <label>1659-11-18</label>
                   <desc>Den 18. 2 in Spanien, 1 auf Wien vnd 1 in Bayrn.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00151">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1659-11-18</date>
@@ -4269,7 +4315,7 @@
                   <label>1659-12-10</label>
                   <desc>Den 10. 3 in Spanien, 2 in Tyrol vnd 1 in Bayrn.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00153">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1659-12-10</date>
@@ -4316,6 +4362,12 @@
                   <label>1659-12-23</label>
                   <desc>Den 23. 3 in Spanien, 2 in Bayrn vnd 2 in Tyrol vnd 1 Mantua.</desc>
                   <listBibl>
+                     <bibl key="lb-00152">
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1659-12-23</date>
+                        <note>Das Original datiert in Wirklichkeit vom 24. Dezember.</note>
+                     </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
@@ -4323,21 +4375,6 @@
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
-                        </title>
-                        <date>1659-12-23</date>
-                     </bibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
-                        </title>
-                        <date>1659-12-23</date>
-                     </bibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-161">Tirol</rs>
-                        </title>
-                        <date>1659-12-23</date>
-                     </bibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-161">Tirol</rs>
                         </title>
                         <date>1659-12-23</date>
                      </bibl>
@@ -4348,6 +4385,16 @@
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1659-12-23</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-161">Tirol</rs>
+                        </title>
+                        <date>1659-12-23</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-161">Tirol</rs>
                         </title>
                         <date>1659-12-23</date>
                      </bibl>
@@ -4382,262 +4429,106 @@
                <event xml:id="lb-cal-255">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-256">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-257">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-258">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-259">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-260">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-261">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-262">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-263">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-264">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-265">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-266">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-267">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-268">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-269">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-270">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-271">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-272">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-273">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-274">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-275">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-276">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-277">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-278">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-279">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
                <event xml:id="lb-cal-280">
                   <label>None</label>
                   <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
                </event>
             </listEvent>
          </div>
