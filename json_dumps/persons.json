@@ -343,11 +343,11 @@
     "last_name": "",
     "maiden_name": ""
   },
-  "80": {
-    "id": 80,
+  "81": {
+    "id": 81,
     "order": "15.00000000000000000000",
-    "label": "Konrad Balthasar von Starhemberg",
-    "lb_id": "lb-person-80",
+    "label": "Humprecht Johann Czernin von Chudenitz",
+    "lb_id": "lb-person-81",
     "gnd_url": "",
     "place_of_birth": [],
     "date_of_birth": null,
@@ -355,8 +355,8 @@
     "date_of_death": null,
     "wikidata_url": "",
     "mentioned_letters - courier": [],
-    "first_name": "Konrad Balthasar von",
-    "last_name": "Starhemberg",
+    "first_name": "Humprecht Johann",
+    "last_name": "Czernin von Chudenitz",
     "maiden_name": ""
   }
 }

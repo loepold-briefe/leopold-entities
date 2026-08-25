@@ -9894,10 +9894,10 @@
         "maiden_name": null
       }
     ],
-    "not_before": "1659-08-16",
-    "not_after": "1659-08-16",
-    "written_date": "16. August 1659",
-    "date_note": "",
+    "not_before": "1659-08-26",
+    "not_after": "1659-08-26",
+    "written_date": "26. August 1659",
+    "date_note": "Datum unsicher: 16. August?",
     "archiv": [
       {
         "id": 1,
@@ -9964,7 +9964,7 @@
         "endonym": "Prešporok (heute Bratislava)"
       }
     ],
-    "placename_written": "Prespurg",
+    "placename_written": "Prespuerg",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -36813,7 +36813,7 @@
   "452": {
     "id": 452,
     "order": "37.99199999999999732836",
-    "lb_id": "",
+    "lb_id": "lb-00372",
     "sender": [
       {
         "id": 1,
@@ -36896,20 +36896,5735 @@
       "value": "nicht vorhanden",
       "color": "darker-red"
     },
-    "place_of_writing": [
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "453": {
+    "id": 453,
+    "order": "37.99206349206349386805",
+    "lb_id": "lb-00373",
+    "sender": [
       {
-        "id": 69,
-        "order": "11.00000000000000000000",
-        "label": "Prag",
-        "lb_id": "lb-place-69",
-        "geonames_url": "https://www.geonames.org/3067696/prague.html",
-        "latitude": "50.08804",
-        "longitude": "14.42076",
-        "gnd_url": "",
-        "endonym": "Praha"
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
       }
     ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
     "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "454": {
+    "id": 454,
+    "order": "37.99212598425197029428",
+    "lb_id": "lb-00374",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "455": {
+    "id": 455,
+    "order": "37.99218750000000000000",
+    "lb_id": "lb-00375",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "457": {
+    "id": 457,
+    "order": "37.99221789883268485255",
+    "lb_id": "lb-00376",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "458": {
+    "id": 458,
+    "order": "37.99222797927460959500",
+    "lb_id": "lb-00377",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "456": {
+    "id": 456,
+    "order": "37.99224806201550563856",
+    "lb_id": "lb-00378",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "459": {
+    "id": 459,
+    "order": "37.99230769230769055866",
+    "lb_id": "lb-00379",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "460": {
+    "id": 460,
+    "order": "37.99236641221374100041",
+    "lb_id": "lb-00380",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "461": {
+    "id": 461,
+    "order": "37.99242424242424220893",
+    "lb_id": "lb-00381",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "462": {
+    "id": 462,
+    "order": "37.99248120300752162848",
+    "lb_id": "lb-00382",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "463": {
+    "id": 463,
+    "order": "37.99253731343283391197",
+    "lb_id": "lb-00383",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "464": {
+    "id": 464,
+    "order": "37.99259259259259380315",
+    "lb_id": "lb-00384",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "466": {
+    "id": 466,
+    "order": "37.99261992619926076031",
+    "lb_id": "lb-00385",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "467": {
+    "id": 467,
+    "order": "37.99262899262899395580",
+    "lb_id": "lb-00386",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "465": {
+    "id": 465,
+    "order": "37.99264705882352899380",
+    "lb_id": "lb-00387",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "468": {
+    "id": 468,
+    "order": "37.99270072992700875147",
+    "lb_id": "lb-00388",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "469": {
+    "id": 469,
+    "order": "37.99275362318840620901",
+    "lb_id": "lb-00389",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "470": {
+    "id": 470,
+    "order": "37.99280575539568616250",
+    "lb_id": "lb-00390",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "471": {
+    "id": 471,
+    "order": "37.99285714285714021798",
+    "lb_id": "lb-00391",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "472": {
+    "id": 472,
+    "order": "37.99290780141843981710",
+    "lb_id": "lb-00392",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "473": {
+    "id": 473,
+    "order": "37.99295774647887213860",
+    "lb_id": "lb-00393",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "474": {
+    "id": 474,
+    "order": "37.99300699300699335481",
+    "lb_id": "lb-00394",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "475": {
+    "id": 475,
+    "order": "37.99305555555555713454",
+    "lb_id": "lb-00395",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "476": {
+    "id": 476,
+    "order": "37.99310344827586050087",
+    "lb_id": "lb-00396",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "477": {
+    "id": 477,
+    "order": "37.99315068493150704398",
+    "lb_id": "lb-00397",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "478": {
+    "id": 478,
+    "order": "37.99319727891156617261",
+    "lb_id": "lb-00398",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "479": {
+    "id": 479,
+    "order": "37.99324324324324209101",
+    "lb_id": "lb-00399",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "480": {
+    "id": 480,
+    "order": "37.99328859060402407977",
+    "lb_id": "lb-00400",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 74,
+        "order": "10.00000000000000000000",
+        "label": "Konrad Balthasar von Starhemberg",
+        "lb_id": "lb-person-74",
+        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Konrad Balthasar von",
+        "last_name": "Starhemberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
+    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "481": {
+    "id": 481,
+    "order": "37.99333333333333229120",
+    "lb_id": "lb-00401",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1665-04-25",
+    "not_after": "1665-04-25",
+    "written_date": "25. April 1665",
+    "date_note": "A tergo und in der Edition irrtümliche Jahresangabe (1600)ung",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 246r‒247v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Laxenburgo",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "482": {
+    "id": 482,
+    "order": "37.99337748344370879749",
+    "lb_id": "lb-00402",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1661-01-29",
+    "not_after": "1661-01-29",
+    "written_date": "29. Jänner 1661",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 243r‒244v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Vienna",
+    "destination": [
+      {
+        "id": 166,
+        "order": "44.00000000000000000000",
+        "label": "Venedig",
+        "lb_id": "lb-place-166",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": "Venezia"
+      }
+    ],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "483": {
+    "id": 483,
+    "order": "37.99342105263158231310",
+    "lb_id": "lb-00403",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1661-02-04",
+    "not_after": "1661-02-05",
+    "written_date": "4.‒5. Februar 1661",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 239r‒240v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Laxenburg",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "484": {
+    "id": 484,
+    "order": "37.99346405228757816985",
+    "lb_id": "lb-00404",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1661-03-02",
+    "not_after": "1661-03-05",
+    "written_date": "2. und 5. März 1661",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 236r‒237v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Vienna",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "485": {
+    "id": 485,
+    "order": "37.99350649350649433700",
+    "lb_id": "lb-00405",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1661-03-19",
+    "not_after": "1661-03-19",
+    "written_date": "19. März 1661",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 233r‒234v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Viennae",
+    "destination": [
+      {
+        "id": 166,
+        "order": "44.00000000000000000000",
+        "label": "Venedig",
+        "lb_id": "lb-place-166",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": "Venezia"
+      }
+    ],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "486": {
+    "id": 486,
+    "order": "37.99354838709677295583",
+    "lb_id": "lb-00406",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1661-04-04",
+    "not_after": "1661-04-04",
+    "written_date": "4. April 1661",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 230r‒231v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Vienna",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "487": {
+    "id": 487,
+    "order": "37.99358974358974450070",
+    "lb_id": "lb-00407",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1661-04-19",
+    "not_after": "1661-04-19",
+    "written_date": "19. April 1661",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 224r‒225v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Vienna",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "488": {
+    "id": 488,
+    "order": "37.99363057324841008722",
+    "lb_id": "lb-00408",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1661-04-30",
+    "not_after": "1661-04-30",
+    "written_date": "30. April 1661",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 221r‒222v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Laxenburg",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "489": {
+    "id": 489,
+    "order": "37.99367088607594666883",
+    "lb_id": "lb-00409",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1661-05-03",
+    "not_after": "1661-05-03",
+    "written_date": "3. Mai 1661",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 218r‒219v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Laxenburg",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "490": {
+    "id": 490,
+    "order": "37.99371069182389959451",
+    "lb_id": "lb-00410",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1661-05-14",
+    "not_after": "1661-05-14",
+    "written_date": "14. Mai 1661",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 215r‒216v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Laxenburg",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "491": {
+    "id": 491,
+    "order": "37.99374999999999857891",
+    "lb_id": "lb-00411",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1661-06-11",
+    "not_after": "1661-06-11",
+    "written_date": "11. Juni 1661",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 209r‒210v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Laxenburg",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "492": {
+    "id": 492,
+    "order": "37.99378881987577472046",
+    "lb_id": "lb-00412",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1661-07-09",
+    "not_after": "1661-07-09",
+    "written_date": "9. Juli 1661",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 203r‒204v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Dan Widnij",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "493": {
+    "id": 493,
+    "order": "37.99382716049382935353",
+    "lb_id": "lb-00413",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1661-07-24",
+    "not_after": "1661-07-24",
+    "written_date": "24. Juli 1661",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 200‒201v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Vienna",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "494": {
+    "id": 494,
+    "order": "37.99386503067484710527",
+    "lb_id": "lb-00414",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1661-08-26",
+    "not_after": "1661-08-26",
+    "written_date": "26. August 1661",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 197r‒198v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 167,
+        "order": "45.00000000000000000000",
+        "label": "Wolkersdorf",
+        "lb_id": "lb-place-167",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "placename_written": "Wolkerstorf",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "495": {
+    "id": 495,
+    "order": "37.99390243902438868417",
+    "lb_id": "lb-00415",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1661-09-24",
+    "not_after": "1661-09-24",
+    "written_date": "24. September 1661",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 191r‒192v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 70,
+        "order": "12.00000000000000000000",
+        "label": "Ebersdorf",
+        "lb_id": "lb-place-70",
+        "geonames_url": "https://www.geonames.org/12500696/jagd-schloss-ebersdorf.html",
+        "latitude": "48.16005",
+        "longitude": "16.47343",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Eberstorf",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "496": {
+    "id": 496,
+    "order": "37.99393939393939234606",
+    "lb_id": "lb-00416",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1661-10-04",
+    "not_after": "1661-10-04",
+    "written_date": "4. Oktober 1661",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 188r‒189v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "?",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "497": {
+    "id": 497,
+    "order": "37.99397590361445509188",
+    "lb_id": "lb-00417",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1661-10-10",
+    "not_after": "1661-10-10",
+    "written_date": "10. Oktober 1661",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 184r‒v, 186r‒v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Vienna",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "498": {
+    "id": 498,
+    "order": "37.99401197604790070272",
+    "lb_id": "lb-00418",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 185r‒v",
+    "kind": [
+      {
+        "id": 23374,
+        "value": "eigenhändige Beilage",
+        "color": "dark-purple"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "499": {
+    "id": 499,
+    "order": "37.99404761904762040103",
+    "lb_id": "lb-00419",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1661-10-15",
+    "not_after": "1661-10-15",
+    "written_date": "15. Oktober 1661",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 181r‒182v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 70,
+        "order": "12.00000000000000000000",
+        "label": "Ebersdorf",
+        "lb_id": "lb-place-70",
+        "geonames_url": "https://www.geonames.org/12500696/jagd-schloss-ebersdorf.html",
+        "latitude": "48.16005",
+        "longitude": "16.47343",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Eberstorf",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "500": {
+    "id": 500,
+    "order": "37.99408284023668613827",
+    "lb_id": "lb-00420",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1661-10-29",
+    "not_after": "1661-10-29",
+    "written_date": "29. Oktober 1661",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 178r‒179v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Vienna",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "501": {
+    "id": 501,
+    "order": "37.99411764705882177395",
+    "lb_id": "lb-00421",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1661-11-05",
+    "not_after": "1661-11-05",
+    "written_date": "5. November 1661",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 175r‒176v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Vienna",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "502": {
+    "id": 502,
+    "order": "37.99415204678362556479",
+    "lb_id": "lb-00422",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1661-11-23",
+    "not_after": "1661-11-26",
+    "written_date": "23. November 1661",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 171r‒173v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      },
+      {
+        "id": 168,
+        "order": "46.00000000000000000000",
+        "label": "Mauerbach",
+        "lb_id": "lb-place-168",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "placename_written": "Maurbach // Vienna",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "503": {
+    "id": 503,
+    "order": "37.99418604651162922892",
+    "lb_id": "lb-00423",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1662-01-03",
+    "not_after": "1662-01-03",
+    "written_date": "3. Jänner 1662",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 168r‒169v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Vienna",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "504": {
+    "id": 504,
+    "order": "37.99421965317919358540",
+    "lb_id": "lb-00424",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1661-12-24",
+    "not_after": "1661-12-24",
+    "written_date": "24. Dezember 1661",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 158r‒159v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Vienna",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "505": {
+    "id": 505,
+    "order": "37.99425287356321945254",
+    "lb_id": "lb-00425",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1662-01-07",
+    "not_after": "1662-01-07",
+    "written_date": "7. Jänner 1662",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 152r‒153v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Vienna",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "506": {
+    "id": 506,
+    "order": "37.99428571428571643764",
+    "lb_id": "",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 146r‒147v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Vienna",
     "destination": [],
     "hand": [],
     "edition": [],

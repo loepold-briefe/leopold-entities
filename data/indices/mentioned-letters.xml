@@ -3653,7 +3653,7 @@
                <placeName type="destination" key="lb-place-160">Innsbruck</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-404" n="Leopold I. an Unbekannt am 1659-01-08 (Spanien)">
+         <correspDesc xml:id="lb-ml-404" corresp="#lb-00174" n="Leopold I. an Unbekannt am 1659-01-08 (Spanien)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1659-01-08">1659-01-08</date>
@@ -3662,23 +3662,27 @@
                <placeName type="destination" key="lb-place-39" ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spanien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-405" n="Leopold I. an Unbekannt am 1659-01-08 (Spanien)">
+         <correspDesc xml:id="lb-ml-405" n="Leopold I. an Philipp IV. am 1659-01-08 (Spanien)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1659-01-08">1659-01-08</date>
             </correspAction>
             <correspAction type="received">
+               <persName type="addressee_worked_out" key="lb-person-76" ref="https://d-nb.info/gnd/118593870">Philipp IV.</persName>
                <placeName type="destination" key="lb-place-39" ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spanien</placeName>
             </correspAction>
+            <note type="anmerkung">Adressat erwähnt in lb-00174</note>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-406" n="Leopold I. an Unbekannt am 1659-01-08 (Spanien)">
+         <correspDesc xml:id="lb-ml-406" n="Leopold I. an Maria Anna (Mariana) von Österreich am 1659-01-08 (Spanien)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1659-01-08">1659-01-08</date>
             </correspAction>
             <correspAction type="received">
+               <persName type="addressee_worked_out" key="lb-person-75" ref="https://d-nb.info/gnd/118781863">Maria Anna (Mariana) von Österreich</persName>
                <placeName type="destination" key="lb-place-39" ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spanien</placeName>
             </correspAction>
+            <note type="anmerkung">Adressatin erwähnt in lb-00174</note>
          </correspDesc>
          <correspDesc xml:id="lb-ml-407" n="Leopold I. an Unbekannt am 1659-01-08 (Bayern)">
             <correspAction type="sent">
@@ -3761,7 +3765,7 @@
                <placeName type="destination" key="lb-place-69" ref="https://www.geonames.org/3067696/prague.html">Prag</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-416" n="Leopold I. an Unbekannt am 1659-01-29 (Spanien)">
+         <correspDesc xml:id="lb-ml-416" corresp="#lb-00175" n="Leopold I. an Unbekannt am 1659-01-29 (Spanien)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1659-01-29">1659-01-29</date>
@@ -3833,7 +3837,7 @@
                <placeName type="destination" key="lb-place-38" ref="https://www.geonames.org/2951839/bavaria.html">Bayern</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-424" n="Leopold I. an Unbekannt am 1659-02-12 (Spanien)">
+         <correspDesc xml:id="lb-ml-424" corresp="#lb-00176" n="Leopold I. an Unbekannt am 1659-02-12 (Spanien)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1659-02-12">1659-02-12</date>
@@ -3917,7 +3921,7 @@
             <correspAction type="received">
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-607" n="Leopold I. an Unbekannt am 1659-02-13 (Unbekannt)">
+         <correspDesc xml:id="lb-ml-607" corresp="#lb-00177" n="Leopold I. an Unbekannt am 1659-02-13 (Unbekannt)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1659-02-13">1659-02-13</date>
@@ -3942,7 +3946,7 @@
                <placeName type="destination" key="lb-place-38" ref="https://www.geonames.org/2951839/bavaria.html">Bayern</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-429" n="Leopold I. an Unbekannt am 1659-03-12 (Spanien)">
+         <correspDesc xml:id="lb-ml-429" corresp="#lb-00178" n="Leopold I. an Unbekannt am 1659-03-12 (Spanien)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1659-03-12">1659-03-12</date>
@@ -4014,7 +4018,7 @@
                <placeName type="destination" key="lb-place-36" ref="https://www.geonames.org/2867714/munich.html">München</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-437" n="Leopold I. an Unbekannt am 1659-04-02 (Spanien)">
+         <correspDesc xml:id="lb-ml-437" corresp="#lb-00180" n="Leopold I. an Unbekannt am 1659-04-02 (Spanien)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1659-04-02">1659-04-02</date>
@@ -4095,7 +4099,7 @@
                <placeName type="destination" key="lb-place-160">Innsbruck</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-446" n="Leopold I. an Unbekannt am 1659-04-16 (Spanien)">
+         <correspDesc xml:id="lb-ml-446" corresp="#lb-00162" n="Leopold I. an Unbekannt am 1659-04-16 (Spanien)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1659-04-16">1659-04-16</date>
@@ -4122,7 +4126,7 @@
                <placeName type="destination" key="lb-place-36" ref="https://www.geonames.org/2867714/munich.html">München</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-449" n="Leopold I. an Unbekannt am 1659-04-23 (Spanien)">
+         <correspDesc xml:id="lb-ml-449" corresp="#lb-00164" n="Leopold I. an Unbekannt am 1659-04-23 (Spanien)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1659-04-23">1659-04-23</date>
@@ -4185,7 +4189,7 @@
                <placeName type="destination" key="lb-place-37" ref="https://www.geonames.org/3174051/mantua.html">Mantua</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-456" n="Leopold I. an Unbekannt am 1659-05-14 (Unbekannt)">
+         <correspDesc xml:id="lb-ml-456" corresp="#lb-00165" n="Leopold I. an Unbekannt am 1659-05-14 (Unbekannt)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1659-05-14">1659-05-14</date>
@@ -4217,7 +4221,7 @@
             <correspAction type="received">
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-460" n="Leopold I. an Unbekannt am 1659-05-28 (Spanien)">
+         <correspDesc xml:id="lb-ml-460" corresp="#lb-00166" n="Leopold I. an Unbekannt am 1659-05-28 (Spanien)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1659-05-28">1659-05-28</date>
@@ -4261,7 +4265,7 @@
             <correspAction type="received">
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-465" n="Leopold I. an Unbekannt am 1659-06-11 (Spanien)">
+         <correspDesc xml:id="lb-ml-465" corresp="#lb-00168" n="Leopold I. an Unbekannt am 1659-06-11 (Spanien)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1659-06-11">1659-06-11</date>
@@ -4315,7 +4319,7 @@
                <placeName type="destination" key="lb-place-38" ref="https://www.geonames.org/2951839/bavaria.html">Bayern</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-471" n="Leopold I. an Unbekannt am 1659-06-25 (Spanien)">
+         <correspDesc xml:id="lb-ml-471" corresp="#lb-00169" n="Leopold I. an Unbekannt am 1659-06-25 (Spanien)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1659-06-25">1659-06-25</date>
@@ -4369,7 +4373,7 @@
                <placeName type="destination" key="lb-place-37" ref="https://www.geonames.org/3174051/mantua.html">Mantua</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-476" n="Leopold I. an Unbekannt am 1659-07-09 (Spanien)">
+         <correspDesc xml:id="lb-ml-476" corresp="#lb-00170" n="Leopold I. an Unbekannt am 1659-07-09 (Spanien)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1659-07-09">1659-07-09</date>
@@ -4450,7 +4454,7 @@
                <placeName type="destination" key="lb-place-160">Innsbruck</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-485" n="Leopold I. an Unbekannt am 1659-07-30 (Spanien)">
+         <correspDesc xml:id="lb-ml-485" corresp="#lb-00172" n="Leopold I. an Unbekannt am 1659-07-30 (Spanien)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1659-07-30">1659-07-30</date>
@@ -4504,7 +4508,7 @@
                <placeName type="destination" key="lb-place-38" ref="https://www.geonames.org/2951839/bavaria.html">Bayern</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-489" n="Leopold I. an Unbekannt am 1659-08-06 (Spanien)">
+         <correspDesc xml:id="lb-ml-489" corresp="#lb-00182" n="Leopold I. an Unbekannt am 1659-08-06 (Spanien)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1659-08-06">1659-08-06</date>
@@ -4513,7 +4517,7 @@
                <placeName type="destination" key="lb-place-39" ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spanien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-490" n="Leopold I. an Unbekannt am 1659-08-12 (Spanien)">
+         <correspDesc xml:id="lb-ml-490" corresp="#lb-00161" n="Leopold I. an Unbekannt am 1659-08-12 (Spanien)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1659-08-12">1659-08-12</date>

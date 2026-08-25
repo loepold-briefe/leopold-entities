@@ -460,5 +460,49 @@
     "longitude": null,
     "gnd_url": "",
     "endonym": ""
+  },
+  "165": {
+    "id": 165,
+    "order": "43.00000000000000000000",
+    "label": "Neuhaus",
+    "lb_id": "lb-place-165",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": "Jindřichův Hradec"
+  },
+  "166": {
+    "id": 166,
+    "order": "44.00000000000000000000",
+    "label": "Venedig",
+    "lb_id": "lb-place-166",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": "Venezia"
+  },
+  "167": {
+    "id": 167,
+    "order": "45.00000000000000000000",
+    "label": "Wolkersdorf",
+    "lb_id": "lb-place-167",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "168": {
+    "id": 168,
+    "order": "46.00000000000000000000",
+    "label": "Mauerbach",
+    "lb_id": "lb-place-168",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
   }
 }

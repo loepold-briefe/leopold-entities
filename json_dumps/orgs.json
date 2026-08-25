@@ -110,5 +110,29 @@
     ],
     "has_license": "",
     "translation": "Archiv des Nationalmuseums"
+  },
+  "70": {
+    "id": 70,
+    "order": "5.00000000000000000000",
+    "abbr": "SOA Třeboň/JH",
+    "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+    "lb_id": "lb-org-70",
+    "kind": null,
+    "gnd_url": "",
+    "located_in": [
+      {
+        "id": 165,
+        "order": "43.00000000000000000000",
+        "label": "Neuhaus",
+        "lb_id": "lb-place-165",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": "Jindřichův Hradec"
+      }
+    ],
+    "has_license": "",
+    "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
   }
 }

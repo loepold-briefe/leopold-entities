@@ -59,6 +59,12 @@
                      <geo>50.08804 14.42076</geo>
                   </location>
                </org>
+               <org xml:id="lb-org-70">
+                  <orgName>Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</orgName>
+                  <location>
+                     <placeName key="lb-place-165">Neuhaus</placeName>
+                  </location>
+               </org>
             </listOrg>
          </div>
       </body>

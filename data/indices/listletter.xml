@@ -2027,9 +2027,9 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00160" n="Leopold I. an Johann Maximilian von Lamberg am 16. August 1659 (Pressburg)">
+         <correspDesc xml:id="lb-00160" n="Leopold I. an Johann Maximilian von Lamberg am 26. August 1659 (Pressburg)">
             <noteGrp type="metadata">
-               <note type="not_before">1659-08-16</note>
+               <note type="not_before">1659-08-26</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
                <note type="collection">HA Steyr</note>
                <note type="signatur">K. 1233, Fasz. 22, Nr. 366/52, fol. 107r‒108v</note>
@@ -2045,8 +2045,9 @@
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <placeName key="lb-place-71" ref="https://www.geonames.org/3060972/bratislava.html">Pressburg</placeName>
-               <placeName type="written">Prespurg</placeName>
-               <date when="1659-08-16">16. August 1659</date>
+               <placeName type="written">Prespuerg</placeName>
+               <date when="1659-08-26">26. August 1659</date>
+               <note type="date">Datum unsicher: 16. August?</note>
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Johann Maximilian von Lamberg</persName>
@@ -7621,6 +7622,1293 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00372" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00373" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00374" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00375" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00376" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00377" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00378" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00379" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00380" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00381" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00382" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00383" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00384" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00385" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00386" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00387" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00388" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00389" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00390" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00391" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00392" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00393" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00394" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00395" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00396" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00397" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00398" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00399" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00400" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
+               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00401" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 25. April 1665 (Laxenburg)">
+            <noteGrp type="metadata">
+               <note type="not_before">1665-04-25</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 246r‒247v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-108" ref="https://www.geonames.org/2772809/schloss-laxenburg.html">Laxenburg</placeName>
+               <placeName type="written">Laxenburgo</placeName>
+               <date when="1665-04-25">25. April 1665</date>
+               <note type="date">A tergo und in der Edition irrtümliche Jahresangabe (1600)ung</note>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00402" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 29. Jänner 1661 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1661-01-29</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 243r‒244v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Vienna</placeName>
+               <date when="1661-01-29">29. Jänner 1661</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+               <placeName type="destination" key="lb-place-166">Venedig</placeName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00403" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 4.‒5. Februar 1661 (Laxenburg)">
+            <noteGrp type="metadata">
+               <note type="not_before">1661-02-04</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 239r‒240v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-108" ref="https://www.geonames.org/2772809/schloss-laxenburg.html">Laxenburg</placeName>
+               <placeName type="written">Laxenburg</placeName>
+               <date notBefore="1661-02-04" notAfter="1661-02-05">4.‒5. Februar 1661</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00404" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 2. und 5. März 1661 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1661-03-02</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 236r‒237v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Vienna</placeName>
+               <date notBefore="1661-03-02" notAfter="1661-03-05">2. und 5. März 1661</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00405" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 19. März 1661 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1661-03-19</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 233r‒234v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Viennae</placeName>
+               <date when="1661-03-19">19. März 1661</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+               <placeName type="destination" key="lb-place-166">Venedig</placeName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00406" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 4. April 1661 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1661-04-04</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 230r‒231v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Vienna</placeName>
+               <date when="1661-04-04">4. April 1661</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00407" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 19. April 1661 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1661-04-19</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 224r‒225v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Vienna</placeName>
+               <date when="1661-04-19">19. April 1661</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00408" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 30. April 1661 (Laxenburg)">
+            <noteGrp type="metadata">
+               <note type="not_before">1661-04-30</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 221r‒222v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-108" ref="https://www.geonames.org/2772809/schloss-laxenburg.html">Laxenburg</placeName>
+               <placeName type="written">Laxenburg</placeName>
+               <date when="1661-04-30">30. April 1661</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00409" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 3. Mai 1661 (Laxenburg)">
+            <noteGrp type="metadata">
+               <note type="not_before">1661-05-03</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 218r‒219v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-108" ref="https://www.geonames.org/2772809/schloss-laxenburg.html">Laxenburg</placeName>
+               <placeName type="written">Laxenburg</placeName>
+               <date when="1661-05-03">3. Mai 1661</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00410" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 14. Mai 1661 (Laxenburg)">
+            <noteGrp type="metadata">
+               <note type="not_before">1661-05-14</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 215r‒216v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-108" ref="https://www.geonames.org/2772809/schloss-laxenburg.html">Laxenburg</placeName>
+               <placeName type="written">Laxenburg</placeName>
+               <date when="1661-05-14">14. Mai 1661</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00411" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 11. Juni 1661 (Laxenburg)">
+            <noteGrp type="metadata">
+               <note type="not_before">1661-06-11</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 209r‒210v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-108" ref="https://www.geonames.org/2772809/schloss-laxenburg.html">Laxenburg</placeName>
+               <placeName type="written">Laxenburg</placeName>
+               <date when="1661-06-11">11. Juni 1661</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00412" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 9. Juli 1661 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1661-07-09</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 203r‒204v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Dan Widnij</placeName>
+               <date when="1661-07-09">9. Juli 1661</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00413" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 24. Juli 1661 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1661-07-24</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 200‒201v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Vienna</placeName>
+               <date when="1661-07-24">24. Juli 1661</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00414" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 26. August 1661 (Wolkersdorf)">
+            <noteGrp type="metadata">
+               <note type="not_before">1661-08-26</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 197r‒198v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-167">Wolkersdorf</placeName>
+               <placeName type="written">Wolkerstorf</placeName>
+               <date when="1661-08-26">26. August 1661</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00415" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 24. September 1661 (Ebersdorf)">
+            <noteGrp type="metadata">
+               <note type="not_before">1661-09-24</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 191r‒192v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-70" ref="https://www.geonames.org/12500696/jagd-schloss-ebersdorf.html">Ebersdorf</placeName>
+               <placeName type="written">Eberstorf</placeName>
+               <date when="1661-09-24">24. September 1661</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00416" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 4. Oktober 1661 (?)">
+            <noteGrp type="metadata">
+               <note type="not_before">1661-10-04</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 188r‒189v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName type="written">?</placeName>
+               <date when="1661-10-04">4. Oktober 1661</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00417" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 10. Oktober 1661 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1661-10-10</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 184r‒v, 186r‒v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Vienna</placeName>
+               <date when="1661-10-10">10. Oktober 1661</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00418" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 185r‒v</note>
+               <note type="kind">eigenhändige Beilage</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00419" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 15. Oktober 1661 (Ebersdorf)">
+            <noteGrp type="metadata">
+               <note type="not_before">1661-10-15</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 181r‒182v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-70" ref="https://www.geonames.org/12500696/jagd-schloss-ebersdorf.html">Ebersdorf</placeName>
+               <placeName type="written">Eberstorf</placeName>
+               <date when="1661-10-15">15. Oktober 1661</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00420" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 29. Oktober 1661 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1661-10-29</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 178r‒179v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Vienna</placeName>
+               <date when="1661-10-29">29. Oktober 1661</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00421" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 5. November 1661 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1661-11-05</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 175r‒176v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Vienna</placeName>
+               <date when="1661-11-05">5. November 1661</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00422" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 23. November 1661 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1661-11-23</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 171r‒173v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName key="lb-place-168">Mauerbach</placeName>
+               <placeName type="written">Maurbach // Vienna</placeName>
+               <date notBefore="1661-11-23" notAfter="1661-11-26">23. November 1661</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00423" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 3. Jänner 1662 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1662-01-03</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 168r‒169v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Vienna</placeName>
+               <date when="1662-01-03">3. Jänner 1662</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00424" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 24. Dezember 1661 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1661-12-24</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 158r‒159v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Vienna</placeName>
+               <date when="1661-12-24">24. Dezember 1661</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00425" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 7. Jänner 1662 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1662-01-07</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 152r‒153v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Vienna</placeName>
+               <date when="1662-01-07">7. Jänner 1662</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
             </correspAction>
             <!--  -->
          </correspDesc>

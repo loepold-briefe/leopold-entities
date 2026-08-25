@@ -234,6 +234,18 @@
                <place xml:id="lb-place-164">
                   <placeName>Liechtenstein</placeName>
                </place>
+               <place xml:id="lb-place-165">
+                  <placeName>Neuhaus</placeName>
+               </place>
+               <place xml:id="lb-place-166">
+                  <placeName>Venedig</placeName>
+               </place>
+               <place xml:id="lb-place-167">
+                  <placeName>Wolkersdorf</placeName>
+               </place>
+               <place xml:id="lb-place-168">
+                  <placeName>Mauerbach</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
