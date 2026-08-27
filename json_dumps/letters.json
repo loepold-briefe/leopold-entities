@@ -39679,58 +39679,58 @@
     ],
     "receiver": [
       {
-        "id": 74,
-        "order": "10.00000000000000000000",
-        "label": "Konrad Balthasar von Starhemberg",
-        "lb_id": "lb-person-74",
-        "gnd_url": "https://d-nb.info/gnd/117216089",
+        "id": 82,
+        "order": "16.00000000000000000000",
+        "label": "Georg Ludwig von Sinzendorf",
+        "lb_id": "lb-person-82",
+        "gnd_url": "",
         "place_of_birth": [],
         "date_of_birth": null,
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
         "mentioned_letters - courier": [],
-        "first_name": "Konrad Balthasar von",
-        "last_name": "Starhemberg",
-        "maiden_name": null
+        "first_name": "Georg Ludwig von",
+        "last_name": "Sinzendorf",
+        "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1676-06-13",
+    "not_after": "1676-06-13",
+    "written_date": "13. Juni 1676",
     "date_note": "",
     "archiv": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "abbr": "OÖLA",
-        "label": "Oberösterreichisches Landesarchiv",
-        "lb_id": "lb-org-1",
+        "id": 72,
+        "order": "3.50000000000000000000",
+        "abbr": "ÖStA, FHKA",
+        "label": "Österreichisches Staatsarchiv, Finanz- und Hofkammerarchiv",
+        "lb_id": "lb-org-72",
         "kind": {
           "id": 23014,
           "value": "archiv/library",
           "color": "dark-cyan"
         },
-        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "gnd_url": "",
         "located_in": [
           {
-            "id": 2,
-            "order": "2.00000000000000000000",
-            "label": "Linz",
-            "lb_id": "lb-place-2",
-            "geonames_url": "https://sws.geonames.org/2772400/",
-            "latitude": "48.30639",
-            "longitude": "14.28611",
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
             "gnd_url": "",
             "endonym": null
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "has_license": "",
         "translation": null
       }
     ],
-    "collection": "HA Eferding-Starhemberg, Bestand Riedegg",
-    "signatur": "Sch. 69, Sign. A18, Fasz. 1, Nr.",
+    "collection": "Niederösterreichische Kammer",
+    "signatur": "K. 1308 (r. Nr. 423), 12. September 1676, fol. 138r‒139v",
     "kind": [
       {
         "id": 23015,
@@ -39752,8 +39752,20 @@
       "value": "nicht vorhanden",
       "color": "darker-red"
     },
-    "place_of_writing": [],
-    "placename_written": "",
+    "place_of_writing": [
+      {
+        "id": 151,
+        "order": "29.00000000000000000000",
+        "label": "Wiener Neudorf",
+        "lb_id": "lb-place-151",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Neydorff",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -42532,6 +42544,1754 @@
   "506": {
     "id": 506,
     "order": "37.99428571428571643764",
+    "lb_id": "lb-00426",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1662-01-14",
+    "not_after": "1662-01-14",
+    "written_date": "14. Jänner 1662",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 149r‒150v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Vienna",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "507": {
+    "id": 507,
+    "order": "37.99431818181817988034",
+    "lb_id": "lb-00427",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1662-01-17",
+    "not_after": "1662-01-17",
+    "written_date": "17. Jänner 1662",
+    "date_note": "unsicher",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 146r‒147v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Widni",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "508": {
+    "id": 508,
+    "order": "37.99435028248587542521",
+    "lb_id": "lb-00428",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1662-01-28",
+    "not_after": "1662-01-28",
+    "written_date": "28. Jänner 1662",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 137r‒138v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Vienna",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "509": {
+    "id": 509,
+    "order": "37.99438202247191043170",
+    "lb_id": "lb-00429",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1662-02-05",
+    "not_after": "1662-02-05",
+    "written_date": "5. Februar 1662",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 133r‒v, 135r‒v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Vienna",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "510": {
+    "id": 510,
+    "order": "37.99441340782122722430",
+    "lb_id": "lb-00430",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 134r‒v",
+    "kind": [
+      {
+        "id": 23374,
+        "value": "eigenhändige Beilage",
+        "color": "dark-purple"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "511": {
+    "id": 511,
+    "order": "37.99444444444444712872",
+    "lb_id": "lb-00431",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1662-02-25",
+    "not_after": "1662-02-25",
+    "written_date": "25. Februar 1662",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 129r‒131v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Vienna",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "512": {
+    "id": 512,
+    "order": "37.99447513812154397783",
+    "lb_id": "lb-00432",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1662-03-04",
+    "not_after": "1662-03-04",
+    "written_date": "4. März 1662",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 126r‒127v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Vienna",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "513": {
+    "id": 513,
+    "order": "37.99450549450549630137",
+    "lb_id": "lb-00433",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1662-03-10",
+    "not_after": "1662-03-10",
+    "written_date": "10. März 1662",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 123r‒124v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Vienna",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "514": {
+    "id": 514,
+    "order": "37.99453551912568372018",
+    "lb_id": "lb-00434",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1662-04-08",
+    "not_after": "1662-04-08",
+    "written_date": "8. April 1662",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 120r‒121v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Vienna",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "515": {
+    "id": 515,
+    "order": "37.99456521739130465676",
+    "lb_id": "lb-00435",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1662-04-29",
+    "not_after": "1662-04-29",
+    "written_date": "29. April 1662",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 117r‒118v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Laxenburg",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "516": {
+    "id": 516,
+    "order": "37.99459459459459509389",
+    "lb_id": "lb-00436",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1662-05-20",
+    "not_after": "1662-05-20",
+    "written_date": "20. Mai 1662",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 114r‒115v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Vienna",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "517": {
+    "id": 517,
+    "order": "37.99462365591397627895",
+    "lb_id": "lb-00437",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1662-05-24",
+    "not_after": "1662-05-24",
+    "written_date": "24. Mai 1662",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 111r‒112v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 71,
+        "order": "13.00000000000000000000",
+        "label": "Pressburg",
+        "lb_id": "lb-place-71",
+        "geonames_url": "https://www.geonames.org/3060972/bratislava.html",
+        "latitude": "48.14816",
+        "longitude": "17.10674",
+        "gnd_url": "",
+        "endonym": "Prešporok (heute Bratislava)"
+      }
+    ],
+    "placename_written": "Posonio",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "518": {
+    "id": 518,
+    "order": "37.99465240641711005765",
+    "lb_id": "lb-00438",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1662-06-02",
+    "not_after": "1662-06-02",
+    "written_date": "2. Juni 1662",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 108r‒109v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 71,
+        "order": "13.00000000000000000000",
+        "label": "Pressburg",
+        "lb_id": "lb-place-71",
+        "geonames_url": "https://www.geonames.org/3060972/bratislava.html",
+        "latitude": "48.14816",
+        "longitude": "17.10674",
+        "gnd_url": "",
+        "endonym": "Prešporok (heute Bratislava)"
+      }
+    ],
+    "placename_written": "Posonij",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "519": {
+    "id": 519,
+    "order": "37.99468085106382631011",
+    "lb_id": "lb-00439",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1662-06-23",
+    "not_after": "1662-06-23",
+    "written_date": "23. Juni 1662",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 105r‒106v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 71,
+        "order": "13.00000000000000000000",
+        "label": "Pressburg",
+        "lb_id": "lb-place-71",
+        "geonames_url": "https://www.geonames.org/3060972/bratislava.html",
+        "latitude": "48.14816",
+        "longitude": "17.10674",
+        "gnd_url": "",
+        "endonym": "Prešporok (heute Bratislava)"
+      }
+    ],
+    "placename_written": "Posonia",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "520": {
+    "id": 520,
+    "order": "37.99470899470899354355",
+    "lb_id": "lb-00440",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1662-06-30",
+    "not_after": "1662-06-30",
+    "written_date": "30. Juni 1662",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 102r‒103v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 71,
+        "order": "13.00000000000000000000",
+        "label": "Pressburg",
+        "lb_id": "lb-place-71",
+        "geonames_url": "https://www.geonames.org/3060972/bratislava.html",
+        "latitude": "48.14816",
+        "longitude": "17.10674",
+        "gnd_url": "",
+        "endonym": "Prešporok (heute Bratislava)"
+      }
+    ],
+    "placename_written": "Posonia",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "521": {
+    "id": 521,
+    "order": "37.99473684210526158722",
+    "lb_id": "",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 247, fol. 146r‒147v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Vienna",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "522": {
+    "id": 522,
+    "order": "37.99476439790576165478",
     "lb_id": "",
     "sender": [
       {

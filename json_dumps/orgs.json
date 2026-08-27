@@ -83,6 +83,34 @@
     "has_license": "",
     "translation": null
   },
+  "72": {
+    "id": 72,
+    "order": "3.50000000000000000000",
+    "abbr": "ÖStA, FHKA",
+    "label": "Österreichisches Staatsarchiv, Finanz- und Hofkammerarchiv",
+    "lb_id": "lb-org-72",
+    "kind": {
+      "id": 23014,
+      "value": "archiv/library",
+      "color": "dark-cyan"
+    },
+    "gnd_url": "",
+    "located_in": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "has_license": "",
+    "translation": null
+  },
   "36": {
     "id": 36,
     "order": "4.00000000000000000000",
@@ -134,5 +162,17 @@
     ],
     "has_license": "",
     "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+  },
+  "71": {
+    "id": 71,
+    "order": "6.00000000000000000000",
+    "abbr": "",
+    "label": "",
+    "lb_id": "lb-org-71",
+    "kind": null,
+    "gnd_url": "",
+    "located_in": [],
+    "has_license": "",
+    "translation": ""
   }
 }

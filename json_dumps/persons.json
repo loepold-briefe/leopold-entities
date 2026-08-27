@@ -358,5 +358,21 @@
     "first_name": "Humprecht Johann",
     "last_name": "Czernin von Chudenitz",
     "maiden_name": ""
+  },
+  "82": {
+    "id": 82,
+    "order": "16.00000000000000000000",
+    "label": "Georg Ludwig von Sinzendorf",
+    "lb_id": "lb-person-82",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [],
+    "first_name": "Georg Ludwig von",
+    "last_name": "Sinzendorf",
+    "maiden_name": ""
   }
 }

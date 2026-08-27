@@ -8241,11 +8241,12 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00400" n="Leopold I. an Konrad Balthasar von Starhemberg am Unbekannt (Unbekannt)">
+         <correspDesc xml:id="lb-00400" n="Leopold I. an Georg Ludwig von Sinzendorf am 13. Juni 1676 (Wiener Neudorf)">
             <noteGrp type="metadata">
-               <note type="archiv">Oberösterreichisches Landesarchiv</note>
-               <note type="collection">HA Eferding-Starhemberg, Bestand Riedegg</note>
-               <note type="signatur">Sch. 69, Sign. A18, Fasz. 1, Nr.</note>
+               <note type="not_before">1676-06-13</note>
+               <note type="archiv">Österreichisches Staatsarchiv, Finanz- und Hofkammerarchiv</note>
+               <note type="collection">Niederösterreichische Kammer</note>
+               <note type="signatur">K. 1308 (r. Nr. 423), 12. September 1676, fol. 138r‒139v</note>
                <note type="kind">Original</note>
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
@@ -8253,13 +8254,16 @@
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
                <note type="entities">False</note>
-               <note type="archiv_abbr">OÖLA</note>
+               <note type="archiv_abbr">ÖStA, FHKA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-151">Wiener Neudorf</placeName>
+               <placeName type="written">Neydorff</placeName>
+               <date when="1676-06-13">13. Juni 1676</date>
             </correspAction>
             <correspAction type="received">
-               <persName key="lb-person-74" ref="https://d-nb.info/gnd/117216089">Konrad Balthasar von Starhemberg</persName>
+               <persName key="lb-person-82">Georg Ludwig von Sinzendorf</persName>
             </correspAction>
             <!--  -->
          </correspDesc>
@@ -8906,6 +8910,393 @@
                <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <placeName type="written">Vienna</placeName>
                <date when="1662-01-07">7. Jänner 1662</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00426" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 14. Jänner 1662 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1662-01-14</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 149r‒150v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Vienna</placeName>
+               <date when="1662-01-14">14. Jänner 1662</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00427" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 17. Jänner 1662 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1662-01-17</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 146r‒147v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Widni</placeName>
+               <date when="1662-01-17">17. Jänner 1662</date>
+               <note type="date">unsicher</note>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00428" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 28. Jänner 1662 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1662-01-28</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 137r‒138v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Vienna</placeName>
+               <date when="1662-01-28">28. Jänner 1662</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00429" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 5. Februar 1662 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1662-02-05</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 133r‒v, 135r‒v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Vienna</placeName>
+               <date when="1662-02-05">5. Februar 1662</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00430" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am Unbekannt (Unbekannt)">
+            <noteGrp type="metadata">
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 134r‒v</note>
+               <note type="kind">eigenhändige Beilage</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00431" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 25. Februar 1662 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1662-02-25</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 129r‒131v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Vienna</placeName>
+               <date when="1662-02-25">25. Februar 1662</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00432" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 4. März 1662 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1662-03-04</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 126r‒127v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Vienna</placeName>
+               <date when="1662-03-04">4. März 1662</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00433" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 10. März 1662 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1662-03-10</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 123r‒124v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Vienna</placeName>
+               <date when="1662-03-10">10. März 1662</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00434" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 8. April 1662 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1662-04-08</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 120r‒121v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Vienna</placeName>
+               <date when="1662-04-08">8. April 1662</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00435" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 29. April 1662 (Laxenburg)">
+            <noteGrp type="metadata">
+               <note type="not_before">1662-04-29</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 117r‒118v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-108" ref="https://www.geonames.org/2772809/schloss-laxenburg.html">Laxenburg</placeName>
+               <placeName type="written">Laxenburg</placeName>
+               <date when="1662-04-29">29. April 1662</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00436" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 20. Mai 1662 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1662-05-20</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 114r‒115v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Vienna</placeName>
+               <date when="1662-05-20">20. Mai 1662</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00437" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 24. Mai 1662 (Pressburg)">
+            <noteGrp type="metadata">
+               <note type="not_before">1662-05-24</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 111r‒112v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-71" ref="https://www.geonames.org/3060972/bratislava.html">Pressburg</placeName>
+               <placeName type="written">Posonio</placeName>
+               <date when="1662-05-24">24. Mai 1662</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00438" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 2. Juni 1662 (Pressburg)">
+            <noteGrp type="metadata">
+               <note type="not_before">1662-06-02</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 108r‒109v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-71" ref="https://www.geonames.org/3060972/bratislava.html">Pressburg</placeName>
+               <placeName type="written">Posonij</placeName>
+               <date when="1662-06-02">2. Juni 1662</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00439" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 23. Juni 1662 (Pressburg)">
+            <noteGrp type="metadata">
+               <note type="not_before">1662-06-23</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 105r‒106v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-71" ref="https://www.geonames.org/3060972/bratislava.html">Pressburg</placeName>
+               <placeName type="written">Posonia</placeName>
+               <date when="1662-06-23">23. Juni 1662</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00440" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 30. Juni 1662 (Pressburg)">
+            <noteGrp type="metadata">
+               <note type="not_before">1662-06-30</note>
+               <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
+               <note type="collection">RA Černínů</note>
+               <note type="signatur">K. 247, fol. 102r‒103v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">ita</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">SOA Třeboň/JH</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-71" ref="https://www.geonames.org/3060972/bratislava.html">Pressburg</placeName>
+               <placeName type="written">Posonia</placeName>
+               <date when="1662-06-30">30. Juni 1662</date>
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>

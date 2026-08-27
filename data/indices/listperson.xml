@@ -213,6 +213,13 @@
                      <surname>Czernin von Chudenitz</surname>
                   </persName>
                </person>
+               <person xml:id="lb-person-82" n="Georg Ludwig von Sinzendorf">
+                  <persName type="preferred">Georg Ludwig von Sinzendorf</persName>
+                  <persName type="parts">
+                     <forename>Georg Ludwig von</forename>
+                     <surname>Sinzendorf</surname>
+                  </persName>
+               </person>
             </listPerson>
          </div>
       </body>
