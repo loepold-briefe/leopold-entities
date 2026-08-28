@@ -504,5 +504,27 @@
     "longitude": null,
     "gnd_url": "",
     "endonym": ""
+  },
+  "169": {
+    "id": 169,
+    "order": "47.00000000000000000000",
+    "label": "Ort",
+    "lb_id": "lb-place-169",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "170": {
+    "id": 170,
+    "order": "48.00000000000000000000",
+    "label": "Wilhering",
+    "lb_id": "lb-place-170",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
   }
 }

@@ -246,6 +246,12 @@
                <place xml:id="lb-place-168">
                   <placeName>Mauerbach</placeName>
                </place>
+               <place xml:id="lb-place-169">
+                  <placeName>Ort</placeName>
+               </place>
+               <place xml:id="lb-place-170">
+                  <placeName>Wilhering</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

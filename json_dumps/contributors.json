@@ -169,5 +169,14 @@
     "first_name": "Tobias",
     "uri": "",
     "lb-id": "lb-contributor_19"
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "label": "Franz-Stefan Seitschek",
+    "last_name": "Seitschek",
+    "first_name": "Franz-Stefan",
+    "uri": "",
+    "lb-id": "lb-contributor_20"
   }
 }
