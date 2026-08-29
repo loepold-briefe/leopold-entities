@@ -252,6 +252,9 @@
                <place xml:id="lb-place-170">
                   <placeName>Wilhering</placeName>
                </place>
+               <place xml:id="lb-place-171">
+                  <placeName>Klagenfurt</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

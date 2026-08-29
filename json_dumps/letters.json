@@ -39888,10 +39888,16 @@
     "placename_written": "Laxenburgo",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
-    "number": "",
-    "page": "",
+    "number": "1",
+    "page": "45f.",
     "received_place": [],
     "received_date": null,
     "images_on_share": false,
@@ -40010,7 +40016,13 @@
       }
     ],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -40120,7 +40132,13 @@
     "placename_written": "Laxenburg",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -40230,7 +40248,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -40352,7 +40376,13 @@
       }
     ],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -40462,7 +40492,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -40572,7 +40608,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -40682,7 +40724,13 @@
     "placename_written": "Laxenburg",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -40792,7 +40840,13 @@
     "placename_written": "Laxenburg",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -40902,7 +40956,13 @@
     "placename_written": "Laxenburg",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -41012,7 +41072,13 @@
     "placename_written": "Laxenburg",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -41122,7 +41188,13 @@
     "placename_written": "Dan Widnij",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -41232,7 +41304,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -41342,7 +41420,13 @@
     "placename_written": "Wolkerstorf",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -41452,7 +41536,13 @@
     "placename_written": "Eberstorf",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -41550,7 +41640,13 @@
     "placename_written": "?",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -41660,7 +41756,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -41758,7 +41860,13 @@
     "placename_written": "",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -41868,7 +41976,13 @@
     "placename_written": "Eberstorf",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -41978,7 +42092,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -42088,7 +42208,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -42209,7 +42335,13 @@
     "placename_written": "Maurbach // Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -42319,7 +42451,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -42429,7 +42567,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -42539,7 +42683,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -42649,7 +42799,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -42759,7 +42915,13 @@
     "placename_written": "Widni",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -42869,7 +43031,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -42979,7 +43147,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -43077,7 +43251,13 @@
     "placename_written": "",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -43187,7 +43367,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -43297,7 +43483,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -43407,7 +43599,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -43517,7 +43715,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -43627,7 +43831,13 @@
     "placename_written": "Laxenburg",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -43737,7 +43947,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -43847,7 +44063,13 @@
     "placename_written": "Posonio",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -43957,7 +44179,13 @@
     "placename_written": "Posonij",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -44067,7 +44295,13 @@
     "placename_written": "Posonia",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -44177,7 +44411,13 @@
     "placename_written": "Posonia",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -44287,7 +44527,13 @@
     "placename_written": "Possonia",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -44397,7 +44643,13 @@
     "placename_written": "Possonia",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -44495,7 +44747,13 @@
     "placename_written": "",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -44605,7 +44863,13 @@
     "placename_written": "Ordth",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -44715,7 +44979,13 @@
     "placename_written": "Posonia",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -44825,7 +45095,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -44935,7 +45211,13 @@
     "placename_written": "Neystatt",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -45045,7 +45327,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -45155,7 +45443,13 @@
     "placename_written": "Widni",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -45265,7 +45559,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -45375,7 +45675,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -45485,7 +45791,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -45595,7 +45907,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -45705,7 +46023,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -45815,7 +46139,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -45925,7 +46255,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -46035,7 +46371,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -46145,7 +46487,13 @@
     "placename_written": "Wydni",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -46255,7 +46603,13 @@
     "placename_written": "Laxenburg",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -46311,7 +46665,13 @@
     "placename_written": "",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -46421,7 +46781,13 @@
     "placename_written": "Laxenburg",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -46531,7 +46897,13 @@
     "placename_written": "Laxenburg",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -46641,7 +47013,13 @@
     "placename_written": "Laxenburg",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -46751,7 +47129,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -46861,7 +47245,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -46971,7 +47361,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -47081,7 +47477,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -47191,7 +47593,13 @@
     "placename_written": "Vienna",
     "destination": [],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -47313,7 +47721,13 @@
       }
     ],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -47435,7 +47849,13 @@
       }
     ],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -47557,7 +47977,13 @@
       }
     ],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -47679,7 +48105,13 @@
       }
     ],
     "hand": [],
-    "edition": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "volume": "",
     "number": "",
     "page": "",
@@ -47694,6 +48126,122 @@
   "556": {
     "id": 556,
     "order": "37.99547511312216840906",
+    "lb_id": "lb-00473",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 81,
+        "order": "15.00000000000000000000",
+        "label": "Humprecht Johann Czernin von Chudenitz",
+        "lb_id": "lb-person-81",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Humprecht Johann",
+        "last_name": "Czernin von Chudenitz",
+        "maiden_name": ""
+      }
+    ],
+    "not_before": "1660-08-30",
+    "not_after": "1660-08-30",
+    "written_date": "30. August 1660",
+    "date_note": "Datum derzeit abgeschnitten",
+    "archiv": [
+      {
+        "id": 70,
+        "order": "5.00000000000000000000",
+        "abbr": "SOA Třeboň/JH",
+        "label": "Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek",
+        "lb_id": "lb-org-70",
+        "kind": null,
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 165,
+            "order": "43.00000000000000000000",
+            "label": "Neuhaus",
+            "lb_id": "lb-place-165",
+            "geonames_url": "",
+            "latitude": null,
+            "longitude": null,
+            "gnd_url": "",
+            "endonym": "Jindřichův Hradec"
+          }
+        ],
+        "has_license": "",
+        "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
+      }
+    ],
+    "collection": "RA Černínů",
+    "signatur": "K. 135, fol. 195r‒196v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23021,
+      "value": "ita",
+      "color": "deep-dark-orange"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 171,
+        "order": "49.00000000000000000000",
+        "label": "Klagenfurt",
+        "lb_id": "lb-place-171",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "placename_written": "Clagenfurt",
+    "destination": [],
+    "hand": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "KALISTA 1936",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "volume": "",
+    "number": "2",
+    "page": "46f.",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "559": {
+    "id": 559,
+    "order": "37.99549549549549709582",
     "lb_id": "",
     "sender": [
       {
@@ -47751,7 +48299,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 247, fol. r‒v",
+    "signatur": "K. fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -47797,7 +48345,7 @@
     "received_date": null,
     "images_on_share": false,
     "contributors": [],
-    "credits": null,
+    "credits": "",
     "entities": false,
     "related_letters": []
   },

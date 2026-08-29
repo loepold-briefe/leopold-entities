@@ -526,5 +526,16 @@
     "longitude": null,
     "gnd_url": "",
     "endonym": ""
+  },
+  "171": {
+    "id": 171,
+    "order": "49.00000000000000000000",
+    "label": "Klagenfurt",
+    "lb_id": "lb-place-171",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
   }
 }
